@@ -5,14 +5,15 @@ import { getFirestore } from "firebase/firestore";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
-  projectId: import.meta.env.VITE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_APP_ID,
+  apiKey: "AIzaSyA1zhvsZHlRTynqMCETzGrx2qZ8CyrSXCE",
+  authDomain: "aspproject-6b683.firebaseapp.com",
+  databaseURL: "https://aspproject-6b683-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "aspproject-6b683",
+  storageBucket: "aspproject-6b683.appspot.com",
+  messagingSenderId: "580257877299",
+  appId: "1:580257877299:web:31001b2e0c46c059d28246",
+  measurementId: "G-XL7Q7108H6"
 };
 
 // Initialize Firebase
