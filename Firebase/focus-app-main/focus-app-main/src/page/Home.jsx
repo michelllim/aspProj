@@ -46,11 +46,7 @@ const Home = () => {
         <section className="text-white pt-10 pb-24 px-3  md:pt-10 md:pb-20">
 
             <section className="grid grid-cols-1 space-y-6 md:space-y-0 md:gap-4">
-                <Card className="py-4 col-span-2"> 
-                    <img src="../components/assets/testkit.png" alt="HTML" width="350" height="250"> </img>
-                
-                </Card>
-
+                <Pomodoro />
 
                 {/* notes */}
                 <Card className="py-4 col-span-2">

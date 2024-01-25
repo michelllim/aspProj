@@ -1,2 +1,0 @@
-# aspProj
- sds

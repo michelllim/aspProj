@@ -2,13 +2,10 @@ import React, { useState, useEffect } from 'react';
 import bg from './components/assets/bg.png';
 // import Sidebar from './components/widgets/Sidebar';
 import Home from './page/Home';
-// import Notes from './page/Notes';
+import Notes from './page/Notes';
 import Signup from './page/Signup';
 import Login from './page/Login';
-//add pages
-
 import { Routes, Route } from 'react-router-dom';
-
 // import Navbar from './components/widgets/Navbar';
 import Layout from './components/widgets/Layout';
 import { BrowserRouter as Router } from 'react-router-dom';
