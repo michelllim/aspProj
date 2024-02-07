@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700&family=Poppins:wght@100;400;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.todo-weekly {
+  box-shadow: rgba(0, 0, 0, 0.55) 0px 5px 15px;
+  background: #1e272e;
+  height: 200px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #1e272e;
+}
+
+.ck.ck-editor__main {
+  color: #334;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.sidebar-width {
+  width: 18rem;
+}
+
+.main-width {
+  padding-left: 20rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .sidebar-width {
+    width: 0;
+  }
+
+  .main-width {
+    padding-left: 0rem;
+  }
+}
+
+@media only screen and (max-width: 330px) {
+  .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .sidebar-width {
+    width: 0;
+  }
+
+  .main-width {
+    padding-left: 0rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+  .grid-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .sidebar-width {
+    width: 10rem;
+  }
+
+  .main-width {
+    padding-left: 12rem;
+  }
+}
+
+.container {
+  display: flex; /* Enables flexbox layout */
+  align-items: center; /* Centers items vertically */
+  justify-content: flex-start; /* Aligns items to the left */
+  padding: 20px;
+  width: 100%; /* Ensures the container fills the full width of its parent */
+}
+
+.custom-image {
+  max-width: 100%; /* Makes the image responsive */
+  height: auto; /* Maintains aspect ratio */
+  flex-shrink: 0; /* Prevents the image from shrinking */
+  margin-right: 20px; /* Space between the image and the next content */
+}
+
+.card-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  /* Set a specific width or max-width if needed */
+}
+
+
+.btn-large {
+  padding: 12px 24px;
+  font-size: 1.25rem;
+  background-color: #2ec4b6; /* Button background color */
+  color: #ffffff; /* Text color */
+  border-radius: 8px; /* Rounded corners */
+  border: 2px solid #ffffff; /* Example: 2px solid border with color #333 */
+  cursor: pointer;
+  transition: all 0.3s ease; /* Optional: Adds a smooth transition effect on hover */
+}
+
+.btn-large:hover {
+  background-color: #31ada1; /* Slightly darker shade of the original color for hover effect */
+  border-color: #efeff9; /* Optional: Change the border color on hover */
+}
+
+/* Ensure the .container class takes up the full width if not already defined */
+.container {
+  width: 100%;
+}
+
+
