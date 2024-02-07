@@ -5,6 +5,7 @@ import Home from './page/Home';
 // import Notes from './page/Notes';
 import Signup from './page/Signup';
 import Login from './page/Login';
+import Survey from './page/Survey';
 import Instructions from './page/Instructions';
 import Prediction from './page/Prediction';
 import { Routes, Route } from 'react-router-dom';
@@ -48,6 +49,13 @@ function App() {
                   path="/notes/:id"
                   element={<NoteDetail />}
                 /> */}
+
+                <Route
+                  path="/survey"
+                  element={
+                    < Survey />
+                  }
+                />
 
                 <Route
                   path="/instructions"

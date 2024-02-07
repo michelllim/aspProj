@@ -127,4 +127,41 @@ body {
   width: 100%;
 }
 
-
+.surveyheader{
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+.surveycontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.surveylabelcontainer{
+  flex: 1;
+  max-width: 200px;
+  margin-right: 10px;
+  text-align: right;
+}
+.surveyinputcontainner{
+  flex: 1;
+  max-width: 300px;
+}
+.surveyinputbox{
+  width: 100%;
+  
+}
+.surveybuttoncontainer{
+  text-align: center;
+}
+.surveybutton{
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 200px;
+  background-color: teal;
+  width: 70px;
+  height: 30px;
+  border-radius: 30px;
+}
