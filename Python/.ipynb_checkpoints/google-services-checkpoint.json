@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580257877299",
+    "firebase_url": "https://aspproject-6b683-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aspproject-6b683",
+    "storage_bucket": "aspproject-6b683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580257877299:android:32e6d4cae538c9b3d28246",
+        "android_client_info": {
+          "package_name": "com.google.firebase.asp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580257877299-kp8e01cva51oqo6kdaurrscmk2apo79e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.asp",
+            "certificate_hash": "9aabefeef59a09891f9a9907ae87ed36cdca26a7"
+          }
+        },
+        {
+          "client_id": "580257877299-1r7elqigf0fijiur1vnuk24i79j06tk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVks8dpbbq70L8C6fFRWNfqzYhROCnPL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580257877299-1r7elqigf0fijiur1vnuk24i79j06tk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

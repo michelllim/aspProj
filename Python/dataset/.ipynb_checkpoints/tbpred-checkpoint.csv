@@ -1,0 +1,2001 @@
+Name,Gender,Age,Country of Birth,Smoking,Alcohol,Family History,Close Contact,Health Conditions,Occupational Risks,Physical Activity,Diet,Air Pollution,Long Term Cough,Chest Pain,Appetite Loss,Weight Loss,Chills,Fatigue,Night Sweat,Cough Blood,Fevers,Nitric Oxide,tb_pred
+Kathleen Jordan DDS,male,36,Ethiopia,0,3,0,1,1,1,0,1,0,1,1,0,0,1,0,1,1,1,58.43,1
+Lee Fisher,female,55,Cayman Islands,0,1,1,1,1,1,4,0,1,0,0,0,0,0,1,1,1,1,17.28,0
+Brenda Barker,male,69,Luxembourg,4,0,0,1,1,0,4,0,2,1,0,1,1,1,0,0,0,1,50.81,0
+Ryan Hoffman,male,72,Tuvalu,2,1,1,0,0,0,0,1,2,1,0,0,1,0,1,1,0,1,39.9,1
+Nancy Williams,female,91,Kiribati,4,2,1,0,0,0,2,0,4,0,1,0,1,0,1,0,0,1,33.13,0
+Cory Escobar,female,88,Tuvalu,0,0,1,0,0,1,3,0,0,1,1,0,1,1,1,1,1,0,19.35,0
+Dr. Steven Yates,male,67,United States of America,3,4,1,1,0,0,0,0,4,1,1,0,1,0,0,1,1,0,58.68,1
+Robert Jones,female,82,United States of America,3,0,0,0,0,0,0,1,4,1,1,1,1,0,0,1,0,1,27.91,0
+Veronica Collins,male,68,Samoa,3,3,0,0,1,1,3,1,3,0,0,0,0,1,0,0,1,0,48.69,0
+Jennifer Smith,female,70,Zambia,0,2,1,1,0,0,0,0,4,1,1,1,0,1,1,0,0,0,36.01,0
+Alexis Torres,male,74,Saint Vincent and the Grenadines,2,1,1,1,0,0,0,1,3,0,1,1,0,1,0,0,1,0,46.55,0
+Clinton Costa,female,54,San Marino,1,4,0,1,0,1,3,1,0,1,0,1,0,0,0,0,0,0,20.26,0
+Paige Knight,female,100,Samoa,4,3,0,1,0,1,4,0,0,0,1,0,0,0,0,0,1,0,15.11,0
+Dr. Martin Adkins,male,65,Poland,4,3,0,0,1,0,4,0,3,1,0,1,1,1,0,1,1,1,22.72,0
+Amanda Ingram,female,27,Lesotho,2,0,1,0,1,0,2,1,4,0,1,0,1,1,1,0,0,1,50.36,0
+Joel Larson,female,93,French Guiana,1,0,0,0,0,1,1,1,4,1,0,1,1,1,0,1,0,0,40.86,0
+Ashley Smith,male,77,Mauritius,3,0,0,0,0,0,4,1,2,1,1,0,1,1,1,0,1,0,28.09,1
+Mark Benitez,female,77,Finland,1,0,1,0,1,0,2,0,0,1,0,0,0,0,0,1,1,0,46.77,0
+Daniel Jones,female,14,Guadeloupe,3,2,0,1,0,0,2,0,2,0,0,0,1,0,1,0,1,1,12.46,0
+Steven Vargas,female,61,Saint Lucia,4,0,1,1,1,1,2,1,2,1,1,0,0,1,1,0,0,0,33.07,0
+Jennifer Jordan,male,94,San Marino,4,1,1,1,0,0,4,1,3,1,0,1,1,1,1,0,0,0,55.85,0
+James Gray,male,9,Netherlands,2,3,1,1,0,0,0,0,2,0,0,0,1,0,1,0,0,0,55.8,1
+Alexander Sheppard,male,39,Mali,0,4,0,0,1,1,2,0,0,0,0,1,0,0,1,0,0,0,19.86,0
+Tracey Phillips,female,72,Ethiopia,0,3,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,50.51,1
+Tyler Butler,male,32,Timor-Leste,0,4,0,0,1,1,1,0,1,0,0,0,1,1,1,1,0,1,24.79,1
+Nathan Avila,male,46,Tonga,4,1,1,1,0,0,0,1,3,0,1,0,1,1,1,0,0,1,28.58,0
+Dustin Cunningham,male,52,Burundi,2,1,1,0,0,1,4,0,1,1,0,0,0,1,0,1,1,0,58.69,0
+William Martinez,female,69,Guadeloupe,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,18.68,0
+Brenda Lopez,male,13,Luxembourg,1,1,0,1,0,1,2,0,0,1,0,1,1,1,1,1,1,0,52.9,0
+Brandon Ayala,male,68,United States of America,2,2,0,1,1,1,2,1,3,1,0,1,0,1,1,1,1,1,32.49,0
+Henry Sutton,female,89,Bolivia,4,2,1,1,0,1,3,1,2,0,1,1,0,1,1,1,0,0,21.52,0
+Adam Martin,male,27,Saint Lucia,3,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,1,41.06,1
+Connie Thompson,male,56,Cambodia,4,3,0,0,0,1,3,0,2,1,1,1,0,0,0,0,1,1,46.99,1
+Bernard Blake,female,89,Cook Islands,3,0,0,1,1,0,1,1,0,1,0,0,1,1,1,0,0,0,11.29,0
+Sarah Wagner,female,43,Angola,0,1,0,0,0,0,3,1,3,0,1,0,0,1,1,1,0,1,32.21,0
+Jennifer Wright,male,42,Greece,3,0,1,0,0,0,3,0,3,1,0,0,1,1,1,1,0,1,19.51,0
+Jason Marks,female,31,Tajikistan,2,3,1,0,1,0,1,1,2,0,0,1,0,0,1,1,0,0,36.96,1
+Elizabeth Carrillo,female,13,Comoros,0,0,1,1,0,0,4,0,3,1,0,0,0,0,0,1,0,1,57.79,0
+Nicholas Tapia,female,21,Tanzania,3,3,1,1,0,0,3,1,3,0,1,0,1,1,1,0,0,1,23.41,0
+Joshua Williams,female,90,Guatemala,3,4,1,0,0,1,2,0,2,1,1,0,0,1,0,1,0,1,28.0,0
+Holly Flores,male,54,Montserrat,3,1,0,0,0,0,3,0,2,0,1,0,1,0,1,1,1,1,7.09,0
+Brandon Thompson,female,71,Guernsey,2,0,0,0,0,0,4,0,4,1,1,0,0,1,1,0,0,1,48.01,0
+Rachel French,female,31,Turks and Caicos Islands,2,4,0,1,0,1,0,0,4,0,1,1,0,1,1,0,0,0,41.05,1
+Andrea Pruitt,female,38,Wallis and Futuna,2,0,1,0,1,1,0,1,3,1,1,0,1,0,0,1,0,1,36.85,0
+Ryan Escobar,male,52,Eritrea,3,2,0,0,1,0,4,0,0,1,0,0,1,1,0,0,0,0,8.53,0
+Brianna Young,female,41,Norfolk Island,2,0,1,0,0,1,0,1,4,0,0,0,0,0,1,1,0,1,46.01,0
+Robert Carson,male,7,Congo,0,2,1,1,0,0,1,0,0,1,0,0,1,1,1,1,0,1,45.21,0
+Amber Howell,female,55,Nauru,4,3,0,1,1,1,2,0,4,1,1,0,0,0,1,0,0,0,49.02,0
+Sarah Brennan,male,97,Timor-Leste,1,2,1,0,0,1,4,0,1,1,1,1,0,1,1,1,1,0,21.65,0
+Lori Scott,female,63,United Arab Emirates,3,0,1,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,50.59,0
+Angela Espinoza,female,82,Saint Kitts and Nevis,1,4,0,0,1,1,1,0,1,1,1,0,0,1,0,1,1,0,21.9,0
+Dylan Cervantes,female,34,Maldives,1,4,0,1,1,1,2,0,4,1,1,1,1,1,1,1,0,1,57.97,0
+Donna Oliver,male,19,Peru,4,4,0,0,1,0,3,1,4,1,0,0,0,0,0,0,1,0,12.35,1
+Juan Myers,male,5,Indonesia,3,4,0,0,0,0,0,0,4,1,1,1,1,0,0,1,0,0,40.99,1
+Grace Nelson,male,63,Macao,0,3,0,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,35.74,1
+Danielle Sanchez,female,61,Jersey,3,1,0,0,1,0,3,1,2,1,0,0,0,1,1,0,1,1,11.95,0
+Amber Silva,male,8,Turkey,0,0,1,0,0,1,4,1,2,1,0,1,1,1,1,0,0,1,25.19,0
+Aaron Sutton,male,13,Tanzania,2,0,1,1,0,1,0,1,2,0,1,0,0,1,1,1,0,1,13.9,0
+Timothy Pena,male,27,Turkey,3,4,0,1,1,1,3,1,0,0,0,1,0,0,0,0,0,0,49.82,1
+Phyllis Conley,male,52,Puerto Rico,0,0,0,0,1,1,4,0,3,1,1,0,0,1,0,0,1,1,52.58,0
+Stacy Williams,male,38,Saudi Arabia,2,3,0,1,0,0,2,1,2,1,1,1,1,1,1,1,1,0,12.98,0
+William Conway,male,68,Madagascar,2,2,1,0,1,1,2,0,4,0,1,1,1,1,0,0,1,0,58.57,0
+Kimberly Johnson,male,32,Sao Tome and Principe,4,2,1,0,0,1,0,0,1,1,1,1,1,0,1,0,0,0,34.03,1
+Megan Collins,male,20,Kyrgyz Republic,0,3,0,0,0,1,2,1,2,0,0,0,1,0,1,0,0,0,31.12,1
+Katrina Smith,male,81,Saint Lucia,1,0,0,1,1,1,4,0,4,0,0,1,1,0,0,0,0,1,13.66,0
+Anthony Williams,female,99,Finland,1,0,1,1,1,0,4,0,2,1,0,0,0,0,0,0,0,0,25.38,0
+Tammy Garza,male,53,Greece,0,1,1,0,1,1,4,0,4,0,1,0,0,1,1,1,0,1,7.76,0
+Craig Carpenter,male,23,Central African Republic,1,0,0,0,0,0,2,0,0,1,1,0,0,1,1,1,1,1,9.03,0
+Cynthia Sullivan,male,30,Montenegro,2,4,1,1,0,1,3,1,2,0,0,0,0,1,1,1,1,1,34.04,1
+Victoria Owen,male,47,Guernsey,1,2,0,1,1,1,2,1,1,1,1,1,1,1,0,0,0,0,49.09,0
+Aaron Allen,male,27,Oman,1,0,1,1,1,1,0,0,1,0,1,0,0,1,0,1,0,0,18.11,1
+Gregory Mayer,female,20,Costa Rica,2,2,0,1,0,1,3,0,0,0,0,1,0,0,0,0,0,0,29.66,1
+Jessica Santiago,male,14,Vanuatu,3,3,0,1,1,1,1,0,3,1,1,0,0,1,1,0,1,0,7.39,0
+Allison Ross,female,40,Jordan,2,3,0,1,1,0,2,0,3,0,1,1,1,1,1,0,0,1,55.07,0
+Joshua Smith,female,77,Honduras,2,1,1,1,1,1,1,1,4,0,0,1,0,1,1,0,1,1,40.96,1
+Jeffrey Young,male,27,Lesotho,3,2,1,1,0,1,4,1,0,1,1,1,0,1,0,1,0,0,18.77,0
+Kyle Evans,male,39,Malawi,1,3,1,1,0,0,0,0,3,0,1,0,0,1,0,1,0,0,33.19,0
+Nicole Moore,female,87,Saint Vincent and the Grenadines,0,2,1,0,1,1,2,1,2,1,0,0,0,1,1,1,1,0,10.24,0
+Frank Morgan,male,34,Niger,0,3,0,0,1,1,4,0,0,1,1,1,0,1,0,1,0,1,17.7,0
+Michael Swanson,male,6,Central African Republic,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,0,40.25,0
+Tiffany Malone,male,22,Malaysia,3,4,1,1,0,0,3,0,2,1,0,1,0,1,1,0,0,1,21.28,1
+Randy Arellano,male,77,Philippines,1,2,1,0,1,0,1,0,1,0,0,1,0,0,1,1,1,0,33.65,1
+Jennifer Payne,male,23,Iraq,4,3,1,1,0,1,3,1,4,1,1,1,1,0,0,0,0,1,51.03,1
+Jennifer Shannon,female,55,Saint Barthelemy,1,2,0,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,36.65,1
+Ashley Brown,female,18,Equatorial Guinea,2,4,1,1,1,0,2,1,4,0,1,0,1,0,1,0,1,0,7.63,0
+Elizabeth Lee,male,17,British Virgin Islands,4,2,0,1,1,0,3,0,3,1,1,0,1,1,0,1,0,1,34.84,0
+Taylor Hernandez,female,72,Burkina Faso,1,4,0,1,1,0,3,0,3,0,1,0,0,1,0,0,0,0,21.84,0
+Jeanette Powell MD,female,38,Micronesia,1,3,0,1,1,1,0,0,2,1,0,1,1,0,1,1,1,0,51.53,1
+Michael Vaughn,female,12,Bahamas,4,1,0,0,1,0,1,1,0,1,1,1,0,0,1,1,0,0,12.11,0
+Christopher Cohen,female,16,South Georgia and the South Sandwich Islands,1,4,0,1,1,0,2,1,4,1,0,0,0,0,1,1,0,1,8.43,0
+Derek Dougherty,female,38,Barbados,2,2,0,0,0,0,2,1,3,1,1,0,0,1,0,0,1,1,31.66,0
+Robert Duffy,male,55,Senegal,1,0,0,0,0,1,0,1,2,1,0,0,1,0,0,0,1,1,25.63,1
+Donna Nguyen,female,33,Western Sahara,3,0,1,0,0,0,4,1,0,1,1,1,1,1,1,1,1,0,22.22,0
+William Cooper,male,5,Saint Barthelemy,1,0,1,0,0,1,3,0,1,1,1,0,1,0,1,1,0,1,29.26,0
+Jay Porter,female,67,Slovakia (Slovak Republic),3,4,1,0,0,0,2,1,3,1,1,1,1,0,0,0,1,0,26.38,0
+Alexis Huff,female,71,Korea,2,0,0,1,0,0,3,0,0,0,1,1,1,1,0,0,0,1,53.22,0
+Alexandra Murphy,female,77,Iceland,0,2,0,1,1,0,3,0,4,0,1,0,0,0,0,1,0,1,17.42,0
+Michael Murray,male,95,Poland,3,0,0,1,1,0,2,1,3,1,1,0,1,1,1,0,0,0,9.44,0
+Charles Ruiz,male,98,Mexico,2,3,1,0,0,0,2,1,3,0,0,1,1,0,0,0,1,1,21.54,0
+Samantha Hart,female,28,Germany,3,2,0,1,1,0,1,0,2,1,1,1,0,0,1,1,1,1,9.53,0
+Martha Robinson,male,20,Netherlands Antilles,1,1,1,1,1,0,3,1,2,1,1,0,1,1,1,0,1,1,5.56,0
+Alison Smith,female,60,Kazakhstan,1,2,1,0,1,1,2,1,2,0,1,0,0,1,1,0,1,0,41.33,0
+Linda Hall,female,96,Haiti,1,4,0,0,1,1,4,1,2,0,0,1,1,0,0,0,1,0,47.4,0
+Tony Price,male,13,Jersey,0,0,1,1,1,0,3,1,3,0,0,0,1,1,1,1,1,0,32.97,0
+Joshua Osborne DDS,male,65,North Macedonia,0,2,0,0,0,1,2,0,4,0,1,1,0,1,1,1,0,1,9.18,0
+Dawn Doyle,female,67,Saint Lucia,0,0,1,0,0,0,0,1,4,0,1,1,0,0,0,1,0,0,57.01,0
+Claudia Williams,male,73,Tunisia,0,1,0,0,0,1,0,0,2,0,0,0,1,1,1,1,0,1,57.79,1
+Andrew Galvan,male,64,Turkey,2,4,0,1,1,1,4,0,3,1,0,0,0,0,1,0,1,0,10.28,0
+James Dillon,female,99,Togo,4,0,1,0,0,1,2,0,4,0,1,0,0,1,1,0,0,0,59.21,0
+Ruth Henderson,female,14,Russian Federation,4,4,0,1,0,0,2,1,2,0,1,1,1,0,1,1,1,0,37.58,0
+Melissa Davis,female,64,Liechtenstein,0,4,1,1,1,0,3,0,2,1,0,0,1,1,0,1,1,0,56.89,0
+Brandi Jones,male,98,Croatia,1,3,1,1,1,0,1,1,0,1,1,0,1,0,1,0,1,0,22.77,0
+Lisa Wright DDS,male,26,Sweden,3,0,1,0,0,0,2,1,3,1,1,0,0,1,1,0,1,1,23.19,0
+Anthony Morgan,male,65,Latvia,2,4,1,0,1,1,4,0,2,0,1,1,1,1,0,0,1,0,8.03,0
+Alexander Fitzgerald,male,69,Niue,3,2,0,1,1,0,3,1,3,0,1,0,0,0,1,0,0,0,34.32,0
+Catherine Marsh,male,10,Rwanda,4,4,1,0,1,1,2,0,0,0,0,0,1,0,0,1,1,1,50.28,1
+Angela Evans,female,33,Lesotho,4,3,0,1,1,0,2,0,0,0,1,0,1,1,0,0,1,0,33.9,1
+Travis Curtis PhD,female,25,Benin,3,4,0,1,0,1,4,1,4,1,0,1,0,1,0,1,1,0,59.51,0
+Lori Young,male,35,Madagascar,0,1,1,0,0,1,3,0,1,0,1,1,1,1,0,0,0,0,44.17,0
+Megan Cooper,male,20,Suriname,2,2,0,1,0,0,2,1,0,0,0,0,1,0,1,0,1,0,49.04,0
+Ethan Wilson,male,57,Honduras,1,0,0,0,0,0,4,1,4,0,0,1,1,1,0,1,1,1,9.88,0
+Madison Hughes,male,77,Cook Islands,0,1,0,1,0,1,0,1,0,1,0,1,0,0,0,1,0,1,26.81,1
+Jason Silva,female,20,Botswana,2,3,1,0,0,0,1,1,4,1,0,1,0,0,1,1,1,0,10.81,0
+Karen Martinez,male,11,Central African Republic,2,4,0,1,1,1,3,1,0,0,0,1,0,1,1,0,1,1,22.37,0
+Gregory Schmidt,male,86,Cayman Islands,1,1,0,0,0,1,2,0,2,0,1,1,1,1,1,0,0,1,32.85,0
+Julian Moore,female,6,Italy,4,2,0,1,0,1,0,0,4,1,1,1,0,1,0,0,1,0,28.77,0
+Matthew Mosley,male,55,Andorra,3,2,0,0,0,1,3,0,1,0,0,1,0,0,1,1,0,0,30.17,0
+Dustin Hall,female,31,United States Virgin Islands,3,4,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,44.35,1
+Johnathan Daniels,male,44,Kuwait,4,3,0,0,0,0,3,0,4,1,0,1,1,1,0,0,1,0,25.15,0
+Haley Khan,male,86,Haiti,1,1,1,0,1,0,3,1,0,0,0,0,0,0,1,0,0,1,37.92,0
+Sandra Wilkerson,female,67,Switzerland,0,4,1,1,0,0,4,0,4,1,1,1,1,0,0,1,1,1,26.61,0
+Bethany Eaton,male,32,Trinidad and Tobago,1,0,1,0,1,0,1,1,4,0,1,1,0,1,1,0,0,0,55.33,0
+Margaret Ortiz,male,19,Turks and Caicos Islands,0,0,1,0,0,0,0,0,3,1,1,1,0,0,0,1,1,0,33.91,0
+Holly Walker,male,98,Montserrat,2,3,0,0,0,1,4,0,2,1,1,0,0,1,0,1,1,1,34.44,0
+Karen Beltran,male,43,Lithuania,4,0,0,1,0,1,1,1,4,1,0,0,0,0,1,1,0,0,50.86,0
+John Sullivan,female,42,Costa Rica,2,0,0,0,1,0,2,0,4,0,1,0,1,0,0,0,0,0,32.27,0
+Brittany Roberts,male,31,Bangladesh,0,2,1,0,1,0,4,0,1,0,1,1,0,0,1,0,0,1,16.13,0
+Jessica Obrien,male,19,Turkmenistan,3,2,0,0,1,0,0,0,2,0,1,1,1,0,0,1,1,1,43.27,1
+Stephanie Martinez,female,92,Burundi,2,2,1,1,1,0,3,1,4,1,1,1,1,1,1,1,0,1,57.82,0
+Samantha Duran,male,63,French Southern Territories,3,1,1,1,0,0,2,1,2,0,0,0,0,0,0,1,1,1,7.32,0
+Samuel Meyer,female,47,Antarctica (the territory South of 60 deg S),0,3,0,0,0,1,4,0,3,0,1,0,0,0,0,0,1,0,35.93,0
+Jacqueline Middleton,female,50,United States Virgin Islands,0,3,0,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,16.74,0
+Kelly Christian,male,98,Iraq,1,0,1,0,0,0,1,0,4,0,0,0,0,1,1,1,0,0,10.91,0
+Blake Villanueva,male,64,El Salvador,3,0,1,0,1,1,3,0,4,0,1,0,0,0,0,0,0,0,24.45,0
+Crystal Barnett,male,46,Somalia,3,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,10.92,0
+Jeremy Freeman,female,70,Bulgaria,2,3,1,1,0,0,4,1,4,1,0,0,0,0,0,0,1,0,21.94,0
+Dr. Daniel Munoz,male,5,Uzbekistan,3,0,0,1,0,1,2,1,2,1,0,0,0,0,1,1,0,0,10.03,0
+Rebecca Garcia,male,49,Austria,3,4,0,0,1,1,4,0,4,0,0,1,1,1,0,0,0,1,11.66,0
+Kenneth Davidson,male,99,Brazil,4,0,1,0,0,0,0,1,3,0,0,0,0,1,1,0,1,1,11.34,0
+Michael Rodriguez,male,62,Samoa,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,1,0,1,41.89,0
+Scott Stanley MD,female,81,Algeria,0,0,0,1,1,1,0,1,2,1,1,1,0,0,1,0,1,0,13.15,0
+Gina Morrison,male,84,Gabon,2,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,43.38,1
+Zachary Garza MD,male,36,Isle of Man,3,1,1,0,1,0,4,0,0,1,0,0,0,0,0,0,1,1,53.23,0
+Monica Gordon,female,36,Dominican Republic,2,4,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,28.51,1
+Bradley Ortega,female,32,Northern Mariana Islands,4,4,0,0,0,1,3,0,2,0,0,1,0,1,1,0,0,1,11.53,0
+Pamela Stanley,female,57,Honduras,4,4,0,0,0,0,4,1,0,0,0,1,0,1,1,0,1,1,30.56,0
+Elizabeth Lopez,male,82,Belgium,3,3,0,0,1,0,4,1,0,1,1,1,1,0,1,0,0,0,27.95,1
+Maria Wyatt,male,6,Heard Island and McDonald Islands,4,3,0,1,0,1,2,1,3,0,1,1,1,1,1,0,0,1,8.79,0
+Tim King,female,36,Pakistan,4,4,0,0,0,0,4,0,0,0,0,0,1,0,0,1,1,0,30.13,1
+Roger Hamilton,female,45,Switzerland,2,2,0,1,1,0,3,0,4,1,0,1,1,1,0,0,0,0,35.09,0
+Lisa Wilson,male,56,Hungary,1,1,1,1,0,0,3,0,3,1,0,0,0,1,1,1,1,1,29.5,0
+Melissa Gordon,female,29,San Marino,2,3,0,0,1,1,1,1,4,1,1,1,1,1,0,1,1,0,12.42,0
+Denise Wagner,female,89,Aruba,4,4,1,0,1,0,4,0,4,0,1,1,0,1,0,1,1,0,25.63,0
+Erika Hunt,female,59,Niger,4,3,0,1,0,1,3,0,1,0,0,0,1,1,1,1,0,1,47.59,0
+Lorraine Drake,female,96,Serbia,1,0,0,0,0,1,2,0,2,0,1,1,0,1,1,1,1,0,55.32,0
+Kayla Mccall,male,32,Saint Pierre and Miquelon,3,2,1,1,0,1,4,0,4,0,1,1,0,1,1,0,0,0,8.89,0
+Mark Meyer,female,60,Aruba,4,3,0,0,1,1,3,1,2,0,0,1,1,0,1,1,0,1,47.21,0
+Tyler Williams,female,28,Taiwan,3,1,0,0,1,0,4,1,2,0,1,1,0,0,1,1,0,0,10.26,0
+Kelsey Elliott,female,64,Greenland,2,0,0,0,0,0,1,1,2,0,0,0,1,1,1,1,0,1,50.87,0
+Ruben Thomas,female,52,Cote d'Ivoire,2,1,1,0,1,0,3,0,1,0,0,0,1,0,1,0,1,1,30.27,0
+Diana Gonzalez,male,34,Svalbard & Jan Mayen Islands,0,3,1,1,0,1,3,0,4,1,1,1,0,0,0,0,0,1,22.2,0
+Jack Taylor,male,87,Mauritius,4,2,1,0,1,1,4,1,3,1,1,0,0,1,1,1,0,0,51.9,0
+Sarah Jones,male,100,Macao,1,3,1,1,0,0,0,0,3,1,0,0,0,0,0,1,1,1,23.06,0
+Jacob Wright,male,94,Algeria,4,4,0,0,1,1,4,0,4,0,0,1,0,1,1,1,0,1,23.23,0
+Daniel Tucker,female,77,Tokelau,4,3,0,1,0,1,2,1,0,0,0,1,0,0,1,0,1,1,56.87,1
+Colleen Parks,female,87,Ireland,2,0,0,0,0,0,1,0,3,1,1,1,0,0,1,1,1,1,42.42,0
+Amy Hunt,female,50,Madagascar,0,4,0,0,1,1,4,1,1,1,1,0,1,0,0,0,1,1,57.43,0
+David Phillips,male,38,Heard Island and McDonald Islands,1,4,1,1,1,0,2,0,0,1,0,1,0,0,0,0,0,1,19.88,0
+Amanda Garcia,female,15,Russian Federation,1,1,1,1,1,1,2,1,4,0,1,0,1,1,0,0,0,1,19.12,0
+James Calderon,female,96,Libyan Arab Jamahiriya,0,0,1,0,0,1,2,0,1,1,1,0,1,1,0,1,1,0,47.12,0
+Patricia Bates,male,74,Saint Kitts and Nevis,1,2,1,0,0,1,3,0,3,0,1,1,0,0,0,0,0,0,17.09,0
+Christina Powers,male,85,Grenada,4,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,12.17,0
+Amber Hill,female,36,Cambodia,1,2,0,1,1,1,1,1,2,0,1,0,0,0,1,0,0,1,42.01,1
+Dylan Brown,male,46,Moldova,2,3,0,1,1,0,2,0,2,1,1,1,1,1,0,1,0,0,14.6,0
+Maria Soto,female,59,New Caledonia,1,0,1,1,1,1,3,0,4,0,1,1,0,0,0,0,0,0,13.45,0
+Caroline Anderson,female,11,British Indian Ocean Territory (Chagos Archipelago),2,1,1,0,1,1,0,1,4,1,0,0,1,0,0,0,1,0,44.54,0
+Brandy Crosby,female,21,Rwanda,1,3,0,0,0,1,2,1,2,1,0,1,0,0,0,0,1,0,42.22,1
+Andrea Potter,male,11,Paraguay,1,1,1,0,1,0,4,1,1,1,0,1,0,1,0,1,1,1,41.99,0
+Andrea Nelson,male,13,Guadeloupe,2,1,0,0,1,1,3,0,3,1,0,0,0,1,0,1,1,1,20.55,0
+Stephanie Fuentes,male,17,Mauritius,2,0,0,1,0,1,3,1,4,0,0,0,0,0,1,1,1,0,55.4,0
+Katherine Munoz,female,30,Anguilla,0,3,1,0,1,0,4,0,3,0,0,1,0,0,0,0,0,1,22.58,0
+Sheila Ballard,female,11,Kazakhstan,2,1,0,1,1,0,3,0,4,0,1,1,0,1,1,0,0,1,19.45,0
+Amber Davidson,male,26,Mexico,2,4,1,0,1,1,2,1,1,0,0,0,1,0,1,1,1,1,43.8,1
+Daniel Mann,male,12,Vanuatu,1,1,1,0,1,0,4,1,4,1,0,0,0,1,0,1,1,1,58.83,0
+Dean Reyes,female,16,Iceland,4,0,1,0,1,1,4,1,0,1,0,0,1,0,0,1,1,1,48.91,1
+Paul Smith,male,40,Lebanon,3,0,0,1,0,0,4,1,2,1,1,0,1,0,0,1,1,1,51.04,0
+William Baker,male,52,Georgia,4,0,1,1,1,0,3,0,4,1,1,1,1,1,0,0,1,0,10.88,0
+Natalie Webb,male,84,Bouvet Island (Bouvetoya),2,1,0,0,1,0,3,1,1,0,0,1,0,1,0,0,0,1,12.14,0
+Daniel Wilkins,female,24,Finland,4,1,0,1,0,1,3,1,1,1,1,0,1,1,0,0,0,1,7.31,0
+Jack Ray,male,32,Djibouti,0,3,1,0,1,1,2,0,0,1,0,1,0,0,1,1,0,1,18.26,0
+Angela Ray,female,44,Timor-Leste,0,1,1,0,1,0,3,1,0,0,0,1,1,1,0,1,1,0,40.33,0
+Brittney Valencia,male,83,New Zealand,3,4,1,1,0,0,1,0,3,0,1,1,0,0,1,1,1,0,6.76,0
+Anthony Wilson,male,15,Palau,3,4,1,1,0,1,2,0,1,1,1,1,0,0,1,1,1,1,44.83,1
+Joshua Maxwell,female,17,Niue,1,4,0,1,0,0,0,1,4,1,1,0,1,1,0,0,1,0,58.14,0
+Phillip James,male,54,Fiji,3,4,0,0,1,1,3,1,0,1,1,1,0,0,0,0,0,1,6.36,0
+Robert Richardson,female,70,Nepal,0,0,1,1,0,1,0,1,3,0,0,0,1,0,0,0,1,0,29.21,1
+Jacqueline Palmer,male,61,Andorra,3,2,1,1,1,1,3,1,0,1,0,0,0,0,1,0,0,1,53.27,0
+Lori Collins,male,60,Lebanon,4,0,1,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,19.82,0
+Colleen Johnson,male,86,Ukraine,1,2,1,0,0,1,4,0,4,0,0,0,0,0,0,0,0,1,11.41,0
+Karen Compton,male,54,Netherlands,0,4,0,0,1,0,1,1,3,1,0,0,1,0,1,0,0,0,15.68,0
+Jennifer Young,male,6,Thailand,1,1,1,1,1,1,3,0,0,0,0,1,1,0,1,0,0,0,54.78,0
+Teresa Sloan,male,96,British Indian Ocean Territory (Chagos Archipelago),4,2,0,1,1,0,3,1,1,0,1,0,0,0,0,1,1,0,5.09,0
+Nicole Tran,female,21,Poland,1,2,1,0,1,0,3,0,1,1,1,0,1,1,0,0,1,1,19.93,0
+Barbara Hughes,male,19,Sweden,4,4,0,1,0,0,2,0,2,1,0,1,1,1,1,0,1,0,5.26,1
+Ashley Lucas,male,90,Indonesia,1,1,0,1,0,0,1,0,1,0,1,0,0,0,1,1,1,0,26.61,1
+Michele Myers,male,47,Central African Republic,0,2,0,1,1,0,4,1,0,1,0,0,0,1,1,0,0,0,42.86,0
+Linda Vaughan,female,89,Antarctica (the territory South of 60 deg S),0,2,0,0,1,1,0,0,2,1,0,0,1,1,1,0,1,0,38.93,1
+Kathy Ray,female,30,Djibouti,1,3,1,0,0,0,3,1,2,1,1,1,0,0,0,1,1,0,12.53,0
+Thomas Sanders,male,71,Greece,3,4,1,0,0,0,3,0,1,1,1,1,1,0,0,0,0,0,23.67,1
+Ernest Boyd,male,90,Fiji,4,4,1,1,1,0,2,0,0,0,1,1,0,1,0,0,1,1,41.12,1
+Benjamin Morrow,female,72,Japan,4,1,1,1,0,0,3,0,0,1,0,1,1,1,0,0,1,0,35.22,0
+Mrs. Deborah Kelley,female,74,Australia,1,4,1,1,1,1,0,1,2,1,0,1,1,1,1,0,1,1,51.54,1
+Samantha Larson,male,60,Samoa,0,3,0,0,0,1,3,1,1,0,0,0,1,0,0,1,1,1,57.4,0
+Crystal Silva,female,51,Saint Lucia,2,0,1,1,0,1,3,0,3,1,0,1,0,0,0,1,1,1,25.6,0
+Jennifer Graham,male,47,San Marino,3,4,0,0,1,1,4,0,3,1,0,0,0,0,1,1,0,1,32.04,0
+Susan Brown,male,71,Afghanistan,1,3,1,0,0,1,4,1,3,1,1,0,0,0,0,1,1,1,20.04,0
+Joseph Snyder,male,56,Svalbard & Jan Mayen Islands,3,4,1,0,0,1,1,0,3,0,1,1,1,0,1,1,1,1,14.9,0
+Jared Johnson,male,89,Bahamas,4,2,0,1,1,0,1,1,0,1,0,0,1,0,1,1,1,1,15.07,0
+Kyle Diaz,male,60,Zimbabwe,4,1,1,0,0,0,2,1,1,1,1,1,1,0,0,1,0,0,48.53,0
+Sharon Wilson,male,56,Niue,1,1,1,0,1,1,1,0,4,1,1,1,1,1,0,1,0,0,57.16,0
+John Brown,male,38,Venezuela,4,1,1,1,1,1,3,1,0,1,0,1,1,0,0,0,1,0,26.19,0
+Edward Roberts,female,97,Philippines,3,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1,1,1,5.42,0
+Eddie Johnson,male,48,Japan,3,0,0,1,0,1,0,0,3,1,1,1,1,1,0,0,1,0,22.58,0
+Jennifer Wright,female,70,British Indian Ocean Territory (Chagos Archipelago),3,2,0,0,1,0,0,0,4,0,0,1,0,0,0,0,1,1,17.1,0
+Francisco Lowe,male,76,Mali,2,2,1,0,1,1,0,0,2,1,0,1,0,0,0,1,0,0,54.98,1
+Ray Gibson,male,94,Slovakia (Slovak Republic),1,3,0,0,0,1,0,0,2,1,1,1,1,0,1,0,1,0,12.03,0
+Christian Allen,male,99,Madagascar,4,3,1,0,1,1,3,1,3,0,0,0,0,1,0,0,0,1,55.64,0
+Paul Mcknight,male,46,Holy See (Vatican City State),1,3,0,1,1,1,3,0,1,1,1,1,1,1,0,0,0,0,26.83,0
+Brittney Neal,female,60,Kuwait,2,3,0,1,1,1,2,0,3,1,1,0,1,0,1,0,1,1,49.66,0
+Trevor Payne,female,6,Western Sahara,3,0,1,0,0,1,2,1,3,0,1,0,1,0,0,0,0,1,23.99,0
+John Miller,female,86,Christmas Island,3,2,1,0,1,0,0,1,2,0,0,0,1,1,0,1,0,1,5.68,0
+Dr. Gary Nichols,male,6,Saudi Arabia,4,0,1,1,1,1,4,1,2,0,1,1,0,0,1,1,0,0,11.03,0
+Mathew Knight,female,78,Pitcairn Islands,4,2,1,1,1,1,0,1,3,0,1,0,1,0,0,1,0,1,18.5,0
+Joseph Phelps,male,65,Lesotho,1,1,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,39.33,0
+Gregory Ferguson,female,27,Mali,2,1,1,1,0,0,4,1,0,1,0,0,1,1,1,1,1,1,58.22,0
+Sandra Gonzalez,male,85,Iran,0,0,1,0,1,0,2,1,4,1,1,1,0,1,0,0,0,1,34.12,0
+Willie Smith,male,7,Luxembourg,4,1,0,1,0,0,1,1,2,1,1,0,1,0,1,1,1,0,25.19,1
+Marcus Parker,female,30,Chad,4,2,1,1,1,0,2,0,3,0,0,0,1,1,0,0,0,0,54.81,0
+Vincent Lang,male,81,Mozambique,4,0,0,1,0,0,4,0,4,1,1,0,0,1,1,0,0,0,32.46,0
+Franklin Barton,female,75,American Samoa,4,1,1,1,0,0,2,1,3,0,1,0,1,0,1,0,0,1,46.72,0
+Derek Ortiz,male,19,Algeria,1,2,0,1,1,1,4,1,1,0,1,1,1,1,0,1,0,0,29.04,1
+Jennifer Perry,female,86,Saint Kitts and Nevis,3,4,1,1,0,0,0,0,3,0,0,0,0,0,0,1,1,0,27.72,0
+Rebecca Evans,female,19,Estonia,2,1,0,1,1,0,3,0,3,0,1,1,1,0,0,1,1,1,9.1,0
+Patrick Webb,male,37,Antigua and Barbuda,3,0,0,1,1,0,3,0,3,1,1,0,0,0,1,1,1,1,40.88,0
+John Martinez,female,14,South Africa,1,0,0,1,0,1,4,1,1,1,0,0,1,0,0,1,1,1,49.29,0
+Mary Tyler,female,9,Bouvet Island (Bouvetoya),1,2,0,1,1,0,4,1,2,1,0,0,0,1,1,0,0,1,32.84,0
+Mark Cohen,female,32,Gibraltar,3,4,1,0,0,0,2,1,1,1,0,1,1,0,1,1,1,1,44.55,1
+Bryan Anderson,female,24,Cameroon,4,3,1,1,0,0,4,1,4,0,1,0,0,1,0,1,1,0,12.85,0
+Ronald Perez,female,12,Equatorial Guinea,4,0,0,0,1,1,4,0,3,1,1,1,0,1,0,1,1,1,30.63,0
+Victoria Bryant,male,64,Puerto Rico,4,1,1,0,0,1,4,0,2,1,1,1,0,1,0,1,0,0,35.32,0
+Jason Hill,female,84,Belize,1,2,1,0,1,1,1,0,0,1,0,1,0,0,1,1,1,1,9.79,0
+Brandon Bruce,male,62,Reunion,2,2,0,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,24.84,0
+Tammy White,female,87,Ukraine,0,4,1,0,1,1,2,1,1,1,0,0,1,0,0,1,1,0,57.57,0
+Tiffany Kim,female,11,British Indian Ocean Territory (Chagos Archipelago),1,4,0,1,0,1,1,0,2,0,0,0,1,1,0,0,0,0,57.79,1
+Levi Meyer,female,37,Cambodia,0,3,1,1,0,0,4,0,1,1,0,0,1,0,1,0,1,0,6.11,0
+Tanner Moore,female,92,Iceland,3,3,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,39.76,1
+Jamie Duncan,male,80,Timor-Leste,0,4,1,1,1,1,1,0,3,0,0,0,0,0,1,1,1,1,15.55,0
+Mary Patel,female,16,Cook Islands,0,1,1,1,1,1,4,0,0,0,0,1,0,1,1,1,0,1,46.02,1
+Valerie Andrews,female,87,Montserrat,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,45.35,0
+Penny Ramirez,male,70,United States Minor Outlying Islands,0,0,0,0,0,0,4,0,4,1,1,1,1,1,0,1,1,1,56.9,0
+Daryl Alvarado,male,20,Chile,0,2,0,0,0,0,2,1,4,0,0,1,1,1,0,0,0,1,51.51,0
+Renee Ortiz,female,26,China,2,1,1,1,0,0,0,1,3,1,1,1,1,0,0,0,1,1,57.93,0
+Vicki Barrett,male,16,Papua New Guinea,3,2,1,0,0,1,1,1,2,0,0,0,1,0,1,1,1,1,12.84,1
+Nathan Webb,female,62,Latvia,4,3,0,0,0,0,0,1,3,0,1,0,0,0,0,0,1,0,11.85,0
+Lauren Woods MD,male,60,Benin,2,1,0,0,1,0,2,0,0,1,1,1,0,1,1,1,0,0,38.7,0
+Robin Reed PhD,male,63,Japan,3,0,0,1,0,0,1,1,3,1,0,0,1,1,0,0,1,0,55.64,0
+Martha Mora,male,38,Turks and Caicos Islands,3,3,0,1,0,1,0,0,1,0,0,0,1,0,0,1,1,1,13.39,1
+Connor King MD,female,62,Liberia,1,1,0,0,1,1,0,1,1,0,0,0,0,0,1,1,1,1,48.17,1
+Kristen Watson,male,83,Trinidad and Tobago,4,4,0,1,0,0,3,0,0,0,1,0,1,1,1,0,0,1,53.43,1
+Steven Long,female,78,North Macedonia,1,2,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,21.04,1
+James Moses,male,69,Croatia,1,1,1,0,0,1,3,0,0,0,1,1,1,0,1,1,0,1,24.63,0
+Ariel Wilson,male,88,Samoa,4,0,0,0,0,1,2,0,4,0,1,0,1,0,1,1,0,1,53.39,0
+Joel Harper,male,34,Liberia,0,3,0,1,0,0,1,0,2,1,1,1,0,0,1,0,0,0,56.8,1
+Kristy Gonzalez,male,34,Cameroon,1,1,1,0,1,0,3,1,2,0,0,0,0,1,1,0,0,0,12.42,0
+Jordan Miller,female,17,Faroe Islands,1,3,0,0,1,1,1,1,1,1,0,0,1,1,1,0,0,0,52.3,1
+Kristopher Waters,male,56,Niger,3,1,0,0,0,1,4,0,0,0,0,0,1,0,1,0,0,0,31.17,0
+Lori Olsen,male,84,Congo,4,1,0,0,1,0,4,1,0,1,1,1,0,0,1,1,0,0,50.04,0
+Geoffrey Lawson,female,20,Iraq,1,2,1,1,0,1,3,0,2,1,0,0,1,1,0,1,1,0,9.12,0
+Karen Lester,female,40,Barbados,0,0,1,1,0,1,4,0,4,1,0,1,0,0,1,0,0,1,31.66,0
+Shawna Stuart,female,71,Colombia,4,0,0,1,0,0,1,1,3,0,1,0,1,1,0,1,0,0,24.02,0
+Glenda Walton,female,97,Maldives,4,2,0,0,0,0,3,0,3,1,1,0,1,0,1,1,0,0,16.88,0
+Frances Chandler,female,84,Myanmar,1,4,1,1,1,1,4,1,1,0,1,1,0,0,1,0,1,0,13.46,0
+Kelsey Martin,female,55,Mongolia,4,3,0,0,1,1,2,1,1,0,1,1,0,1,0,0,1,1,36.61,0
+Emily Lewis,female,65,Dominican Republic,2,0,1,1,1,0,4,1,4,1,0,1,1,1,1,0,1,0,16.57,0
+Noah Lopez,female,94,Isle of Man,2,4,0,1,1,1,4,1,0,0,1,1,1,1,1,0,1,1,44.36,0
+Kenneth Murray,female,21,Australia,2,2,0,0,1,1,4,1,3,1,0,1,1,0,1,0,0,1,35.06,0
+Desiree Powers,female,100,Saint Lucia,1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,1,0,0,43.61,1
+Karen Ellis,male,95,Montenegro,3,2,0,1,1,1,1,1,4,0,0,1,1,1,1,1,0,1,5.29,0
+Kelly Nunez,male,23,French Southern Territories,3,3,0,1,1,0,2,1,3,0,0,1,1,0,0,0,0,0,45.96,1
+Danny Tyler,male,25,Micronesia,2,1,1,1,0,0,3,1,0,0,1,1,1,1,1,0,0,0,30.35,0
+Lisa Adams,male,86,Nicaragua,3,3,1,1,1,0,4,0,3,0,0,1,1,1,0,0,0,1,15.65,0
+David Matthews,male,79,Guernsey,0,4,1,0,1,1,4,1,1,1,1,1,1,1,0,0,1,0,57.43,1
+Cynthia Peterson,female,41,Romania,3,0,0,1,0,1,4,0,2,1,0,0,0,1,1,1,1,0,35.47,0
+John Rodriguez,male,17,Montserrat,2,2,1,1,0,1,3,0,3,0,0,1,1,0,0,1,0,0,21.51,0
+Sonia Warren,male,15,Comoros,2,2,0,1,0,0,1,1,0,1,0,1,1,0,0,0,0,1,22.85,0
+Ashley Norman,female,55,Ghana,2,3,0,0,0,1,1,0,4,1,1,0,1,0,0,0,0,0,58.78,0
+Tammy Smith,female,35,Netherlands Antilles,0,1,1,1,0,1,0,1,0,1,0,1,1,0,1,1,1,1,40.64,1
+Justin Roberts,male,14,Bulgaria,0,0,0,1,0,1,4,1,2,1,0,1,0,1,0,0,1,1,23.91,0
+Tammy Webb,female,63,Morocco,1,0,0,1,0,1,3,1,3,0,0,1,0,1,0,1,1,1,33.52,0
+Lauren Thomas,female,52,Guinea,3,3,0,1,0,1,1,0,2,0,1,0,0,1,0,1,1,1,24.47,0
+Samuel Farley,male,86,Ethiopia,2,0,0,1,1,1,1,0,3,0,0,1,1,0,1,0,1,1,29.65,0
+Anna Rojas,male,40,Kyrgyz Republic,4,3,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,0,57.79,1
+Donald Smith,female,57,Portugal,3,3,0,0,1,0,3,1,0,1,1,1,0,0,1,1,0,0,45.38,0
+Sierra Williams,female,95,Belize,2,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,20.54,0
+Travis Mclean,male,18,Burundi,2,2,0,0,0,0,1,0,3,0,1,0,1,0,0,0,0,1,18.43,0
+Andrea Henson,female,33,Mali,0,2,1,1,0,1,2,1,2,1,0,1,0,1,0,0,0,0,39.77,1
+Amy Williams,female,87,Holy See (Vatican City State),1,4,0,1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,53.44,1
+Melissa Cook,male,100,Greenland,4,0,0,1,0,0,2,0,1,1,0,1,1,0,0,1,0,0,51.67,0
+Sarah Le,male,12,Senegal,4,0,1,1,1,1,4,0,2,1,0,0,1,0,1,0,0,1,30.74,0
+Mitchell Page,male,22,Belgium,0,1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,33.99,1
+Christopher Jones,female,25,Northern Mariana Islands,3,3,1,1,0,0,3,1,1,1,0,0,1,1,1,1,1,1,16.84,0
+Faith Baker,male,72,Mexico,1,3,1,1,1,1,0,0,2,1,1,0,0,0,1,0,0,0,20.71,1
+Travis Long,female,88,Martinique,0,2,0,0,0,1,1,1,2,1,0,1,1,0,0,1,1,0,5.45,0
+Angela White,male,81,Nigeria,1,2,0,1,0,0,2,0,2,0,1,0,1,0,0,1,0,0,26.09,0
+Mary Contreras,female,44,Tajikistan,4,3,0,0,1,0,1,1,3,0,0,1,1,0,0,0,0,0,11.79,0
+Mrs. Danielle Aguirre,female,40,Togo,3,0,1,0,1,1,3,0,3,1,0,0,1,1,0,1,1,1,44.7,0
+Karen Gaines,female,99,Cuba,2,1,1,0,1,0,0,0,1,1,0,1,1,1,0,1,0,0,57.6,0
+Laura Walker,female,43,Dominican Republic,0,4,1,0,0,1,2,1,2,1,1,1,1,0,1,1,0,1,54.02,0
+Patrick Farrell,male,85,Bosnia and Herzegovina,3,2,0,0,1,1,1,1,0,1,0,0,1,0,1,1,1,0,5.65,0
+Donald Barber,female,80,United States Virgin Islands,3,3,0,0,1,1,3,1,4,1,1,0,0,1,1,1,0,1,25.07,0
+Lucas Smith,male,8,India,4,2,0,0,0,1,3,0,2,1,0,1,1,0,1,1,1,0,16.55,0
+Edward Arellano,male,19,Taiwan,2,3,0,1,1,0,1,1,4,0,1,0,0,0,1,1,0,0,6.86,0
+Debra Harding,female,21,Italy,3,4,0,1,1,0,0,0,1,1,1,0,0,0,1,1,1,1,51.33,1
+Frank Velazquez,female,74,Kyrgyz Republic,2,0,1,1,1,0,2,0,0,0,0,1,1,0,1,0,0,0,14.56,0
+Luis Young,female,81,Korea,2,0,1,0,0,0,0,0,4,1,1,1,0,0,1,1,1,1,59.43,0
+Heather Shepherd,female,69,Gabon,3,4,1,1,0,1,4,1,4,0,1,1,0,0,1,0,1,0,25.6,0
+Darrell Sims,female,94,Antigua and Barbuda,2,0,1,0,0,1,4,0,4,0,1,1,0,1,0,0,0,1,13.61,0
+Alexis Love,female,37,Argentina,1,2,1,0,0,1,1,1,3,1,0,1,1,0,0,1,0,0,39.52,0
+Wesley King,female,18,Niger,2,0,1,0,1,1,0,0,4,0,0,1,0,0,1,1,1,1,20.96,0
+Brian Parsons,male,26,Costa Rica,4,3,0,1,1,1,2,0,2,1,0,0,1,1,0,0,0,1,25.61,1
+Alexander Lawson,male,20,Cameroon,2,3,0,1,1,0,3,0,4,1,0,0,0,0,0,1,0,1,9.48,0
+Mr. Matthew Farmer MD,female,17,Uganda,4,1,1,0,1,1,4,0,3,1,1,1,1,1,1,0,1,1,19.36,0
+Steve Martin,male,7,Korea,3,2,1,1,0,0,4,1,1,1,1,1,0,0,0,1,0,0,38.3,0
+Sean Kelly,female,56,French Polynesia,2,3,1,0,1,1,2,0,0,0,0,0,1,1,0,0,0,0,37.49,0
+James Barnett,male,16,Suriname,1,1,1,1,1,0,1,1,1,0,1,0,1,0,0,1,0,1,26.77,1
+Diana Fuentes,male,58,Haiti,0,2,0,1,1,0,0,0,1,0,0,1,0,0,1,1,1,0,18.93,0
+Mitchell Torres,male,98,Colombia,0,1,0,1,1,0,0,1,4,0,0,0,0,0,1,0,0,1,22.94,0
+Tiffany Ruiz,female,97,Uganda,4,0,0,1,1,0,4,0,0,0,0,1,0,1,1,0,1,1,11.21,0
+Shane Mcdaniel,male,52,Cook Islands,2,1,1,1,0,1,1,0,4,0,0,1,1,1,1,1,0,0,52.06,0
+Danielle Guerrero,male,46,Angola,1,3,1,1,0,1,0,1,4,0,0,0,0,0,0,1,0,1,12.33,0
+Tony Holt,male,98,Nicaragua,1,0,1,1,0,1,4,1,2,1,1,0,0,1,1,1,1,0,30.91,0
+Alexis Glenn,female,5,Swaziland,2,1,0,1,1,1,2,0,4,0,1,1,1,1,0,1,1,1,12.84,0
+Julie Terry,female,98,Montenegro,3,1,0,1,0,1,1,0,2,1,0,0,0,0,0,0,0,1,48.78,1
+Rachel Graham,male,74,Yemen,2,0,0,1,1,1,1,0,3,0,1,1,1,1,0,0,0,1,39.45,1
+Mark Cook,female,61,Wallis and Futuna,0,0,1,1,1,0,0,0,1,0,1,1,1,1,0,1,0,1,9.11,0
+Abigail Merritt,male,38,Burundi,3,0,0,0,0,1,3,0,2,0,0,1,1,0,0,0,1,1,9.54,0
+Martha Davis,male,8,Palau,1,2,0,0,0,1,1,1,0,0,1,1,1,0,0,1,1,0,14.53,0
+Michelle Harrison,female,81,Gambia,2,0,0,0,1,1,3,0,1,0,0,1,1,0,0,1,1,0,25.06,0
+Mark Graham,female,24,Italy,0,0,1,0,1,1,4,1,0,0,1,1,1,1,0,1,1,0,21.58,0
+Seth Grimes,female,41,Australia,3,1,0,0,0,0,0,1,3,1,1,0,1,1,0,1,1,0,5.92,0
+Nancy Jones,male,79,Christmas Island,3,1,1,1,1,0,4,1,4,1,0,0,1,1,1,0,0,1,41.78,0
+Terry Taylor,female,86,Barbados,3,1,1,1,1,0,1,1,3,1,1,1,1,1,0,0,1,1,51.23,0
+Christopher Williams,male,42,Bouvet Island (Bouvetoya),3,1,1,1,0,0,1,1,4,1,1,1,1,1,1,1,1,0,21.4,0
+Jamie Kelly,male,27,Kyrgyz Republic,3,3,0,0,0,0,0,1,1,1,1,1,0,1,1,0,1,1,35.35,1
+Michael Cook,male,100,Guinea,0,1,0,0,1,1,2,0,4,0,0,0,0,0,0,0,1,0,27.21,0
+Mary Klein,male,18,Trinidad and Tobago,4,4,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,45.98,1
+Emily Baker,female,21,Nepal,4,4,1,1,1,1,2,1,0,0,1,1,1,0,1,0,0,0,12.44,0
+Jennifer Hunt,male,71,Somalia,3,3,0,0,1,1,2,0,4,0,0,1,1,1,1,1,0,0,10.16,1
+Margaret Ross,female,84,Ghana,2,1,1,1,0,0,1,1,0,1,1,0,0,0,1,0,1,0,20.65,0
+Jason Adams,female,35,Bouvet Island (Bouvetoya),0,0,1,1,0,1,2,0,3,0,0,0,1,0,0,1,0,1,8.11,0
+Sarah Edwards,female,79,Niger,0,0,1,0,0,0,0,0,4,1,1,1,0,1,0,0,1,0,33.35,0
+Herbert Montgomery,female,91,Kuwait,3,2,0,0,0,1,2,1,2,1,1,0,1,1,1,1,1,1,24.21,0
+Adrienne Bryan,female,42,South Georgia and the South Sandwich Islands,0,2,0,0,0,0,0,1,2,1,1,0,1,0,0,0,0,1,33.65,0
+Denise Roberson,female,96,Ghana,1,2,1,0,1,1,3,0,1,1,0,1,0,0,0,1,1,0,50.97,0
+Jeremiah Rosales,female,31,Saint Barthelemy,2,0,1,0,1,1,3,1,2,0,0,1,0,0,0,1,1,1,37.04,1
+Nancy Neal,male,7,Aruba,2,0,1,1,0,0,2,1,4,0,1,1,1,0,1,0,0,1,48.4,0
+David Taylor,male,27,Timor-Leste,3,4,0,0,0,1,2,0,0,0,1,0,1,0,1,1,0,1,6.72,1
+Rebecca Peterson,male,88,Lao People's Democratic Republic,1,4,0,1,1,1,2,0,1,1,1,1,0,0,0,1,0,0,39.69,0
+Katherine Johnson,male,17,Montenegro,0,1,1,1,1,1,4,1,3,1,1,1,1,1,1,0,0,1,27.62,0
+Alexander Calhoun,female,18,Greece,4,3,1,1,1,1,0,1,3,0,1,0,1,1,0,1,0,1,19.19,0
+Crystal Hoffman,male,54,Guyana,1,1,1,0,0,0,3,0,4,0,1,1,0,0,0,1,1,0,57.59,0
+Hannah Hawkins,female,30,Monaco,2,3,0,1,1,1,4,1,3,1,1,1,1,0,0,1,1,1,37.22,0
+Heather Hunter,female,83,Benin,2,0,1,1,1,1,3,0,2,0,0,0,1,0,1,0,1,0,25.38,0
+Charles Goodman,male,70,Uruguay,0,3,1,1,1,0,4,1,3,1,0,1,1,0,0,1,0,0,12.73,0
+Tamara Phillips,male,87,Belize,2,2,1,0,1,0,0,1,2,0,1,1,1,1,1,1,1,1,13.22,0
+Michael Pineda,female,13,Ukraine,1,2,1,0,1,1,2,0,2,1,1,1,1,1,0,1,0,1,50.09,0
+Brian Oconnor,female,5,Niger,3,2,0,1,1,1,4,1,2,1,0,1,0,0,0,0,1,0,33.16,0
+Tiffany Stevens,female,90,Papua New Guinea,4,0,1,1,1,0,2,0,0,1,0,0,1,0,1,0,0,0,16.16,0
+Jonathan Baker,male,92,Western Sahara,0,1,1,1,0,1,4,0,3,1,0,0,0,1,0,1,1,0,57.39,0
+Zachary Kelly,female,81,Algeria,4,2,0,1,0,0,0,1,1,0,1,0,1,0,0,0,0,1,47.3,0
+Stephen Olsen,male,94,Croatia,0,2,1,1,1,1,0,1,3,1,0,1,1,1,1,0,0,0,44.15,0
+Raven Williams,male,51,Mexico,4,0,0,0,1,0,2,0,0,0,1,1,1,0,0,1,1,1,34.69,0
+Richard Phillips,male,9,Slovakia (Slovak Republic),1,3,0,0,0,1,1,1,2,1,0,1,1,0,0,0,0,0,8.94,0
+Cindy Benitez,female,23,Uruguay,2,2,0,0,0,1,1,0,1,1,0,1,0,1,0,1,0,1,9.26,1
+Rodney Garrett,female,31,Montserrat,4,4,1,0,1,0,0,1,3,0,1,0,1,1,1,0,0,0,59.11,1
+Olivia Marquez,female,54,Zimbabwe,3,0,1,1,0,0,2,0,3,1,0,0,0,1,1,0,1,0,48.68,0
+Richard Thomas,male,64,Hong Kong,0,4,0,0,0,1,0,0,2,1,1,1,1,0,1,1,1,0,52.75,1
+Jeffrey Huffman,male,77,Bangladesh,3,1,1,0,0,0,0,1,2,1,0,0,1,0,1,0,0,1,52.88,1
+Robin Anderson,male,6,Pakistan,2,2,0,1,1,1,0,1,4,1,1,1,0,0,0,0,1,0,8.45,0
+Laura Hebert,male,78,Grenada,0,0,1,0,0,0,4,1,4,0,1,0,1,1,0,1,1,1,53.14,0
+Damon Gilbert,male,90,Iceland,1,4,1,1,1,1,3,0,4,0,0,0,0,1,1,0,0,0,24.32,0
+Terry Barker,female,71,Algeria,1,4,1,1,1,0,3,0,1,0,1,0,1,0,0,0,0,1,46.17,0
+Janice Vasquez,male,48,Norway,2,3,0,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0,28.93,1
+Frank Morris,female,27,Greenland,2,4,0,1,0,0,1,0,0,1,0,0,0,1,1,0,1,1,16.48,0
+Daniel Wong,male,53,Gambia,1,4,1,1,0,1,1,1,0,0,0,1,1,0,0,1,0,1,6.74,0
+Alyssa Ruiz,male,19,Gambia,2,4,1,1,1,1,2,0,0,0,1,1,1,0,1,0,1,1,53.55,1
+Paul Brown,female,25,Singapore,1,2,1,1,1,0,4,0,4,1,1,1,0,0,1,0,1,0,29.25,0
+Maureen Pennington,female,61,Jamaica,2,2,0,1,1,0,0,1,2,1,0,1,1,1,0,1,0,0,53.34,0
+Teresa Leon,male,54,Cambodia,2,0,1,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,49.46,0
+Timothy Cox,male,86,Mongolia,4,3,0,0,0,0,3,0,3,1,1,1,0,0,0,0,0,1,42.45,0
+Victoria Bryan,male,85,Belgium,4,3,1,0,1,0,1,1,1,1,1,0,0,0,1,1,0,0,10.74,1
+Matthew Hardy,male,48,Italy,4,2,0,1,1,1,4,0,3,1,0,1,0,0,1,0,0,0,40.45,0
+Kevin Watkins,female,21,Norfolk Island,3,1,1,1,0,0,2,0,4,1,0,0,0,0,0,0,1,0,44.96,0
+April Salas,male,81,Isle of Man,3,0,1,0,1,0,0,0,1,1,1,1,0,0,1,1,0,1,22.92,0
+Sean Thomas,female,49,Holy See (Vatican City State),2,0,1,0,0,0,3,1,4,0,1,1,1,0,0,1,1,1,34.06,0
+Cody Mack,male,25,Anguilla,0,3,0,0,1,1,0,1,4,1,0,0,0,1,0,0,1,0,11.65,0
+James Burke,female,15,French Southern Territories,4,2,1,1,1,0,0,1,0,0,1,1,0,1,1,1,1,1,35.77,1
+Lisa Martinez,male,39,Saint Barthelemy,4,3,1,1,1,0,0,0,3,0,1,0,1,1,1,0,1,0,38.81,1
+Tina Jones,female,17,Nigeria,3,2,0,1,0,0,3,0,2,0,1,0,0,1,1,0,0,0,38.27,1
+Hailey Chandler,male,52,Liechtenstein,0,1,1,1,0,0,0,1,2,1,1,0,1,0,0,0,1,0,15.68,0
+Valerie Patterson,female,54,Mexico,2,4,0,0,1,0,3,1,4,1,0,1,0,0,0,1,0,0,48.08,0
+Troy Rivera,female,72,Germany,4,0,1,1,0,0,3,1,0,1,0,1,0,1,1,0,1,1,46.19,0
+Meghan Morrison,male,45,Malta,2,2,0,0,0,1,3,0,1,1,0,1,0,1,0,1,1,0,45.29,0
+John Bartlett,male,11,Micronesia,4,4,0,0,1,1,0,1,4,0,0,0,1,0,0,1,0,0,12.38,0
+Megan Wright,male,64,French Polynesia,0,2,0,1,1,0,2,0,2,0,1,0,0,0,0,0,1,1,23.4,0
+Savannah Franklin,female,29,Iceland,1,0,0,1,1,1,4,1,0,1,1,0,0,0,0,1,0,0,56.32,1
+Stephanie Keith,female,88,Wallis and Futuna,4,0,0,1,0,1,1,1,4,1,1,1,0,0,1,0,1,0,33.92,0
+Erica Taylor,male,30,Bouvet Island (Bouvetoya),4,0,0,0,1,0,4,1,4,0,1,1,1,0,1,0,1,0,7.35,0
+Amy James,female,10,Turks and Caicos Islands,4,3,1,1,0,1,0,1,1,1,0,1,0,0,1,1,1,1,23.95,0
+Meredith Foster,male,60,Philippines,2,1,1,1,1,1,2,0,1,1,0,1,0,0,0,1,1,1,35.78,0
+Theresa Meyer,female,65,Tokelau,2,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,40.26,0
+John Bush,female,62,Congo,2,2,0,1,1,0,1,0,2,1,0,1,0,1,1,1,1,1,9.25,0
+Douglas Bautista DVM,male,81,Bahamas,1,0,1,0,1,0,3,1,0,1,0,1,1,0,1,1,1,1,16.98,0
+Wayne Elliott,female,35,Chad,3,0,0,1,1,1,0,0,4,1,0,0,0,0,1,1,0,0,17.73,0
+Julie Allen,female,24,Chile,0,0,0,1,1,0,3,0,0,1,1,1,1,0,1,0,1,1,39.18,0
+Valerie Hayes,female,53,Hong Kong,4,4,1,0,1,0,1,0,0,0,1,0,0,1,1,1,1,0,35.49,1
+Gregory Richard,male,93,Guatemala,4,3,0,0,1,1,4,1,3,1,0,0,0,0,1,1,1,1,55.88,0
+Dr. Joshua Adams,female,52,Latvia,1,1,0,1,0,1,3,0,4,1,1,0,0,0,1,1,1,1,52.74,0
+Brandon Palmer,female,31,Saint Kitts and Nevis,1,1,0,1,0,1,0,0,0,1,1,1,1,0,0,1,1,0,15.33,1
+Gregory Evans,female,88,Mongolia,2,3,1,1,0,0,1,1,3,0,1,0,0,0,1,1,0,0,24.81,0
+Natasha Flores,male,93,Namibia,3,4,1,1,1,0,0,1,3,0,1,0,1,0,0,1,0,0,57.82,1
+Alyssa Proctor,male,40,Chile,0,2,1,0,0,1,0,1,1,0,1,0,1,0,0,0,1,0,5.11,0
+Karina French,female,65,Bermuda,3,0,1,1,0,1,2,1,2,0,1,1,0,1,1,0,1,1,10.02,0
+Susan Wilson,male,93,Northern Mariana Islands,3,3,1,0,1,1,4,0,2,0,0,0,0,1,1,0,0,0,42.9,1
+Cody Marquez,female,70,Canada,1,4,0,0,1,0,3,1,1,0,1,1,0,0,0,0,1,0,11.63,0
+Sarah Torres,male,65,Liechtenstein,4,4,1,1,0,1,0,0,4,1,0,1,0,1,1,1,0,1,25.77,1
+Erika Sherman,female,54,Cook Islands,0,3,1,1,1,1,1,1,4,0,1,1,0,0,0,1,1,1,49.72,0
+Jennifer Walls,male,63,Brazil,3,4,0,0,1,1,0,1,3,1,0,0,0,1,0,0,0,1,14.52,0
+Preston Brown,female,68,Brazil,0,0,0,0,1,1,0,0,4,1,1,1,1,1,0,0,0,1,49.14,0
+Lisa Hernandez,male,73,Sao Tome and Principe,3,4,1,1,0,0,1,1,0,1,1,0,1,1,1,0,0,1,28.32,1
+Joshua Dyer,female,26,India,4,2,0,1,1,1,4,0,0,1,1,0,1,1,0,0,0,1,48.18,1
+Courtney Miller,female,35,Thailand,4,0,0,0,1,0,0,0,3,0,0,1,0,1,0,1,1,0,56.35,0
+Chloe Moreno,female,7,Burkina Faso,4,4,1,1,0,1,2,0,4,0,0,0,1,1,0,0,0,0,54.82,0
+Jonathan Walker,male,52,Iceland,1,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,1,18.28,0
+Brian Graham,male,43,Timor-Leste,0,1,1,1,1,0,1,0,4,0,1,1,0,1,1,0,0,0,59.39,0
+Brenda Farmer,male,52,Wallis and Futuna,1,2,0,1,0,0,4,1,4,0,0,1,0,1,1,1,1,0,18.17,0
+Crystal Hill,male,88,Guernsey,0,4,0,0,1,0,3,1,3,0,0,0,0,1,0,0,0,0,21.08,0
+Steven Herman Jr.,male,86,Ecuador,1,3,0,0,1,1,1,0,1,1,0,0,0,0,1,0,1,1,26.03,1
+Jonathan Lowe,female,25,Zambia,2,3,1,0,1,0,1,1,4,1,1,1,1,1,0,1,0,1,41.34,0
+Lisa Williams,female,51,Jamaica,1,2,1,0,1,0,4,1,3,1,1,1,1,1,0,0,1,1,48.93,0
+Charles Rubio,female,54,Syrian Arab Republic,4,0,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,0,9.58,0
+Brandon Reilly,male,19,Aruba,1,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,1,5.41,1
+Michael Maldonado,female,35,Mayotte,0,2,1,0,1,1,4,0,2,1,0,1,0,1,0,0,0,1,51.19,0
+Joann Glenn,female,7,Botswana,3,1,1,0,1,0,3,1,0,1,0,1,0,0,0,1,1,0,38.65,0
+Alexander Hall,male,37,Bosnia and Herzegovina,0,1,0,0,0,0,1,0,4,0,1,0,0,1,0,1,1,0,47.78,0
+Sydney Nguyen,female,89,Japan,1,2,1,0,1,0,1,1,4,0,1,1,1,0,1,0,1,1,9.67,0
+Jennifer Snow,male,32,Ethiopia,2,0,1,1,1,0,0,0,1,1,0,0,0,1,0,1,1,0,35.73,1
+Kaylee Ruiz,female,35,Luxembourg,4,3,1,1,1,0,4,1,0,0,0,1,0,1,0,1,1,0,51.03,0
+Wesley Lang,male,14,Yemen,0,3,1,1,0,0,3,1,1,1,0,1,1,0,1,1,0,1,24.88,0
+Samuel Hall,male,35,Turkey,1,0,0,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,34.91,1
+Dawn Wolfe,female,73,Botswana,2,2,1,0,1,1,0,1,4,0,1,1,1,0,1,0,1,0,24.02,0
+Sean Flores,male,76,Trinidad and Tobago,2,2,0,0,1,1,3,0,4,0,0,1,0,0,1,0,0,0,32.6,0
+Christina Gonzalez,female,41,American Samoa,0,0,0,1,1,0,2,1,2,1,0,1,1,0,1,1,0,0,28.01,0
+Katelyn Montgomery,female,84,Svalbard & Jan Mayen Islands,4,2,1,1,1,1,1,0,4,1,0,1,0,0,1,0,1,0,25.23,0
+Melissa Jenkins,female,68,Monaco,2,4,0,1,0,1,3,1,2,1,0,0,0,1,1,1,0,0,51.59,0
+Edward Adkins,female,9,Iran,3,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,0,42.79,1
+Kathleen Adkins,female,25,Tanzania,0,1,0,0,1,0,2,0,4,0,1,0,0,1,0,0,1,1,40.37,0
+Larry Daniels,male,19,Haiti,2,4,1,0,1,0,4,1,1,0,0,1,0,1,1,1,0,0,39.62,1
+Andrea Stevens,female,93,Malawi,1,2,0,1,1,1,3,1,3,0,0,0,0,0,0,1,1,1,24.79,0
+Joshua Juarez,male,8,Ukraine,3,1,1,1,1,0,4,0,0,1,1,0,1,1,1,1,0,0,21.66,0
+Dr. John Ramos,male,66,Falkland Islands (Malvinas),3,2,1,1,1,0,3,1,2,0,0,1,0,1,1,0,0,1,19.82,0
+Mary Bennett,female,86,Oman,4,4,0,1,0,1,3,1,1,1,0,0,1,1,1,1,0,1,39.07,0
+Mandy Mitchell,male,13,Guatemala,1,4,0,0,0,0,3,1,3,1,1,1,0,0,1,0,1,1,51.32,0
+Erika Barnes,male,37,Faroe Islands,1,0,1,1,0,0,1,1,4,1,1,1,0,0,0,0,0,0,10.85,0
+Jeffrey Thompson,female,87,Malta,3,1,1,0,1,1,3,1,0,0,1,1,0,0,0,1,1,0,32.38,0
+Cindy Hogan,male,75,Qatar,2,2,0,1,0,0,1,1,4,0,0,0,1,1,1,0,0,0,14.41,0
+Jody Norton,male,87,Lebanon,2,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,0,0,32.46,0
+Justin Clark,female,63,Saint Pierre and Miquelon,1,3,0,0,1,0,3,1,4,0,1,1,0,0,1,0,1,0,42.57,0
+Charles Brown,male,30,Norway,0,1,1,0,1,1,3,1,2,1,1,1,1,0,0,1,1,1,38.14,1
+Jeffrey Hull,female,96,Cook Islands,0,1,0,1,0,1,4,1,1,0,0,1,0,1,1,0,1,0,37.25,0
+Abigail Hogan,female,69,Canada,4,2,1,0,1,1,3,0,3,0,0,0,1,1,0,1,1,1,18.38,0
+Christopher Collins,female,91,Cuba,3,3,1,0,0,0,4,0,3,0,0,0,1,1,1,1,0,0,55.55,0
+Stephanie Perez,female,22,Sudan,0,1,0,1,1,1,0,1,2,0,0,0,0,1,0,0,1,1,57.76,1
+Krystal Sullivan,male,22,Indonesia,2,1,1,1,0,1,1,1,2,1,1,1,0,0,0,1,0,1,21.32,1
+Tina Taylor,male,74,Swaziland,1,4,1,0,0,0,4,0,3,1,0,1,0,0,0,0,1,0,46.0,0
+Richard Hinton,female,67,Micronesia,1,0,1,0,1,1,3,0,1,0,1,1,0,0,1,1,1,1,31.36,0
+Charlotte Fischer,female,91,Dominican Republic,0,3,1,0,1,0,4,0,0,0,1,0,1,0,1,1,0,1,47.31,0
+Maria Olsen,male,73,Jamaica,2,4,0,1,0,0,0,0,2,0,0,1,0,1,1,1,1,1,14.03,1
+John Montoya,male,63,Slovenia,0,3,1,0,1,1,3,0,2,0,0,0,0,0,0,1,1,0,18.51,0
+Cody Lee,male,56,Cape Verde,0,0,1,1,0,0,3,0,1,0,1,1,0,0,1,0,1,1,14.87,0
+Lee Navarro,female,28,Sudan,1,3,1,0,1,1,2,1,0,1,0,0,0,0,1,0,0,0,9.63,0
+Julie Mccullough MD,male,89,Macao,1,3,0,0,0,1,1,0,0,1,0,1,0,1,1,1,0,1,56.44,1
+William Jenkins,male,89,Dominica,1,4,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,52.12,1
+Bryan Gutierrez,male,39,Saint Vincent and the Grenadines,1,3,0,0,1,0,0,0,3,1,1,1,0,1,1,1,0,1,11.32,0
+John Martinez,male,38,Saudi Arabia,4,4,0,0,1,0,2,1,0,0,0,1,0,1,0,1,0,1,47.85,1
+Phillip Harper,female,90,Saint Lucia,1,4,0,0,1,1,1,0,4,1,1,0,1,1,0,1,1,0,54.58,0
+Matthew Carter,female,7,Guernsey,1,3,0,0,1,0,4,1,0,0,0,0,1,1,1,0,0,1,19.93,0
+Cody Velazquez,male,40,Kazakhstan,3,0,1,0,0,1,3,0,1,0,1,1,0,0,0,1,1,0,38.45,0
+Dylan West,male,77,Liechtenstein,2,0,1,0,1,1,3,1,4,0,1,1,0,0,0,1,0,1,53.39,0
+Michael Moore,female,60,Swaziland,0,0,0,1,0,0,2,1,0,1,0,0,1,1,0,0,1,0,29.71,0
+Brian Bullock,male,81,Austria,0,2,0,1,0,1,3,1,2,1,0,1,1,1,1,0,1,1,58.36,0
+Cynthia Mcgee,female,19,Mozambique,1,4,1,0,0,0,0,0,4,1,0,1,1,0,0,1,1,0,49.6,0
+Felicia Garcia,male,70,Bahrain,1,3,1,1,1,1,1,1,2,0,0,0,1,0,0,0,0,1,37.67,1
+Jordan Cox,female,78,Bermuda,0,4,1,1,0,0,0,0,2,0,1,1,1,0,0,1,1,0,23.69,0
+Elizabeth Perez,female,81,Cuba,1,3,1,0,1,1,1,0,1,1,0,0,1,0,0,0,1,0,6.48,0
+Holly White,male,20,United Arab Emirates,2,1,0,1,1,0,1,1,3,0,0,1,1,0,1,1,0,1,20.78,0
+William Hart,female,43,Zimbabwe,0,2,1,0,1,1,1,1,1,0,0,0,1,0,1,0,1,1,42.58,1
+Gregory Johnson,female,79,Burundi,1,0,1,1,1,0,0,0,4,1,1,0,0,0,0,0,1,0,25.46,0
+Chelsea Hamilton,male,24,Slovakia (Slovak Republic),0,0,0,1,1,1,3,1,0,1,1,1,1,1,0,0,1,1,27.47,1
+Jonathan Cochran,female,81,Gibraltar,0,3,1,1,1,1,4,1,0,1,1,0,1,1,1,1,1,0,41.37,0
+Matthew Haas,female,100,Cuba,4,3,0,1,0,0,2,1,1,1,1,0,0,1,1,0,1,1,28.66,0
+Edward Casey,female,53,Greenland,1,0,1,1,0,1,3,1,1,0,1,1,0,0,0,1,0,1,5.88,0
+John Kent,female,98,Monaco,1,2,0,0,0,1,4,1,1,1,0,1,0,1,1,1,0,1,55.7,0
+Margaret Barajas,female,24,Venezuela,3,1,1,1,1,0,2,0,4,0,1,0,1,1,0,0,1,1,7.72,0
+William Smith,female,62,Indonesia,4,0,0,0,0,1,3,0,4,0,1,0,1,0,0,0,1,1,47.91,0
+Jennifer Ho,female,61,Nigeria,1,4,1,1,1,0,3,1,1,0,1,1,0,0,1,0,0,1,19.71,0
+James Wright,female,80,Uganda,4,1,1,0,1,0,1,1,3,0,0,1,1,1,0,0,1,1,54.45,0
+Joseph Davis,female,15,Australia,3,3,1,1,1,0,4,0,0,1,0,0,1,1,1,1,1,1,14.7,0
+Lori Hill,male,74,Anguilla,2,3,0,1,0,0,3,1,1,0,1,0,0,0,0,1,1,0,54.97,1
+Jared Wilson,male,22,North Macedonia,2,0,1,0,0,1,0,1,3,0,0,1,1,1,1,0,0,1,49.35,1
+Jason Navarro,male,53,Micronesia,1,0,1,1,0,1,0,0,2,1,0,1,0,1,0,0,0,0,56.75,1
+Michael Smith,male,7,Mayotte,1,2,0,1,0,1,0,1,0,1,1,1,1,1,1,0,0,0,10.87,0
+Mary Moore,female,58,United Kingdom,1,2,0,1,1,1,2,1,1,1,0,1,1,0,1,0,0,0,29.82,0
+Michael Oliver,female,76,Belarus,3,1,0,1,1,0,1,1,4,0,0,1,0,1,1,0,0,0,52.41,0
+Brandi Sullivan,male,92,Lithuania,0,0,0,0,1,1,4,0,1,1,1,0,0,1,0,0,1,1,46.74,0
+Phillip Miller,male,38,Guadeloupe,1,4,1,0,0,1,3,1,1,0,1,1,1,1,0,0,1,1,32.33,0
+Joseph Lee,female,45,Egypt,4,0,0,0,0,0,3,0,2,1,0,0,1,1,0,1,1,0,27.03,0
+Wayne Ward,female,83,Netherlands,1,4,1,0,1,0,4,1,1,1,1,0,0,0,0,1,0,1,32.86,0
+Mary Miller,female,44,Netherlands Antilles,0,0,1,1,1,1,4,1,4,1,1,1,1,0,1,0,1,0,45.02,0
+James Castaneda,male,60,Singapore,2,2,1,0,1,0,0,0,2,0,1,1,1,0,0,1,1,0,50.86,0
+Kenneth Bass,male,67,Philippines,1,3,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,47.73,1
+Kyle Thomas,female,98,Kyrgyz Republic,0,2,1,0,1,1,2,1,0,1,0,0,1,0,0,1,0,1,21.64,0
+Samuel Cook,male,54,Brunei Darussalam,1,1,1,1,1,1,4,0,3,1,1,0,1,1,1,1,0,1,37.98,0
+Amber Cohen,male,98,United Kingdom,3,0,0,1,1,1,0,1,2,1,1,1,0,0,0,0,1,0,17.89,0
+Cristian Jenkins,male,34,Timor-Leste,4,3,1,0,0,1,0,0,3,0,0,0,0,0,1,1,0,0,54.1,1
+Samantha Pugh,male,78,Christmas Island,2,0,0,1,0,1,4,1,0,1,1,1,0,0,0,0,1,1,35.32,1
+James Ford,male,97,Jamaica,4,3,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,24.78,1
+Gina Thomas,male,35,Ireland,0,2,1,1,0,0,0,0,4,0,1,1,0,1,1,0,0,1,31.85,0
+Mary Duncan,male,95,Burkina Faso,0,3,1,1,1,0,1,1,2,1,0,0,0,0,0,0,0,1,59.5,1
+Robert Stokes,male,60,Aruba,1,1,0,0,0,1,4,1,1,0,0,1,0,0,0,1,1,0,28.94,0
+Rhonda Castro,male,28,Mozambique,2,4,0,1,1,0,3,0,0,1,1,1,1,1,0,0,0,1,54.25,1
+Jose Torres,female,42,Indonesia,0,0,1,0,1,1,4,0,0,0,0,0,1,1,1,0,1,0,32.09,0
+Adam Lopez,female,90,Nepal,1,3,0,1,0,0,3,1,3,0,0,0,0,0,1,1,0,1,59.29,0
+Ronald Buchanan,female,5,Equatorial Guinea,1,1,1,0,1,1,1,1,4,1,1,1,1,0,1,0,1,1,8.39,0
+Maurice Davis,male,40,Vanuatu,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,16.5,0
+Cathy Cain,female,16,Belarus,4,1,0,0,0,0,3,0,0,0,1,0,0,1,0,1,1,1,10.3,0
+Sarah Thompson,male,19,Liberia,0,4,1,1,1,1,2,0,3,0,1,0,0,0,0,0,1,0,30.92,0
+Michele Moore,male,52,El Salvador,2,0,0,0,0,1,4,0,1,0,0,1,0,1,1,0,1,0,50.02,0
+Denise Garza,male,78,Tanzania,1,4,1,0,1,1,4,1,0,0,1,0,1,1,0,0,1,0,28.72,1
+Rebecca Smith,male,56,Holy See (Vatican City State),4,2,0,0,1,1,2,0,1,1,0,0,0,1,1,0,1,0,11.2,0
+Lauren Johnson,female,22,Liechtenstein,4,4,0,0,0,1,1,1,3,1,0,1,1,0,0,0,1,0,27.85,1
+Anthony Hess,female,55,Turkmenistan,0,2,1,1,1,0,4,0,2,0,1,1,1,1,1,0,1,0,34.24,0
+Carol Blevins,male,60,Barbados,0,1,0,0,1,0,0,0,1,1,0,1,1,1,1,0,1,0,59.74,0
+Donna Green,male,88,Solomon Islands,1,1,1,0,1,0,3,1,4,1,1,0,0,1,1,1,1,1,35.74,0
+Jennifer Warner,female,72,Timor-Leste,2,1,0,0,0,1,4,1,4,0,0,0,1,1,0,1,0,0,45.18,0
+Shawn Walton,male,47,Macao,2,1,0,1,0,1,1,1,2,1,1,0,0,1,0,1,1,0,56.09,1
+Susan Farrell,male,93,Bulgaria,4,4,1,0,1,0,2,1,2,1,1,1,1,1,1,1,1,0,38.24,1
+Kirk Holmes,male,5,Mayotte,3,4,1,1,1,0,1,0,3,0,0,0,0,1,0,1,1,1,7.62,0
+David Mendoza,female,50,El Salvador,0,1,1,1,1,0,4,1,3,0,0,1,0,1,1,1,0,0,57.19,0
+Sarah Cobb,male,98,Hungary,1,2,0,0,0,0,3,1,0,0,0,1,1,0,1,0,0,1,53.36,0
+Jared Hunter,female,51,Barbados,4,4,0,1,0,1,0,0,4,0,1,1,1,1,1,1,1,1,54.92,0
+Emma King,male,52,Niue,2,0,1,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,36.8,0
+Bryan Morales,female,46,Bulgaria,1,3,0,0,0,1,3,0,1,1,1,1,0,1,0,1,0,0,25.1,0
+Jody Dunn,male,11,Mexico,2,3,0,1,0,1,2,0,1,0,0,1,0,0,1,0,0,1,23.08,0
+Amanda Perry,female,85,Wallis and Futuna,1,3,1,1,0,1,3,1,4,1,0,1,1,1,0,1,0,0,47.62,0
+Angela Jefferson,male,44,Maldives,3,0,0,0,0,1,1,0,3,0,0,1,0,1,0,1,0,1,39.4,0
+Alexa Johnson,female,56,Mali,4,3,0,0,1,0,4,1,4,1,0,1,1,1,1,0,1,0,19.75,0
+Melissa Pacheco,female,95,Cote d'Ivoire,4,4,1,1,0,1,4,0,0,0,1,0,1,1,1,1,0,0,31.45,0
+Jay Zavala,female,37,Faroe Islands,3,4,0,0,0,1,4,1,4,0,0,0,1,1,0,0,0,1,35.21,0
+Lisa Mcdonald,female,23,Azerbaijan,4,4,1,1,1,1,3,1,1,0,0,0,0,0,0,0,0,1,24.61,0
+Michael Watts,male,71,Guam,3,1,0,1,1,0,1,0,1,1,0,1,0,0,0,1,0,0,9.68,1
+Paul Collins,male,75,Iran,1,4,1,1,0,0,0,1,0,1,1,1,1,1,0,1,0,0,27.97,1
+Sara Frederick,female,86,Haiti,2,4,1,1,0,1,4,0,4,1,1,1,0,1,1,1,1,0,19.27,0
+Linda Walker,male,35,Puerto Rico,2,2,0,1,0,0,1,0,0,0,0,1,0,0,1,1,1,0,10.31,0
+Terrence Malone,male,10,Tonga,4,1,1,0,0,1,1,0,0,1,0,0,1,0,1,0,1,1,40.24,1
+Nathan Patterson,female,61,Brazil,1,2,1,0,1,0,0,1,3,1,1,0,1,0,0,0,1,0,59.13,0
+Rebecca Rowe,female,38,Thailand,1,3,1,1,1,1,1,0,4,1,0,1,0,0,1,0,1,1,10.2,0
+Frances Anderson,female,69,Belgium,1,0,0,0,1,1,3,1,2,0,0,1,1,0,1,0,1,1,39.98,0
+Karen Elliott,female,23,Afghanistan,2,3,1,0,0,1,2,0,2,0,1,1,1,0,0,0,1,1,13.91,0
+Daniel Gibbs,female,21,Bahamas,4,2,0,0,1,0,3,0,1,1,1,0,1,0,1,1,0,1,12.22,0
+Jennifer Bowen,female,6,Vietnam,0,2,1,1,1,1,0,0,1,0,1,0,1,1,1,1,1,0,33.97,1
+Raymond Johnson,female,6,Kuwait,1,4,0,0,1,0,3,1,2,0,0,0,1,0,0,0,0,1,9.55,0
+Juan Parker,female,48,Albania,2,1,0,1,1,0,0,1,3,1,1,1,1,1,1,1,0,0,23.62,0
+Kylie Parker,female,97,Sweden,3,4,1,0,1,1,3,0,0,1,1,1,1,1,0,0,1,0,7.98,0
+Anthony Riggs,female,6,United Arab Emirates,3,0,0,1,0,1,0,1,3,1,0,1,0,1,1,1,1,0,25.3,0
+Adrian Mejia,female,29,Tonga,1,2,0,1,0,0,1,1,4,1,0,1,0,0,1,0,1,1,56.17,0
+Michael Bridges,female,89,United States Minor Outlying Islands,1,1,1,1,1,1,3,0,3,1,1,1,1,1,0,0,1,0,41.11,0
+Shawna Hoffman,male,34,Korea,3,4,0,0,0,1,3,1,3,1,0,1,1,0,1,1,1,0,12.29,1
+Ricky Young,male,32,Heard Island and McDonald Islands,1,2,0,1,1,1,4,1,4,0,1,1,0,1,1,0,0,0,21.96,0
+Martin Strong,female,64,Azerbaijan,4,0,0,0,0,1,2,0,3,0,1,0,0,0,0,1,0,0,19.56,0
+Amanda Zhang,female,91,Djibouti,4,3,1,0,0,0,2,0,1,1,1,1,0,1,0,1,1,0,39.79,0
+Amber Dominguez,female,100,Estonia,2,1,1,1,0,1,2,0,0,1,0,0,0,0,0,0,0,0,16.99,0
+Rebecca Garcia,male,87,South Africa,4,4,1,1,1,1,4,0,2,1,0,0,1,1,1,1,0,0,38.75,1
+Allison Black,female,24,Cote d'Ivoire,4,1,1,1,1,0,1,1,3,1,1,0,0,0,1,1,0,0,18.25,0
+Joseph Hampton,female,23,Saint Barthelemy,0,0,0,1,1,0,3,0,3,0,1,0,1,0,1,1,1,0,13.77,0
+Charles Crawford,female,56,Aruba,4,0,0,1,1,0,4,0,4,1,0,1,0,1,0,1,0,1,59.86,0
+Lauren Warren,male,65,Bolivia,2,0,1,0,0,0,2,1,1,0,0,1,0,0,0,0,0,1,48.21,0
+Gary Jordan,male,5,Colombia,3,2,1,1,1,0,0,0,3,0,0,1,1,0,1,0,0,0,31.59,0
+Kelly Bishop,male,10,Uzbekistan,4,0,1,0,0,1,4,1,0,0,0,1,0,1,0,1,1,0,30.9,0
+Ryan Galloway,male,55,Malawi,1,0,1,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,16.27,0
+Ryan Rice,female,28,Kyrgyz Republic,2,2,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,19.12,1
+Jennifer Mckenzie,female,51,Slovenia,0,3,1,1,1,1,3,1,0,0,0,1,1,1,0,1,1,0,32.77,0
+Pam Anderson,female,56,Palau,1,1,0,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,43.14,0
+Amanda Klein,male,67,Falkland Islands (Malvinas),2,4,1,1,0,0,3,1,1,0,1,0,0,0,0,1,1,0,20.55,0
+Cameron Norris,male,8,Slovenia,1,2,1,0,1,1,1,1,2,0,0,0,1,0,1,0,1,1,10.33,0
+Lisa Noble,female,82,Central African Republic,4,0,0,1,1,0,4,1,2,0,1,0,0,0,0,1,1,1,24.38,0
+Joe Medina,female,69,Kazakhstan,4,2,1,1,0,0,0,1,1,1,0,1,0,0,1,1,1,0,53.11,0
+Michael Whitaker,female,95,Slovenia,2,3,1,0,0,1,4,0,2,1,1,0,0,0,0,1,0,1,12.41,0
+Michael Christensen,female,14,Turkmenistan,4,3,1,0,1,0,3,1,0,1,0,0,0,1,1,0,0,0,10.53,0
+Dawn Kramer,male,21,Faroe Islands,4,2,0,0,0,0,3,1,0,0,1,0,0,1,1,1,1,1,14.5,0
+Laurie White,male,17,Zimbabwe,2,2,1,0,0,1,0,1,4,1,0,1,0,0,1,1,0,1,8.91,0
+Debra Perez,male,35,Uganda,3,2,1,0,0,0,4,0,3,1,1,1,1,0,1,0,1,1,32.81,0
+Mitchell Robertson,male,45,Suriname,3,1,1,1,0,1,3,1,1,0,1,1,1,0,0,0,1,0,57.87,0
+Laurie Coleman,male,28,Colombia,4,1,0,1,0,1,2,1,0,1,0,1,0,0,1,1,0,1,58.33,1
+Diane Pratt,female,69,Denmark,4,1,0,1,1,0,3,0,4,1,1,1,0,0,0,0,1,0,37.88,0
+Brent Perkins,male,87,Saint Kitts and Nevis,3,2,1,1,1,1,2,1,2,0,1,1,0,0,0,0,0,1,22.92,0
+Andrea Greene,male,34,Saint Helena,1,2,1,0,1,1,4,1,0,1,0,1,1,0,1,0,0,1,18.18,0
+Chad Collins,female,96,Libyan Arab Jamahiriya,4,0,1,1,0,0,3,1,1,1,0,0,0,0,1,0,1,0,6.41,0
+Mark Hicks,female,57,Netherlands Antilles,2,3,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,5.14,0
+Jeffrey Turner,female,18,Mongolia,1,4,0,1,1,0,2,0,3,1,0,1,0,1,0,0,1,0,19.8,0
+Chad Lee,female,38,Belarus,0,3,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,0,40.88,1
+Yvonne Parrish,male,44,Lesotho,3,2,1,0,1,1,2,0,2,0,0,0,1,1,1,0,1,1,30.75,0
+Chelsey Collins,male,16,Haiti,4,2,1,0,0,1,2,1,1,0,1,1,1,1,0,0,0,1,18.12,0
+Ashley Evans,male,16,Costa Rica,3,0,1,1,1,1,2,1,0,1,0,0,1,0,0,1,0,0,6.44,0
+Jonathan Park,female,95,Poland,3,4,1,1,1,1,4,1,2,1,1,1,1,0,1,1,0,0,8.99,0
+Craig Johnson,female,65,Palau,3,0,1,0,1,1,2,1,1,1,0,0,1,1,0,1,0,0,52.06,0
+David Shelton,male,17,San Marino,3,4,1,1,0,0,2,0,4,0,1,0,0,0,1,0,1,1,42.2,1
+Mark Villegas,female,42,Sao Tome and Principe,4,2,1,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0,43.55,0
+Catherine Jackson,male,75,Tunisia,2,3,1,0,0,0,3,0,3,0,0,1,0,1,1,1,0,0,49.51,0
+Joshua Dudley,female,23,Portugal,2,1,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,0,52.33,1
+Pamela Henry,female,56,Portugal,2,4,1,1,1,1,0,1,3,0,1,1,1,1,0,1,0,0,39.92,0
+Jennifer Chambers,male,57,United Arab Emirates,2,1,0,1,0,1,3,1,0,0,0,1,1,1,0,1,1,1,28.63,0
+Rhonda Taylor,female,88,Trinidad and Tobago,0,0,1,0,1,1,0,1,0,0,0,0,1,1,0,1,0,0,18.51,0
+Gina Spencer,female,57,Antarctica (the territory South of 60 deg S),4,4,0,1,1,1,1,0,1,1,1,0,0,1,0,1,0,0,43.1,1
+Patricia Leblanc,male,13,Turkey,3,2,1,0,0,1,2,0,3,0,0,1,0,1,0,0,0,0,21.42,0
+Gabrielle Estrada,male,22,Suriname,0,2,0,1,1,1,4,0,0,1,1,1,0,0,1,1,0,1,22.68,0
+James Hernandez,male,55,Philippines,4,0,0,1,0,1,2,1,1,0,1,1,0,0,0,1,0,0,17.25,0
+Roberta Coleman,female,28,Ireland,0,0,0,0,0,0,3,1,1,0,1,1,0,1,0,1,1,0,57.77,0
+Tyler Berger,male,56,Japan,0,0,0,0,0,1,1,0,2,1,0,1,1,0,1,1,0,0,50.67,1
+Timothy Hill,male,51,Suriname,0,0,0,1,1,0,0,1,3,1,1,1,1,0,1,0,0,1,47.11,0
+Steven Mejia,female,9,Faroe Islands,1,4,0,1,1,1,2,0,4,1,1,1,1,0,1,0,0,1,33.56,0
+Cynthia Smith,female,31,Bhutan,1,0,0,1,0,1,2,1,0,1,1,1,0,0,0,1,0,1,28.76,1
+Robert Edwards,male,48,Portugal,4,2,1,1,0,1,4,1,3,1,0,1,0,1,1,1,0,0,18.18,0
+David Franklin DVM,male,53,Nicaragua,3,2,0,0,1,0,3,0,4,0,1,1,0,1,1,1,1,1,13.87,0
+Jaime Howard,male,6,Micronesia,0,1,1,1,1,1,1,1,4,1,0,1,0,0,0,0,1,0,34.24,0
+Gregory Walter,male,33,Iraq,4,1,0,0,0,0,3,0,0,0,1,0,1,1,1,0,1,1,17.8,0
+Kathy Garcia,male,66,Haiti,0,1,0,0,1,1,0,0,4,0,1,0,1,1,1,0,1,0,15.79,0
+Monica Ramirez,male,11,Burkina Faso,1,4,1,1,0,1,2,1,3,1,0,0,0,1,0,1,1,1,54.26,0
+Brenda Brown,male,97,Tuvalu,4,2,1,0,0,1,0,1,2,0,1,1,1,1,0,1,1,1,53.61,1
+Christine Hull,male,25,British Virgin Islands,2,4,1,1,0,0,4,1,1,1,0,1,0,1,1,1,1,0,48.9,1
+Dennis Reyes,male,42,Andorra,1,3,0,1,1,1,2,1,1,0,1,0,1,1,1,1,1,0,16.55,0
+Jay Miller,female,18,Guyana,2,1,1,1,0,0,1,0,3,0,1,0,0,0,1,1,1,1,50.23,0
+David Hernandez,female,43,Turkmenistan,2,1,0,0,1,1,4,1,3,0,1,1,1,0,1,1,0,1,58.03,0
+Kent Skinner,male,41,Liechtenstein,4,2,1,1,1,0,4,1,3,1,1,0,1,1,1,0,0,0,49.79,0
+Michael Clayton,male,62,Netherlands,4,1,0,1,1,0,2,0,0,0,1,1,1,1,1,1,1,1,22.63,0
+Diane Sanders,female,36,Niger,4,4,0,0,1,1,2,0,3,0,1,1,0,0,0,0,0,1,30.14,0
+Eddie Dean,female,26,Brunei Darussalam,3,1,1,1,1,1,0,1,4,0,1,1,1,1,0,1,1,0,54.39,1
+John Griffith,male,89,Taiwan,0,3,0,0,0,1,4,0,1,1,0,1,0,1,1,0,0,0,57.39,0
+Janet Mathis,male,66,Western Sahara,4,0,0,1,1,0,1,1,1,0,0,1,1,0,0,1,1,0,25.89,1
+Alexa Martinez,female,20,Montenegro,3,3,1,0,0,0,4,1,3,0,0,0,1,1,1,0,1,1,40.72,0
+Rodney Bush,male,67,Tokelau,2,0,1,1,1,1,4,1,4,1,1,0,0,0,1,1,1,1,35.6,0
+Michael Hunt,male,38,Maldives,3,0,1,0,1,1,4,0,1,0,0,0,1,1,1,0,1,0,16.63,0
+Michele Crawford,male,66,Venezuela,3,2,1,1,0,1,2,1,1,1,1,1,0,0,0,1,1,0,22.15,0
+David Simpson,female,11,Japan,0,0,0,0,0,0,2,1,2,1,1,1,1,1,0,1,0,1,36.73,0
+Jason Sanchez,male,39,Netherlands Antilles,1,2,0,1,0,0,3,0,2,0,0,0,1,1,0,1,0,0,15.98,0
+Jordan Dennis,male,79,France,2,2,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,37.16,1
+Amanda Blackburn,female,43,Colombia,4,1,1,0,0,1,4,0,3,0,1,0,1,1,1,0,1,0,43.84,0
+Jackson Gross,female,94,Saudi Arabia,3,0,0,0,0,1,4,0,4,1,0,1,1,0,1,1,0,1,12.88,0
+James Stevenson,female,98,Mauritania,2,0,1,0,1,0,0,0,3,0,0,0,0,0,0,1,0,0,46.22,0
+Brent Hicks,male,18,Guyana,2,0,0,0,1,1,2,1,0,0,0,0,0,0,0,1,1,0,28.48,1
+Thomas King,female,84,Iraq,2,1,0,0,0,1,4,1,2,0,1,0,1,0,1,1,1,0,48.07,0
+Andrea Lopez,male,14,Gibraltar,0,0,0,1,0,0,4,0,3,0,1,1,1,0,0,0,1,1,7.82,0
+Richard Franklin,female,59,Qatar,4,2,1,1,1,0,4,0,3,1,0,0,0,0,1,1,0,1,44.21,0
+Kelly Holt,male,37,Turkmenistan,2,3,0,1,1,0,2,0,1,1,0,0,0,0,0,1,0,1,32.08,0
+Trevor White,male,63,British Indian Ocean Territory (Chagos Archipelago),4,2,1,0,1,0,2,0,3,1,0,0,0,1,1,0,0,1,19.65,0
+Vincent Miller,female,17,Niger,4,1,1,1,0,0,2,0,1,0,0,1,0,1,0,0,0,1,19.06,0
+Erin Leonard,female,35,Afghanistan,1,0,0,1,1,1,2,0,2,0,0,1,1,1,1,0,0,0,27.97,0
+John Clark,male,72,Wallis and Futuna,2,3,1,1,0,0,2,1,0,1,0,0,0,0,0,1,1,0,34.56,1
+Steven Maynard,male,84,Nauru,4,1,0,1,0,0,1,1,2,1,0,0,0,0,1,1,0,0,40.54,1
+Matthew Peterson,female,75,Madagascar,2,0,0,0,0,1,3,0,0,0,0,1,1,0,0,1,0,0,27.49,1
+Mike Huff,female,93,Singapore,1,1,0,0,0,1,1,1,4,0,1,1,0,0,0,1,0,1,43.09,0
+Jerry Grimes,male,100,Gibraltar,3,0,0,0,1,1,4,1,4,0,1,0,0,0,1,1,0,1,9.4,0
+Marissa Sanchez,female,89,Vanuatu,1,1,0,0,0,1,4,1,0,1,0,1,1,0,0,1,1,0,39.17,0
+Christopher Johnson,male,54,Belize,2,4,1,1,1,0,1,1,4,1,0,1,1,0,0,1,1,1,7.31,0
+Nathan Stewart,male,92,Sierra Leone,0,0,0,0,1,1,2,0,4,0,0,0,1,1,0,0,0,1,58.37,0
+Laura Smith,male,69,Portugal,3,4,1,1,0,1,2,1,0,1,1,0,0,1,0,0,1,0,27.1,1
+Sabrina Bruce,female,92,Colombia,3,4,0,0,1,0,2,1,1,1,0,0,0,0,1,1,0,0,29.87,0
+Steven Perez,male,60,Reunion,0,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,40.19,0
+James Ramirez,female,60,Italy,4,4,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,0,8.59,0
+Melinda Duffy,female,65,Fiji,2,0,1,1,1,0,0,0,2,1,1,1,0,0,1,0,1,1,18.1,0
+Madison Wilson,female,59,Iran,2,1,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,1,49.18,0
+Kara Middleton,female,77,Madagascar,3,0,0,1,0,1,3,0,1,0,0,0,1,0,0,0,0,1,10.34,0
+Benjamin Kelley,female,83,United States Minor Outlying Islands,4,0,1,1,0,1,1,1,4,0,1,0,1,0,1,1,0,0,40.88,0
+Brian Rowland,female,41,British Virgin Islands,2,3,0,0,0,0,4,0,4,1,0,0,0,0,0,1,0,1,16.72,0
+Vanessa Campos,female,55,Uganda,0,2,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,1,41.76,0
+Mrs. Anita Cooper,female,9,Antigua and Barbuda,2,4,0,1,1,1,4,1,3,0,0,0,0,0,1,0,1,1,5.81,0
+Randall Scott,male,55,Azerbaijan,2,1,0,0,1,1,3,1,3,0,1,1,1,0,1,0,1,0,33.65,0
+Christopher Graves,female,27,Rwanda,0,4,0,1,1,0,3,1,1,0,1,1,1,1,0,0,0,1,18.03,0
+Steven Brown,female,89,Yemen,0,3,1,0,1,0,1,0,2,1,1,1,1,1,1,0,1,0,55.13,0
+Michael Johnson,male,27,Botswana,3,2,1,0,0,1,3,0,1,0,0,1,1,0,1,0,1,0,34.78,1
+John Tucker,male,43,Belarus,3,2,1,1,1,0,3,1,4,0,0,0,0,0,0,0,0,1,24.16,0
+Kathy Ryan,male,61,Sao Tome and Principe,3,2,0,1,1,0,4,1,1,0,0,1,0,0,0,0,1,0,26.33,0
+Amanda Mathis,male,62,United States of America,1,1,1,1,0,1,2,1,1,0,0,1,0,0,0,1,0,1,21.84,0
+Barbara Davis,male,26,Zambia,0,3,0,1,0,1,3,0,0,1,1,1,0,0,1,1,0,1,22.69,0
+Jacob Carpenter,male,60,Vanuatu,1,2,0,1,1,1,3,0,1,1,0,1,0,1,0,1,0,1,16.17,0
+Jonathan Graves,female,55,Papua New Guinea,1,3,1,1,0,0,4,0,2,1,1,1,1,0,0,0,0,1,14.72,0
+Holly Orozco,female,100,Heard Island and McDonald Islands,1,4,1,1,0,1,2,0,0,1,0,0,0,1,0,1,0,0,25.46,0
+John Ray,female,23,Cambodia,0,0,0,0,1,1,2,1,2,1,0,0,0,1,1,1,0,1,8.8,0
+Melissa Bentley,female,20,Poland,1,2,1,1,0,0,2,0,3,1,0,1,0,1,0,1,0,0,45.12,0
+Karen Knox,female,42,Holy See (Vatican City State),1,4,1,0,1,1,4,1,0,0,0,0,0,1,0,1,0,1,53.39,0
+Amber Rogers,female,42,France,4,2,1,0,0,1,4,0,2,0,0,1,0,0,1,0,0,0,58.94,0
+Brenda Cameron,female,11,Canada,4,2,1,1,1,1,4,1,4,0,0,0,1,0,1,0,0,0,10.26,0
+Katherine Hall,male,24,Niger,0,0,1,0,0,1,3,0,0,1,1,0,0,0,0,0,1,0,17.77,0
+Travis Palmer,male,14,Samoa,2,0,0,1,1,1,0,0,3,1,1,1,0,0,0,1,0,1,27.63,0
+Mario Collins,male,54,Slovenia,1,4,1,1,1,0,4,0,3,0,1,0,0,1,0,1,0,1,20.83,0
+Amy Hill,female,22,South Georgia and the South Sandwich Islands,3,2,0,1,1,0,1,0,2,0,0,1,1,1,0,1,1,0,12.12,0
+Denise White,male,92,Saint Vincent and the Grenadines,4,0,1,0,0,1,2,0,4,1,1,1,1,0,1,0,0,0,22.83,0
+Michelle Jackson,male,31,Djibouti,0,1,1,0,1,1,4,1,0,0,0,1,1,0,1,0,0,1,15.34,0
+Nancy Elliott,male,84,Puerto Rico,4,4,0,1,1,0,2,0,3,1,0,1,1,1,0,0,1,1,19.3,0
+Victoria Williams,female,79,Saint Kitts and Nevis,4,2,0,1,1,1,3,1,3,0,0,0,1,0,0,0,0,0,21.52,0
+Alan Copeland,female,62,San Marino,1,2,1,1,0,1,2,1,0,0,1,0,0,1,1,0,1,0,21.02,0
+Matthew Russell,female,88,Liechtenstein,4,0,1,1,0,0,3,0,4,1,0,0,1,0,1,0,0,1,7.24,0
+William Roberts,male,14,Iceland,3,2,1,0,1,0,3,1,0,0,0,1,0,0,1,1,0,1,48.24,0
+Carlos Jenkins,female,27,Palau,4,1,0,0,0,0,3,0,4,1,0,0,0,1,1,0,1,1,50.77,0
+Edward Vance,male,95,Sri Lanka,1,2,1,0,1,0,4,1,4,0,1,0,1,0,0,1,0,0,9.72,0
+Linda Martinez,male,19,France,1,0,0,0,1,1,4,1,4,0,1,1,1,0,0,1,1,1,18.47,0
+Jeremy Lopez,female,43,Germany,1,3,0,0,0,1,4,1,3,1,1,0,0,1,0,1,0,1,19.88,0
+Chad Martinez,male,91,Malta,3,2,1,1,0,1,1,0,2,1,1,1,0,1,1,0,0,1,46.84,1
+Anthony Mosley,male,34,Sao Tome and Principe,3,3,0,0,0,0,4,1,3,1,1,1,0,0,1,0,0,0,49.65,1
+Christina Valdez,female,45,Wallis and Futuna,1,3,1,0,1,1,3,1,4,1,0,1,0,1,0,0,0,1,38.03,0
+Casey Douglas,male,54,Guyana,3,4,0,1,1,1,2,0,1,0,1,0,1,1,1,1,0,1,34.69,1
+Julie Garza,male,72,Mali,3,3,0,1,1,1,4,1,1,0,1,0,1,1,1,0,0,0,38.08,1
+Manuel Walker,female,97,Ghana,3,1,0,1,0,1,2,1,3,0,1,1,0,0,1,1,0,1,52.54,0
+Dustin Bauer,male,19,San Marino,2,2,1,0,0,0,4,1,4,0,0,0,1,1,1,0,0,1,49.27,0
+Robin Sims,female,13,Antigua and Barbuda,3,2,1,0,0,1,3,1,4,1,1,1,0,0,1,1,1,0,42.01,0
+Mary Stanley PhD,male,25,Singapore,2,1,0,1,1,0,4,1,4,0,0,0,0,1,1,1,0,0,19.13,0
+Anthony Thomas,female,57,American Samoa,2,4,0,1,1,1,4,0,4,1,0,0,0,0,0,0,1,1,48.0,0
+Emily Gould,male,6,Tanzania,1,0,0,0,1,1,4,0,3,1,0,0,1,0,1,1,1,1,43.48,0
+Amanda Fields,male,57,American Samoa,3,3,0,0,0,0,4,0,2,1,1,0,1,1,1,1,1,1,6.19,0
+Olivia Wallace,male,49,Netherlands Antilles,0,2,0,1,1,1,2,0,1,0,1,0,1,1,0,0,1,0,7.09,0
+Erik Hays,female,87,Vietnam,1,1,0,1,1,0,3,1,4,1,0,0,0,0,0,1,0,1,18.81,0
+Robert Steele,male,40,Germany,4,1,0,0,1,1,0,0,3,1,1,0,1,0,0,0,0,0,52.38,0
+Teresa Carey,female,95,Guam,4,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,41.03,1
+Elizabeth Sharp,female,62,Afghanistan,0,1,0,1,1,0,2,0,4,1,1,0,1,1,1,0,1,1,43.4,0
+Kevin Johnson,female,62,Bahrain,2,0,1,1,0,1,2,0,3,1,1,0,1,0,1,0,0,1,31.04,0
+Sarah Anderson,female,75,Heard Island and McDonald Islands,4,4,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,42.73,1
+Aaron Lawrence,female,96,Kuwait,0,1,1,0,0,1,4,0,0,0,1,1,1,0,1,1,1,0,30.41,0
+Jonathan Lawson,male,5,Mexico,4,2,0,0,0,0,2,1,0,1,1,0,1,0,1,0,1,1,5.91,0
+William Osborne,female,100,India,4,4,0,0,0,0,3,0,2,0,0,1,0,0,1,0,0,0,51.45,1
+Debra Brown DVM,male,41,Madagascar,4,4,1,0,1,0,2,1,4,0,1,0,0,1,1,1,1,1,42.15,0
+Mr. Michael Choi,male,32,Christmas Island,2,3,0,0,1,1,3,1,0,1,1,1,0,0,0,0,1,1,5.74,0
+Donna Yates,male,37,Congo,4,4,1,0,1,1,4,0,4,1,0,1,1,1,0,0,0,1,50.63,0
+Alicia Gonzalez,female,37,Samoa,4,3,1,1,0,1,3,1,4,1,1,1,1,0,0,1,0,0,37.8,0
+Cassie Cameron,female,48,Tanzania,1,2,0,1,0,0,4,1,2,1,1,1,0,0,1,0,0,0,56.89,0
+Michael Reid,female,30,Grenada,4,3,0,0,1,0,1,1,0,0,1,1,1,0,0,1,1,0,42.06,1
+Christopher Chang,male,30,Colombia,4,1,0,1,0,1,0,1,0,1,0,1,0,0,0,1,1,0,33.38,1
+Juan Baker,female,100,Ecuador,2,3,1,1,1,1,2,0,3,1,0,1,1,0,1,1,0,1,55.15,0
+Barbara Miller,male,46,Netherlands,1,2,0,1,0,1,0,1,4,0,1,0,0,0,0,1,1,0,32.41,0
+Joseph Reed,female,23,Nauru,0,4,1,0,1,0,1,0,4,0,1,0,0,0,0,0,0,0,58.97,0
+Angela Moss,female,27,Belize,3,0,1,1,0,1,2,0,4,1,1,0,1,1,0,0,0,1,27.86,0
+Erika Swanson,male,27,Malta,0,3,0,0,1,0,3,0,2,1,1,1,1,1,0,0,0,1,13.46,0
+Tyler Rowe,male,88,Mauritius,3,1,0,1,1,0,0,1,4,0,1,1,0,1,0,0,0,0,5.07,0
+David Herring,female,41,Saint Pierre and Miquelon,0,4,1,0,1,0,2,0,2,0,1,0,0,0,1,0,1,0,44.46,0
+Peter Peck,female,75,North Macedonia,2,1,1,0,0,0,4,1,3,1,1,1,0,0,1,1,0,0,50.37,0
+David Wolfe,female,100,Poland,3,1,1,1,0,0,1,0,3,0,1,0,1,0,1,0,0,1,27.23,0
+Kimberly Taylor,male,72,Austria,4,0,1,1,1,0,1,0,4,0,0,1,0,0,1,0,1,0,41.0,1
+Lauren Sparks,female,96,Sudan,3,1,1,0,0,1,2,1,3,0,1,1,0,1,0,1,1,0,48.76,0
+Richard Davis,male,11,Timor-Leste,2,1,1,1,0,0,4,0,1,0,0,1,1,0,0,0,1,1,25.52,0
+Jessica Thomas,male,69,Hong Kong,2,1,1,1,0,1,3,1,0,1,1,1,0,0,0,1,1,1,8.97,0
+Christina Evans,female,29,India,3,3,0,1,0,0,1,1,0,0,0,1,1,1,1,1,0,1,20.53,1
+Victoria Hunter,female,21,Antigua and Barbuda,1,3,1,0,0,0,3,1,2,0,0,1,0,1,1,1,0,0,23.74,0
+Amber Wilson,female,73,Saint Pierre and Miquelon,0,3,1,0,1,0,2,1,2,1,1,1,1,1,0,1,0,1,38.15,0
+Destiny Gilmore,male,50,French Guiana,4,0,1,1,1,1,3,0,4,1,1,1,0,1,1,0,0,0,5.64,0
+Michael Hayes,female,89,Ghana,3,2,0,1,0,0,1,1,3,0,1,1,1,0,1,1,0,1,35.53,0
+Alexander Pena,male,24,Montserrat,4,1,0,0,1,1,4,0,1,0,1,0,1,1,0,1,0,1,29.68,1
+Jason Hunter,male,86,Guinea-Bissau,3,2,1,0,0,1,4,1,0,0,0,0,0,1,0,0,0,1,46.72,0
+Laura James,female,34,Turkmenistan,1,0,0,1,0,1,1,1,0,1,0,1,1,0,0,0,1,0,26.57,1
+Marie Mcclain,male,100,North Macedonia,1,1,1,0,1,1,2,1,3,1,1,0,1,1,0,0,0,1,18.08,0
+Alexandra Brennan,female,100,Bahamas,0,3,0,1,1,0,3,1,3,1,1,0,0,1,1,0,0,0,37.71,0
+Tara Barnes,female,11,United Kingdom,4,3,0,1,1,0,1,0,3,1,0,0,0,0,1,1,0,0,40.31,0
+Logan Anderson,female,74,Monaco,4,3,1,0,0,1,4,1,0,1,0,0,0,1,1,1,0,0,12.89,0
+Calvin Jones Jr.,female,13,Gabon,1,3,1,1,0,0,4,0,1,0,1,0,1,1,1,1,1,0,36.45,0
+Ryan Vaughn,female,16,Cameroon,1,4,0,0,0,1,0,0,2,0,1,1,1,0,1,0,1,1,44.95,1
+Jenna Hill,male,6,Korea,2,3,0,1,1,0,2,1,2,0,1,1,1,1,1,1,0,0,58.51,0
+Rebecca Moore,male,13,Gabon,4,1,1,0,1,1,3,0,0,1,0,0,1,1,1,1,0,1,42.01,0
+Sabrina Peterson,male,82,Bosnia and Herzegovina,0,4,0,0,1,1,3,1,0,0,1,1,1,0,1,0,1,0,56.29,0
+Janet Brown,male,13,Argentina,0,4,1,0,1,1,0,1,3,0,1,1,0,0,0,0,0,0,42.92,0
+Brian Whitaker,female,32,Kazakhstan,3,0,0,0,1,0,4,1,2,0,1,1,1,1,1,0,0,0,35.54,0
+Edward Ramos,female,43,Comoros,0,2,0,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,11.15,0
+Marie Lee,male,95,Samoa,1,2,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,10.52,0
+Julia Haynes,male,91,Georgia,4,1,0,0,0,1,1,1,3,0,0,1,0,1,0,0,1,1,35.83,0
+Charles Hensley,female,88,Pitcairn Islands,1,3,0,1,1,1,3,1,2,1,0,1,1,0,0,0,0,0,28.89,0
+David Green,male,35,Latvia,3,0,1,1,1,1,1,1,3,1,1,1,1,0,0,1,0,0,28.16,0
+Jill Cordova,female,51,Fiji,3,0,1,1,0,0,1,1,4,1,0,0,0,0,1,0,1,1,32.08,0
+Renee Garcia,female,96,Philippines,2,2,0,1,1,1,0,1,0,0,0,0,1,0,1,0,0,0,7.34,0
+Andrea Gilbert,male,23,India,0,1,1,1,1,1,1,0,3,0,0,1,1,1,1,1,1,0,5.34,0
+Karen Hawkins,female,79,Svalbard & Jan Mayen Islands,0,2,0,1,0,1,3,1,2,1,1,1,0,0,1,0,1,0,12.95,0
+Cody Nunez,female,21,Tokelau,0,3,0,0,1,0,0,0,2,1,0,0,0,0,0,0,1,1,41.89,1
+Samantha Grimes,female,82,American Samoa,3,0,1,0,0,1,1,1,3,0,1,1,1,1,0,0,0,1,11.25,0
+David Jones,female,75,Cambodia,0,2,1,1,0,0,4,0,3,0,0,1,0,0,1,1,1,1,14.78,0
+Mr. Ronnie Fisher MD,female,15,Micronesia,4,1,0,1,1,0,2,0,2,0,0,0,0,0,1,0,0,1,5.77,0
+Alyssa Lang,female,32,Tuvalu,3,3,1,0,0,1,0,1,2,0,0,1,0,0,1,1,1,1,54.02,1
+Matthew Flores,female,22,Ghana,4,2,1,0,1,1,2,0,2,1,0,0,1,1,0,0,1,1,24.42,0
+Francisco Joyce,male,100,Saint Barthelemy,1,2,1,0,0,0,1,1,3,0,1,0,0,1,1,1,1,1,25.36,0
+Albert Ford,female,7,Vietnam,3,1,1,0,0,0,2,0,2,1,0,1,0,0,0,0,1,1,32.89,0
+Vincent Taylor,male,38,Zimbabwe,4,3,1,1,1,0,4,1,1,1,0,0,0,0,0,1,0,1,29.28,1
+Amy Clark,male,74,Turkmenistan,0,2,0,0,0,1,2,0,2,1,1,1,0,0,0,1,1,0,20.17,0
+Cody Hess,male,80,Rwanda,3,4,1,0,0,0,1,0,2,1,1,1,0,0,0,1,1,0,48.67,1
+Robert Wagner,female,47,Pakistan,2,4,0,0,1,1,2,0,3,1,1,0,1,0,1,0,0,1,7.71,0
+Brent Bryan,female,51,Ethiopia,4,1,0,1,0,0,0,0,4,1,0,0,1,0,1,0,0,1,44.27,0
+Nicole Camacho,male,98,Greenland,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1,0,0,0,57.95,0
+Mrs. Carol Griffin,female,58,Bosnia and Herzegovina,3,1,1,0,1,1,1,1,3,0,1,0,1,1,1,0,1,1,7.33,0
+Melissa Dickson,male,6,Portugal,3,3,1,0,1,0,0,1,1,1,1,0,0,0,0,0,1,1,41.6,1
+Jeremy Wilson,male,42,Saint Pierre and Miquelon,3,3,0,1,1,1,2,1,0,0,1,1,1,1,0,1,0,1,5.36,0
+Jennifer Mcdowell,female,33,Lebanon,3,1,0,1,1,0,2,0,0,0,0,1,0,1,0,1,1,0,42.49,0
+Jeremy Patterson,male,95,Guernsey,4,0,0,0,1,0,2,1,3,0,0,0,0,0,0,1,1,1,38.01,0
+Kyle Ibarra,female,53,Bolivia,3,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,8.61,0
+Meagan Simpson DDS,female,68,Tajikistan,3,3,1,0,1,1,2,1,1,1,1,0,0,0,0,1,0,1,45.3,0
+Lindsey Decker,male,37,Pitcairn Islands,4,0,1,0,1,1,2,1,0,1,1,1,0,0,1,0,1,0,45.66,0
+William Osborn,male,82,Latvia,0,3,1,1,0,0,3,0,4,1,1,0,0,0,1,1,1,1,33.49,0
+Katrina Riley,female,94,Peru,1,0,1,0,0,0,4,0,0,0,1,0,1,0,0,0,0,1,45.43,0
+Ricky Silva,female,63,Canada,1,3,0,1,0,1,4,0,4,1,0,1,0,1,1,1,1,1,9.02,0
+Crystal Cook MD,female,13,Sweden,4,3,1,0,1,0,4,1,3,1,1,0,0,1,0,1,1,0,8.31,0
+Juan Martinez,female,78,Grenada,2,0,0,0,1,1,3,0,2,1,1,1,0,0,0,1,1,1,58.71,1
+Jason Rodriguez,female,75,Palestinian Territory,3,1,0,1,1,0,0,0,1,0,1,1,0,1,1,1,1,1,26.58,1
+Julia Byrd,female,49,Nauru,1,3,0,0,0,0,4,1,3,0,1,0,1,1,1,1,0,1,46.48,0
+William King,male,83,Romania,0,1,0,0,0,0,2,0,3,0,1,0,0,1,0,0,0,1,54.33,0
+Luis Pugh,male,31,Romania,3,2,1,0,0,0,1,0,2,0,1,1,0,1,1,0,0,0,17.47,1
+Jack Phillips,male,24,New Zealand,4,0,0,0,1,1,3,0,1,1,0,0,0,1,1,0,0,1,59.73,1
+Tanya Williams,female,48,Cuba,0,4,0,1,0,1,4,1,2,0,0,1,0,0,0,1,0,0,32.08,0
+Kelly Macias,male,16,Samoa,2,3,1,0,0,1,4,0,0,1,0,0,1,0,0,1,1,1,12.88,0
+Brett Brown,male,38,Luxembourg,4,4,1,1,1,0,4,1,0,0,1,0,0,1,1,0,0,1,18.98,0
+Hannah Garcia PhD,male,15,Bulgaria,0,3,0,1,1,1,3,1,1,0,1,0,0,1,1,0,0,0,38.99,1
+Barbara Hernandez,male,77,South Africa,4,2,0,1,0,0,0,0,2,1,1,0,0,0,0,0,1,0,53.92,1
+Brittany Green,male,73,Central African Republic,3,2,0,0,0,0,2,0,1,0,1,1,0,1,0,0,0,0,5.09,0
+John Davila,male,63,Iran,4,1,1,1,1,0,1,1,3,0,1,0,0,1,0,1,0,0,18.89,0
+Eddie Solomon,female,64,Angola,3,3,0,1,1,1,0,1,3,0,1,0,0,0,1,0,0,0,34.78,0
+George Wagner,female,8,Chad,3,3,0,1,0,0,3,1,2,1,1,1,1,1,1,1,0,1,58.29,0
+Kelly Le,female,83,Burkina Faso,4,4,1,1,1,0,2,1,4,0,0,0,0,0,1,1,1,1,7.32,0
+Matthew Jones MD,male,43,Namibia,2,4,1,1,1,0,4,0,2,0,1,1,0,0,0,1,0,1,34.48,0
+Alexis Alvarado,female,43,Uruguay,3,1,1,0,1,0,4,1,0,0,1,1,0,0,1,1,0,1,38.9,0
+Joel Callahan,male,6,Falkland Islands (Malvinas),1,3,1,1,0,0,4,0,0,0,1,0,0,1,0,0,1,1,34.05,0
+Sheryl Castillo,male,28,Botswana,1,0,1,0,0,1,3,1,0,0,0,1,0,0,1,1,0,0,12.81,0
+Alan Smith,male,7,Kazakhstan,1,4,0,1,1,0,0,1,2,1,0,1,1,1,0,1,1,1,13.68,0
+Erik Ellis,male,33,Cook Islands,0,2,1,0,0,0,1,0,2,1,0,1,1,1,1,0,1,0,37.83,1
+Michelle Reynolds,female,91,Jamaica,4,1,0,0,0,0,2,0,1,0,0,0,0,1,0,0,1,0,15.3,0
+Randy Mcdonald,female,31,Denmark,2,3,0,0,1,1,2,0,0,1,1,0,1,0,0,0,1,1,40.56,1
+Thomas Moore,male,16,El Salvador,2,2,1,0,1,1,3,0,4,1,1,1,1,0,1,0,1,0,32.13,0
+Brianna Marsh,male,87,Cote d'Ivoire,0,0,0,0,1,1,1,0,3,1,1,1,1,1,1,0,1,1,12.41,0
+Rhonda Henderson,male,64,Ethiopia,3,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,0,1,32.72,1
+Ashley Lara,female,94,Turks and Caicos Islands,0,2,1,0,0,1,4,0,4,1,0,0,0,1,1,0,1,1,45.63,0
+Carol Wilkins,male,9,South Georgia and the South Sandwich Islands,2,0,0,0,0,0,0,0,2,0,0,1,1,0,1,0,0,0,46.14,0
+Jacqueline Pierce,female,99,Taiwan,2,3,0,1,0,1,1,0,3,1,0,1,0,1,1,1,1,1,59.33,0
+Sharon Taylor,female,79,Reunion,4,2,1,0,0,1,3,1,4,0,1,0,1,1,1,1,0,0,37.03,0
+Thomas Marshall,female,54,Libyan Arab Jamahiriya,1,2,1,0,0,1,3,0,2,1,1,0,0,1,1,1,1,1,12.55,0
+Melanie Andersen,male,61,Sri Lanka,4,4,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,36.46,1
+Victoria Young,female,100,Sierra Leone,4,1,0,1,1,1,4,0,4,1,0,1,1,0,1,0,1,1,55.17,0
+Mrs. Courtney Wilcox,male,39,Dominican Republic,2,3,0,0,0,0,0,1,3,0,1,1,1,1,1,0,0,0,51.55,0
+Amanda Ross,female,80,Kazakhstan,1,4,0,1,0,1,4,1,0,0,0,1,0,0,0,0,0,1,34.55,0
+Laura Cortez,male,61,Dominica,4,0,1,0,1,0,4,0,1,0,1,1,1,0,0,0,1,0,15.45,0
+Nathan Keller,female,83,Belarus,3,0,0,1,0,1,3,1,2,1,0,1,0,0,1,0,0,1,25.03,0
+Allison Byrd,male,54,Kenya,4,3,0,0,0,0,1,1,3,0,0,1,1,1,1,0,0,1,14.45,0
+Robert Young,male,92,Vietnam,3,2,0,1,0,0,3,1,3,0,1,0,0,1,1,1,1,1,24.47,0
+Sean Bishop,female,87,Tanzania,3,4,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,41.02,1
+Mary Phillips,female,54,Sri Lanka,2,0,0,1,1,1,3,1,2,1,0,0,0,0,1,1,0,1,9.01,0
+Joseph Nichols,male,69,Antarctica (the territory South of 60 deg S),1,2,0,0,1,0,4,0,0,0,1,0,0,1,0,0,1,1,54.11,0
+Katie Guzman,female,28,Niger,3,0,0,0,0,0,0,1,4,1,1,0,0,0,1,0,1,1,21.34,0
+Lindsey Simpson,male,75,Maldives,0,3,1,1,1,1,0,1,1,1,0,1,0,1,1,0,1,1,34.78,1
+Robert Ford,female,82,Nicaragua,1,0,0,0,0,0,2,0,2,0,0,0,0,1,0,1,0,1,41.94,0
+Emily Smith,female,92,Kiribati,4,0,1,1,1,1,3,0,2,0,0,1,1,1,1,1,0,0,47.1,0
+Virginia Edwards,female,31,Antarctica (the territory South of 60 deg S),3,2,1,1,1,0,2,0,4,0,0,0,1,1,1,1,0,1,20.32,0
+Tracy Chen,male,77,Maldives,3,1,0,1,0,0,4,0,2,1,0,1,1,1,0,0,0,0,26.86,1
+Denise Johnson,male,40,Saint Helena,3,0,1,1,0,0,3,0,2,0,1,0,0,1,0,0,0,0,53.45,0
+Kenneth Wallace,male,66,Netherlands,3,0,1,0,0,1,3,1,2,0,0,1,1,1,0,0,0,1,55.28,0
+Brian Ryan,female,16,Taiwan,3,2,1,0,0,0,0,0,3,0,1,0,0,1,0,0,0,1,55.21,0
+Kara Hart,male,66,Angola,3,1,1,1,1,1,0,1,3,0,0,1,1,1,1,1,0,0,50.11,0
+Steve Lopez,female,55,South Georgia and the South Sandwich Islands,0,3,0,0,1,0,4,1,3,0,0,0,1,0,1,1,0,1,24.5,0
+Paige Hess MD,male,28,Moldova,1,4,1,0,0,1,4,1,3,0,0,0,1,0,1,0,0,0,16.74,0
+Anthony Shaffer,female,6,Aruba,4,0,1,0,0,1,4,0,4,1,1,0,1,0,1,1,1,0,31.62,0
+Brenda Goodman,male,44,Mauritius,3,0,1,1,1,1,4,0,2,0,0,1,1,1,0,1,1,1,28.27,0
+Victoria Morris,male,25,Mauritius,3,3,1,0,1,0,2,0,0,1,0,0,1,1,0,0,1,0,38.0,1
+Paul Moore,female,40,Slovenia,2,4,0,0,0,0,1,1,4,0,1,1,1,1,0,1,0,1,41.48,0
+Jennifer Smith,female,55,Wallis and Futuna,4,1,1,0,1,0,3,1,2,0,1,0,1,0,1,0,1,1,34.96,0
+Christopher Sandoval,female,100,Saint Lucia,2,4,0,1,0,1,3,1,0,0,0,0,0,0,0,1,0,0,40.59,0
+Tracey Chapman,female,34,Gibraltar,0,1,1,1,0,0,2,1,0,0,0,0,1,0,1,0,0,0,45.07,0
+Joshua Barr,male,70,Cameroon,3,3,1,0,1,0,3,1,1,1,0,0,1,1,1,1,1,1,54.83,1
+Crystal Bruce,female,84,British Virgin Islands,1,0,1,1,0,0,3,1,0,0,1,0,1,0,1,0,0,0,41.25,0
+Meghan Young,male,72,United Arab Emirates,1,3,0,0,1,0,4,1,4,0,0,1,0,1,0,0,0,1,42.43,0
+Ashley Duffy,male,11,South Africa,0,2,0,0,0,1,3,0,4,1,0,0,1,1,0,0,0,1,11.26,0
+Brandy Reese,male,56,Cote d'Ivoire,4,2,1,0,0,1,1,1,4,1,1,0,0,0,1,0,1,1,29.51,0
+Matthew Rowland,male,89,Argentina,1,2,1,0,1,0,3,0,0,1,0,1,1,0,1,0,1,0,23.17,0
+Harry Campbell,male,86,Ethiopia,3,2,0,1,0,1,2,1,0,0,1,0,1,0,1,1,1,1,20.49,0
+Evelyn Douglas,male,49,Western Sahara,3,1,1,1,1,0,1,0,1,1,1,0,0,1,0,0,1,0,38.91,1
+Jeffrey Nelson,female,97,Ghana,3,2,0,1,0,1,2,0,2,0,0,0,0,1,0,0,0,1,9.08,0
+Mark Griffith,male,95,Belize,4,2,0,0,0,0,3,0,0,1,0,1,0,1,1,0,0,0,21.73,0
+Juan Hubbard,female,35,Dominica,2,1,0,1,1,0,1,0,2,1,0,0,1,1,1,0,0,1,9.23,0
+Trevor Little,male,91,Cote d'Ivoire,2,0,0,0,0,0,4,1,3,1,1,0,0,0,1,1,0,1,13.57,0
+Sonya Olson,female,64,Turkey,1,2,1,0,1,0,3,0,1,0,1,0,0,0,0,0,1,0,49.23,0
+Ashley Richmond,male,86,Swaziland,0,3,1,1,1,1,2,0,2,1,1,0,1,1,1,1,1,0,8.83,0
+Sarah Lee,female,18,Christmas Island,4,2,1,0,1,0,2,0,0,0,0,0,0,0,1,1,1,1,14.81,0
+Joshua Hoover,female,38,Japan,0,2,1,0,1,0,4,1,1,0,0,1,0,0,0,1,0,0,32.62,0
+Nicholas Gregory,male,63,Gabon,0,0,1,0,0,0,1,0,2,0,0,0,0,1,1,1,0,1,55.58,0
+Jeffrey Turner,female,27,Ghana,1,1,0,0,0,1,2,1,4,1,1,0,0,0,0,1,0,1,49.18,0
+Mr. Dominic Martinez PhD,female,96,Andorra,1,4,1,0,1,1,1,0,2,1,1,1,0,0,0,0,0,0,29.58,1
+Dana Erickson,female,16,South Africa,1,3,1,1,1,1,0,0,3,0,0,0,0,1,0,1,1,0,43.79,1
+Stephanie Gregory,male,56,Australia,0,4,0,1,0,0,4,0,3,1,1,0,0,0,1,0,0,1,27.5,0
+Sharon Perez,female,69,Guadeloupe,3,1,0,0,1,1,0,1,1,1,0,1,1,1,0,1,0,0,54.36,1
+Jacob Moran,female,9,Uruguay,2,2,1,0,1,1,4,1,4,1,1,1,1,0,0,1,1,0,17.79,0
+Michelle Jones,female,29,Mauritania,1,4,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,23.55,1
+Eric Rodriguez,male,64,Myanmar,2,1,0,1,0,0,2,0,2,0,1,1,0,0,1,1,0,1,54.69,0
+Austin Reyes,female,45,Taiwan,3,0,0,0,0,0,3,1,4,1,1,1,1,0,0,0,0,1,40.81,0
+Brenda Wilson,male,67,Grenada,2,2,1,0,1,0,4,0,3,0,0,0,1,0,1,0,0,1,16.77,0
+Cassandra Calderon,male,7,Andorra,0,0,0,0,1,0,3,0,3,1,0,0,0,0,1,0,1,1,26.98,0
+Nicole Brown,male,5,Cambodia,2,0,1,0,1,0,4,1,4,0,0,1,1,0,1,0,1,1,32.2,0
+Debra Brown,female,56,Australia,4,2,1,0,0,0,3,0,1,0,0,0,0,1,1,0,1,0,55.36,0
+Matthew Ellis,female,90,Zimbabwe,1,3,1,0,0,0,2,1,2,0,1,0,1,1,0,0,1,0,9.48,0
+Patrick Jackson,female,85,Israel,2,3,0,0,0,1,4,0,3,0,1,1,1,0,0,1,1,0,23.13,0
+Christopher Moore,female,39,San Marino,3,1,1,0,0,0,4,1,0,0,0,1,1,0,1,1,1,0,48.54,0
+Tracy Mcintosh,female,61,Sri Lanka,1,4,1,0,0,0,1,1,1,1,0,0,1,0,1,1,1,0,37.71,0
+Travis Mitchell,female,35,Bangladesh,1,2,0,1,0,1,4,0,2,0,1,0,1,0,1,1,0,0,39.03,0
+Angel Melton,female,77,Slovakia (Slovak Republic),1,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,33.41,1
+John Schaefer,female,76,New Zealand,2,3,0,1,1,0,3,1,1,1,0,0,1,0,0,1,1,1,52.98,0
+Ricky Hogan,female,28,Mali,0,0,1,0,1,0,4,1,0,1,1,1,1,1,1,1,1,0,33.26,0
+Peter Wall,male,46,Taiwan,4,1,0,0,1,0,0,1,3,1,0,0,0,1,0,0,1,1,20.92,0
+Ricardo Pena,male,33,Iceland,2,1,0,1,1,0,4,1,2,0,0,1,0,1,1,0,1,0,58.08,0
+Ellen Stewart,female,37,Uruguay,1,0,0,1,0,1,2,0,2,0,1,0,0,1,0,0,1,0,23.01,0
+Rebecca Pacheco,female,73,Ghana,4,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,30.32,1
+Kayla Fuller,female,18,Grenada,2,0,1,0,0,1,1,1,0,1,1,0,1,1,0,0,1,1,12.13,1
+Jennifer Griffin,female,14,Liechtenstein,2,1,1,0,1,1,2,0,0,0,1,1,0,0,1,0,0,0,13.4,0
+Dylan Ashley,male,14,Malaysia,3,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,54.1,1
+Joseph Murray,female,58,Taiwan,4,3,1,1,1,0,2,1,2,0,0,0,0,0,0,0,1,0,24.74,0
+Christine Brooks,female,79,Namibia,1,4,0,1,1,1,1,0,3,1,0,0,0,0,1,0,0,1,5.85,0
+Nicole Price,male,10,New Zealand,2,2,1,1,1,0,3,1,3,1,1,0,0,1,0,1,0,0,54.47,0
+Joseph Carroll,male,98,Bermuda,4,2,1,0,1,1,0,0,2,0,1,1,1,0,1,1,1,1,7.88,0
+Kathleen Beck,male,35,Cook Islands,4,4,0,0,0,1,2,1,3,0,0,1,0,0,1,0,1,0,34.26,0
+Laura Richardson,female,63,Tokelau,4,0,1,0,0,1,2,0,4,0,1,0,1,0,1,1,0,0,57.7,0
+Megan Lutz,male,41,Dominica,4,1,1,0,1,0,0,0,2,1,0,1,0,0,1,0,0,1,46.36,1
+Tim Moore,female,40,Papua New Guinea,3,0,1,1,0,1,1,1,2,0,1,0,1,1,0,0,1,1,20.05,0
+Jacob Hunter,male,76,Nauru,0,2,1,1,1,0,0,1,1,0,0,0,0,0,1,1,1,1,37.85,1
+Jeremy Hill,female,83,Algeria,1,4,0,0,1,1,3,1,3,0,0,1,0,1,1,1,0,1,20.69,0
+Ronald Ramirez,male,28,Holy See (Vatican City State),1,4,0,0,1,0,3,1,2,1,0,0,0,1,1,1,1,1,25.15,1
+David Norris,male,32,Nauru,4,4,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,9.23,1
+Elizabeth Oconnell,female,46,China,3,4,1,0,1,1,4,1,3,1,1,0,1,1,1,0,0,1,18.45,0
+Vincent Macias,male,17,Macao,2,4,0,0,1,0,1,0,3,0,0,0,0,1,0,1,0,1,42.73,1
+Mathew Willis,male,50,Jersey,1,2,0,0,1,1,3,0,1,0,0,0,1,1,1,0,1,0,44.29,0
+Amanda Schmitt,male,26,Thailand,4,3,1,0,1,1,4,0,1,0,1,0,1,0,1,1,0,0,58.38,1
+Mary Cox,male,82,Liberia,0,4,1,1,0,0,4,0,0,1,0,1,0,0,0,0,1,0,57.59,0
+Stephanie Osborne,male,34,Mexico,0,4,0,1,1,1,3,0,4,1,1,1,0,0,0,0,1,1,56.83,0
+Robert Williams,female,37,Finland,1,3,1,0,0,1,3,0,1,0,0,0,0,0,0,0,0,1,54.27,0
+Daniel Rodriguez,female,69,France,3,2,0,1,0,0,4,0,0,0,0,0,1,0,0,0,0,1,7.08,0
+Edward Shaw,male,86,Israel,4,0,0,0,0,1,1,1,4,1,1,1,0,1,0,1,0,0,21.29,0
+Danielle Charles,male,99,Marshall Islands,3,2,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,15.23,0
+Stephen Sullivan IV,female,49,Colombia,4,4,1,0,1,1,3,1,0,0,0,0,1,0,1,0,1,0,13.89,0
+Beverly Smith,female,89,Costa Rica,3,2,0,0,1,1,2,0,2,0,1,1,0,1,0,0,0,0,59.59,0
+Tonya Griffin,male,52,Saint Vincent and the Grenadines,2,0,1,1,0,1,2,1,4,1,1,1,0,1,0,1,1,0,52.32,0
+Seth Richardson,male,56,Chad,1,3,0,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,45.19,1
+Juan Miller,female,63,France,4,1,0,1,1,1,3,0,4,0,1,0,1,1,1,1,1,1,13.92,0
+Sheila Turner,male,15,Papua New Guinea,1,2,1,1,0,1,4,0,2,0,0,0,1,1,1,1,0,0,22.2,0
+Jason Ellis,female,47,French Polynesia,0,2,0,1,1,0,2,0,4,1,0,0,0,0,1,1,0,0,32.67,0
+Michael Yang,male,50,Switzerland,0,4,1,0,0,1,2,0,3,1,1,0,1,0,1,1,1,0,48.81,0
+Robert Norman,male,84,Mayotte,3,3,0,0,0,1,3,1,2,0,1,1,0,0,0,0,0,1,20.24,0
+Jeffery Thompson,male,67,Martinique,2,2,1,0,1,1,0,1,0,1,1,0,1,1,0,0,0,0,15.74,0
+James Russell,male,18,Mauritius,3,4,0,1,1,0,0,0,2,1,0,1,0,0,1,0,0,1,13.48,1
+Christopher Hill,female,65,Panama,1,2,1,1,1,1,3,0,3,0,0,1,0,0,1,0,0,0,39.44,0
+Roy Walker,female,58,Faroe Islands,3,2,0,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,54.39,0
+Ronald Perry,female,42,Saint Martin,2,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1,1,0,39.92,1
+Mary Hernandez,female,58,Cuba,4,3,1,0,1,0,4,1,1,0,1,1,1,1,1,0,0,0,44.07,0
+Michael Mccormick,female,25,Nepal,2,0,0,1,0,1,3,1,4,0,1,0,1,0,0,0,1,0,17.99,0
+Linda Frazier,female,61,Angola,2,3,0,0,0,0,3,1,2,1,1,1,0,0,1,1,1,0,39.93,0
+Jordan Rodriguez,female,26,Tuvalu,0,0,0,1,0,1,2,1,3,0,1,0,1,0,0,1,0,0,9.41,0
+Kaitlin Hahn,male,33,Saint Martin,1,2,0,0,1,1,3,1,3,0,1,1,0,1,1,1,0,1,44.36,0
+Thomas Davis,male,53,Malaysia,4,0,1,1,0,0,3,1,4,0,0,0,0,0,0,1,0,1,48.2,0
+Juan Maxwell,female,56,Anguilla,1,0,0,1,1,1,2,0,3,0,1,0,0,1,1,0,1,0,10.64,0
+Ricky Sullivan,female,68,Bulgaria,4,4,1,0,1,0,4,0,0,1,1,0,1,0,0,0,0,0,41.94,0
+Jason Taylor,female,69,French Guiana,0,0,1,0,1,1,0,1,3,1,1,0,0,0,1,1,1,0,56.47,0
+Nicholas Valdez,female,55,Guinea,4,0,0,0,1,0,4,0,1,0,1,1,0,0,0,1,0,0,40.64,0
+Aaron Russell,female,90,Sierra Leone,1,1,0,0,0,1,1,0,3,1,0,0,0,0,1,1,1,1,22.03,0
+Lisa Lowery,male,37,Canada,1,3,0,0,0,1,4,1,0,0,1,0,1,0,1,1,0,1,45.35,0
+Antonio Benitez,female,71,Kuwait,3,0,0,1,0,0,0,1,0,1,0,0,0,1,1,1,0,1,21.59,0
+Susan Guzman,female,92,Trinidad and Tobago,2,3,1,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,37.3,1
+Morgan Newman,female,18,Bulgaria,2,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,1,1,32.01,1
+Madeline Riddle,female,56,Bulgaria,3,0,1,0,1,0,1,0,0,0,0,1,1,1,0,0,1,0,28.35,0
+Anna Butler,male,34,Cuba,0,3,0,0,0,0,2,0,1,1,1,1,0,0,0,1,0,0,13.73,0
+Lisa Hall,female,86,Kazakhstan,1,4,1,0,0,1,3,1,4,1,0,1,0,0,1,0,1,1,5.69,0
+Kristen Williams,female,72,North Macedonia,2,4,1,1,0,1,1,0,2,0,1,1,1,1,1,1,1,1,19.62,1
+Eric Rogers,female,30,Tanzania,3,0,1,0,1,0,2,0,3,1,0,1,1,0,1,0,0,1,42.54,0
+Samantha Riley,male,76,Macao,4,0,1,1,1,0,2,1,1,0,1,1,1,1,1,0,0,0,21.82,0
+James Anderson,male,18,Luxembourg,0,4,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,1,33.68,1
+Albert Wright,female,59,Papua New Guinea,0,2,0,1,0,0,2,0,3,1,0,0,0,1,1,1,1,0,38.53,0
+Roy Villanueva,female,19,Panama,2,2,1,1,0,1,2,0,3,1,0,1,1,1,0,1,1,0,49.26,0
+Mrs. Haley Murphy,female,89,Zimbabwe,4,3,0,1,1,0,3,0,3,1,0,0,1,1,0,0,1,1,58.06,0
+David Wheeler,male,14,Comoros,3,4,1,0,0,0,3,1,0,0,1,0,0,1,1,0,1,0,9.11,0
+Charles Morrison,female,5,Saudi Arabia,4,4,1,0,1,1,3,1,1,1,0,0,0,1,0,0,0,1,34.67,0
+Jared Mckenzie,male,29,Dominica,4,1,0,0,0,1,0,0,2,0,0,0,1,0,0,0,1,0,8.54,1
+Madison Mccoy,female,44,Ukraine,4,3,1,1,1,0,3,0,1,0,1,0,1,0,0,0,1,0,23.15,0
+Scott Martinez,male,60,Saint Kitts and Nevis,2,4,0,1,1,0,4,1,1,0,0,0,0,1,1,1,1,1,7.66,0
+Andrew Williams,male,39,South Georgia and the South Sandwich Islands,2,0,1,0,0,0,4,0,4,0,0,0,0,1,0,1,1,0,8.93,0
+Paul Stevenson,female,72,United Arab Emirates,3,0,1,1,0,1,3,1,4,0,0,1,0,0,1,0,0,0,52.36,0
+Elizabeth Poole,female,90,Indonesia,1,1,1,0,0,0,0,0,4,0,1,0,0,0,0,0,1,1,57.92,0
+Kristin Adams,female,15,Puerto Rico,0,4,1,1,0,1,2,0,2,0,0,1,1,0,0,1,0,0,42.6,1
+Joseph Lucas,female,75,Indonesia,4,2,0,1,0,1,3,1,1,1,0,1,1,0,0,1,0,0,27.15,1
+Amanda Mckinney,male,70,Chile,4,4,1,0,0,1,4,1,4,0,0,1,1,0,1,1,1,0,32.5,1
+Ronald Young,male,75,Argentina,3,3,1,0,0,1,4,1,3,1,0,1,1,1,1,1,0,1,9.98,1
+Angela Williams MD,female,30,United States Virgin Islands,0,2,1,1,0,1,2,1,1,0,0,1,0,1,0,0,0,0,47.72,1
+Brandon Gamble,female,76,Guadeloupe,4,0,1,0,1,0,0,0,3,1,0,0,1,0,1,0,0,1,22.91,0
+Dillon Martin,male,21,Guam,4,3,1,1,0,0,2,0,2,0,1,1,1,1,1,1,1,1,55.38,1
+Jacqueline Anthony,male,19,Chad,3,0,0,0,0,0,1,1,2,1,0,1,1,1,0,1,1,1,37.06,1
+David Brown,female,83,Somalia,4,4,0,0,0,1,3,1,2,1,1,1,0,0,1,0,0,1,19.29,0
+Jasmin Maldonado,male,76,Spain,1,0,1,0,0,0,2,1,4,1,1,1,1,0,0,0,1,0,36.56,0
+Alyssa Morgan,female,21,Guadeloupe,4,1,1,0,1,0,4,0,3,0,0,0,1,1,1,0,0,1,34.01,0
+Bailey Underwood,male,37,Martinique,0,1,1,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,31.21,0
+Michael Turner,female,57,Saint Pierre and Miquelon,1,3,1,0,1,0,1,0,4,0,1,1,1,1,1,1,1,1,43.48,0
+Mary Reese,male,28,Svalbard & Jan Mayen Islands,1,1,1,0,1,0,2,0,3,1,0,0,0,0,0,1,0,1,14.48,0
+Maria Kelly,female,29,Ecuador,4,1,1,1,1,0,3,0,1,1,1,0,0,1,0,1,0,0,28.27,0
+Sheri Ali,female,87,Guinea-Bissau,0,2,0,0,1,0,4,0,1,0,0,0,0,0,0,0,1,0,48.07,0
+Melissa Burns,female,18,Slovakia (Slovak Republic),3,4,1,1,0,1,0,0,2,0,0,1,0,1,1,1,1,1,35.85,1
+Richard Sullivan,female,93,Malta,0,4,1,1,1,1,2,0,0,0,0,1,1,1,1,0,1,1,58.13,0
+Suzanne Hodge,female,76,Burkina Faso,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,1,0,0,21.45,1
+Gina Crawford,male,94,Iceland,3,4,1,0,0,0,3,1,1,0,0,1,0,0,0,0,1,1,43.01,1
+Brian Garcia,male,20,Holy See (Vatican City State),1,3,1,0,1,1,3,1,2,1,1,0,1,1,0,1,0,1,18.97,0
+Jennifer Parker,female,72,Brazil,2,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,0,1,34.14,1
+Christopher Yang,male,42,Puerto Rico,4,0,0,1,0,1,3,1,2,0,0,0,0,0,1,0,0,1,29.13,0
+Melissa Parsons,female,20,Korea,1,4,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,9.92,1
+Carol Mcdowell,male,74,Yemen,1,4,0,1,0,1,3,1,2,0,1,0,1,0,0,1,0,1,6.38,0
+Barbara Wood,female,69,Niger,2,1,1,0,0,0,0,0,2,1,1,1,1,1,1,1,0,1,5.27,0
+Donald Morgan,female,21,Tajikistan,4,4,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,16.57,1
+Matthew Warner,female,49,Ecuador,2,2,0,1,1,0,0,0,2,1,1,1,1,0,0,1,1,0,29.7,0
+Juan Jones,male,75,Uganda,2,0,0,1,1,0,0,1,4,0,0,0,0,0,0,1,0,0,37.4,0
+Sarah Harper,female,41,Wallis and Futuna,0,1,1,1,0,1,3,1,3,1,0,1,1,0,0,1,1,1,17.19,0
+Cheryl Beck,male,73,Guam,1,1,1,0,0,1,2,1,2,1,1,0,1,1,1,1,0,1,55.98,1
+Christine Myers,male,80,Swaziland,2,3,0,0,1,1,2,0,0,0,1,1,1,0,1,1,0,1,42.44,0
+Erin Lynch,male,73,Indonesia,3,4,1,0,0,1,3,1,0,1,1,0,1,1,1,0,0,0,26.81,1
+Michael Williams,male,51,Moldova,4,4,0,0,0,0,2,0,0,1,0,0,1,1,1,1,1,0,10.66,0
+Rebecca Lin,female,50,China,4,0,0,1,0,1,0,1,2,1,0,0,1,1,0,0,1,1,43.69,1
+Roger Craig,male,77,American Samoa,0,3,0,0,0,1,2,0,1,1,1,1,1,1,1,0,0,1,33.74,1
+Leslie Phillips,female,86,Malaysia,0,1,1,0,1,1,4,1,4,0,1,0,1,1,1,1,1,1,47.3,0
+Jason Collins,female,86,Iraq,2,1,1,0,1,1,2,1,3,1,0,1,0,0,0,0,1,0,45.66,0
+Johnathan Norman,male,94,Georgia,0,0,0,0,0,1,4,1,2,1,1,0,0,0,0,1,1,1,14.27,0
+John Rojas,male,77,Papua New Guinea,1,1,1,1,0,1,3,0,2,1,0,0,0,1,0,0,0,1,24.26,0
+Melanie Mitchell,male,57,Bulgaria,4,0,1,1,0,0,1,1,2,0,1,1,0,1,1,0,0,0,7.76,0
+Tiffany Munoz,male,69,Korea,2,2,1,1,0,1,0,0,2,0,0,0,1,1,1,0,1,1,33.35,1
+Joseph Moses,male,64,Bhutan,0,4,0,0,0,0,1,1,2,1,1,0,1,0,0,1,1,0,30.07,1
+Brittany Gordon,male,9,Pitcairn Islands,3,2,0,0,1,1,2,0,0,1,1,0,1,0,0,1,0,0,9.55,0
+Drew Wiggins,female,72,Angola,1,1,0,1,0,1,3,0,2,0,1,1,1,0,0,0,1,0,42.43,1
+Kevin Mcknight,female,7,Papua New Guinea,1,1,1,0,1,0,4,0,0,0,1,0,0,0,0,1,1,1,50.56,0
+Christopher Thomas,female,77,Andorra,3,0,0,0,0,1,4,1,2,0,0,1,0,0,0,1,0,1,34.26,1
+Anthony Conley,male,25,Bahrain,3,4,1,1,1,0,3,1,3,0,0,0,1,1,1,1,0,1,5.9,1
+Jonathan Walker,female,75,Falkland Islands (Malvinas),0,2,1,1,0,0,4,0,1,0,0,0,1,0,0,0,0,0,6.85,0
+Ashlee Hart,male,40,Latvia,0,2,1,0,0,1,4,0,1,1,0,0,0,0,1,1,0,0,28.04,0
+Reginald Watson,male,28,Ukraine,3,4,1,0,1,1,0,1,2,0,0,0,0,0,1,0,1,1,43.47,1
+Sylvia Griffin,female,41,Indonesia,1,3,0,0,0,1,2,1,1,1,0,1,0,0,0,1,1,0,41.21,0
+Kristen Goodman,female,7,United States of America,3,4,1,1,0,0,3,1,1,1,0,1,1,0,0,1,1,1,34.88,0
+John Lee,male,70,Martinique,3,3,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1,1,34.5,1
+Thomas Holder,male,16,Sri Lanka,0,1,1,1,0,1,0,1,0,0,1,1,0,1,1,1,1,1,55.76,1
+Patricia Turner,female,63,Svalbard & Jan Mayen Islands,2,1,1,1,0,1,0,1,1,1,1,0,0,0,1,0,1,1,29.68,1
+Seth Barrett,female,63,Japan,3,2,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,19.64,0
+Amy Stanton,female,79,Indonesia,0,3,1,0,0,0,3,0,4,1,1,1,1,1,0,0,1,0,9.27,0
+Sarah Frye,male,22,Slovenia,0,0,1,0,1,1,0,1,4,0,1,0,1,1,1,0,1,0,23.85,0
+Daniel Walker,female,28,Finland,0,1,1,0,1,0,2,0,3,0,0,1,0,1,0,0,0,0,28.87,0
+Taylor Reed,female,85,American Samoa,1,0,0,1,1,1,1,1,3,0,0,1,1,0,0,1,0,1,38.56,0
+Amanda Meadows,female,88,Swaziland,3,1,0,0,0,1,4,0,4,1,0,1,1,1,0,0,1,0,58.41,0
+Charles Clayton,male,58,South Africa,2,0,1,0,0,1,3,1,1,0,0,1,1,0,1,1,0,1,59.76,0
+Danielle Martinez,male,12,Equatorial Guinea,2,1,1,0,0,1,3,0,1,1,0,1,0,0,0,0,1,0,49.35,0
+Mr. William Heath,female,17,San Marino,0,0,1,1,1,1,0,0,4,0,1,1,0,1,1,1,1,1,9.87,0
+Paul Carpenter,male,9,Ireland,0,1,1,0,0,1,0,1,3,0,1,0,0,1,0,0,0,0,22.41,0
+Don Garcia,male,24,Anguilla,1,2,0,1,1,0,1,1,1,0,1,0,1,1,0,0,1,1,9.38,0
+Melissa Richards,male,25,Maldives,3,2,1,0,0,1,3,1,4,0,0,1,1,1,1,0,0,1,32.31,0
+Casey Jackson,female,73,Togo,2,0,0,0,1,1,3,0,0,1,0,0,0,0,0,1,1,1,43.55,1
+Carol Ortega,male,64,Sweden,0,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,1,40.99,0
+Scott Ochoa,female,8,Indonesia,0,2,0,1,0,0,3,1,3,0,1,0,1,1,0,0,0,1,32.27,0
+Jesse Gallagher,male,89,Guadeloupe,0,3,1,0,1,0,0,0,2,1,0,0,0,1,0,0,1,1,18.74,0
+Dennis Lynch,female,80,Czech Republic,4,2,1,0,0,1,1,0,4,0,0,0,0,0,1,0,0,1,16.25,0
+Catherine Davis,female,72,Solomon Islands,4,0,1,1,1,0,2,0,2,0,0,0,1,1,1,0,0,0,7.44,0
+Maria Boone,male,51,Myanmar,1,1,1,0,0,0,3,1,2,0,0,0,0,0,0,1,0,0,8.15,0
+Julia Russell,male,70,Mozambique,1,3,1,1,1,0,3,0,4,0,1,0,0,0,0,0,1,1,28.51,0
+Megan Crawford,male,58,Mauritius,4,2,0,1,1,0,3,0,1,1,0,1,0,1,0,1,0,0,37.17,0
+Stephanie Morrison,female,7,Moldova,0,1,1,0,1,0,2,0,0,0,1,0,1,0,0,0,0,1,38.64,0
+Benjamin Henderson,male,58,Algeria,3,3,0,0,1,1,1,0,4,0,0,0,0,1,1,0,0,0,5.71,0
+Anthony Charles,female,42,Equatorial Guinea,2,4,0,1,1,1,1,0,3,1,1,0,0,1,0,1,1,1,44.68,0
+Thomas White,female,49,United States of America,2,2,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,25.67,1
+Anthony Myers,female,14,Sudan,0,1,0,0,0,0,2,0,3,0,1,0,1,0,0,0,1,1,26.74,0
+Robin Campbell,female,69,Montserrat,2,1,1,1,0,0,3,0,4,0,0,0,0,1,0,1,0,0,41.7,0
+William Vasquez,male,77,Saint Pierre and Miquelon,1,2,1,1,1,1,1,1,0,0,0,0,1,1,0,0,1,0,9.68,1
+Stephanie Harrison,female,36,Syrian Arab Republic,3,3,0,0,1,0,2,1,4,1,1,0,0,0,1,1,0,1,17.18,0
+Catherine Casey,female,79,Tunisia,4,4,1,0,0,1,1,0,4,1,1,1,0,0,0,0,0,1,47.11,1
+Karen Martin,female,98,Cocos (Keeling) Islands,1,0,1,0,0,0,3,1,4,0,0,1,1,1,0,0,0,0,21.43,0
+Christian Hill,female,12,Burundi,4,2,0,0,0,0,0,1,2,0,0,1,1,0,0,0,0,1,50.96,0
+Douglas Barnes,female,95,Sao Tome and Principe,4,4,1,0,0,1,2,0,3,0,0,0,1,1,1,0,0,1,49.77,0
+Mitchell Mcdonald MD,male,23,Tajikistan,3,2,1,1,0,1,0,0,4,1,0,1,0,1,0,1,1,0,45.33,1
+Joseph James,male,75,British Indian Ocean Territory (Chagos Archipelago),4,1,1,0,0,1,2,0,0,1,0,0,0,0,0,1,1,1,45.72,1
+Ashley Wood,male,75,Kazakhstan,4,3,0,0,1,1,2,0,1,1,1,1,0,1,0,1,1,0,10.45,1
+Amber Rodriguez,male,55,Luxembourg,0,1,0,0,1,1,4,1,3,0,0,0,0,1,1,0,0,0,51.22,0
+Kelly Robertson,male,19,India,1,2,0,0,1,0,4,1,2,0,0,0,1,1,0,0,0,1,8.83,0
+Katherine Baker,female,64,Cayman Islands,3,2,1,0,1,1,2,1,4,1,0,1,1,0,0,1,0,1,39.24,0
+Steven Rodriguez,male,95,Swaziland,2,0,0,0,0,1,3,1,2,1,1,0,1,1,1,0,0,1,29.88,0
+Adrian Ramos,male,44,Belize,1,2,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,0,40.24,0
+Jonathan Newman,male,33,Indonesia,3,4,0,1,0,1,4,0,1,1,1,0,1,1,0,0,0,0,37.55,1
+Natasha Jimenez,female,37,Bermuda,2,0,0,0,1,1,4,0,1,0,0,0,0,1,0,1,0,1,52.65,0
+Patrick Conner,female,76,Saudi Arabia,3,0,0,1,1,1,0,1,3,1,1,0,1,1,0,1,0,0,22.2,0
+Kelly Allen,male,76,Western Sahara,3,4,1,1,0,0,3,1,0,0,1,1,1,1,0,0,1,0,5.82,1
+Timothy Cooley,female,76,Brunei Darussalam,3,4,0,1,1,0,1,1,1,1,0,0,1,1,0,0,0,1,18.83,1
+Mitchell Stuart,female,93,United Arab Emirates,2,4,0,1,0,0,0,0,4,1,1,0,1,0,1,0,0,0,25.74,0
+Eric Hayes,female,86,Syrian Arab Republic,0,4,0,0,0,1,0,1,3,1,1,0,0,0,0,0,0,0,21.63,0
+Ryan Davis,female,28,Saudi Arabia,3,2,1,1,1,1,2,1,0,1,0,0,1,0,1,0,0,0,38.21,1
+Karen Marshall,male,13,Yemen,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,1,8.04,0
+Isaac Espinoza,female,17,Cuba,1,2,0,0,0,1,0,0,2,1,1,1,1,0,0,1,1,1,50.68,1
+Henry Villanueva,female,76,Micronesia,3,0,1,0,0,1,2,1,4,0,0,1,0,0,1,0,0,1,9.3,0
+Michael Mathis,female,38,Israel,1,3,0,0,0,1,1,0,3,1,1,0,1,0,0,0,1,0,11.9,0
+Michelle Mccarty,male,36,Palau,0,3,0,1,0,1,4,0,0,1,0,0,0,1,1,1,0,1,39.2,0
+Patricia Kelley,male,39,Slovenia,4,2,1,1,1,0,2,0,2,1,0,1,0,1,0,0,0,1,23.84,0
+Gary Galvan,female,56,United States Virgin Islands,4,1,1,0,0,0,4,0,4,0,1,0,1,0,0,0,0,0,6.12,0
+Michelle Marshall,male,40,Pakistan,4,3,1,0,1,0,3,1,3,0,0,0,0,0,0,1,1,0,12.41,1
+Sharon Williams,female,90,Indonesia,4,1,1,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,8.78,0
+Dean Morgan,female,80,Ireland,0,4,1,0,1,1,1,1,3,1,0,0,0,0,0,0,1,0,14.33,0
+Anthony Flores,male,75,Brazil,1,3,0,0,0,1,2,0,0,0,0,1,1,0,0,0,0,1,6.83,0
+Jose Hudson,male,90,Pakistan,1,3,1,1,0,0,4,0,3,0,0,0,0,0,1,1,0,0,44.78,0
+Brenda Livingston,female,50,Andorra,0,1,0,0,1,1,2,0,0,0,1,0,1,1,1,1,0,0,54.76,0
+Veronica Wilson,female,86,Togo,0,3,0,1,0,1,0,0,4,0,1,0,0,0,0,0,0,1,35.75,0
+Mr. Adam Smith,male,79,Guadeloupe,0,3,0,0,1,0,4,0,2,0,1,0,0,0,0,1,1,0,34.16,1
+Haley Herrera,female,71,Serbia,3,0,0,1,1,1,0,0,3,0,1,1,1,1,0,0,0,0,31.69,1
+Michael Dixon,male,11,Cook Islands,2,4,1,1,1,1,2,0,0,0,1,0,1,0,0,0,0,0,45.89,0
+Cindy Jackson,female,34,Philippines,2,4,1,0,0,1,4,1,1,1,0,1,0,0,1,1,1,0,34.88,1
+Michele Blevins,female,20,Guam,1,4,0,0,1,1,0,0,4,1,0,1,0,0,0,1,0,1,55.67,1
+Kayla Good,male,63,Namibia,1,1,0,0,0,0,1,1,4,0,0,0,0,1,1,0,0,0,41.31,0
+Gary Davis,male,26,Senegal,0,2,1,1,0,0,4,1,3,1,1,1,0,0,0,0,1,1,27.33,0
+Jesus Long,male,36,Belize,2,1,0,1,1,1,0,0,4,1,0,0,1,0,0,0,1,0,22.43,0
+Benjamin Santana,male,65,Wallis and Futuna,2,1,0,1,0,0,3,1,2,0,1,1,0,0,0,1,0,1,29.64,0
+Matthew Lopez,female,38,Cyprus,0,0,0,0,0,1,1,1,3,0,0,0,1,1,1,0,1,0,46.33,0
+Edward Paul,male,41,Rwanda,2,3,0,0,1,0,1,1,2,0,1,1,1,0,1,1,0,0,28.13,1
+Fernando Walters,male,66,Israel,1,4,1,1,1,0,3,1,2,1,0,1,0,1,1,1,1,1,33.34,0
+Emily Rice,female,9,Albania,4,0,1,0,1,0,1,1,2,0,1,1,0,0,1,1,0,0,5.84,0
+Donna Taylor,female,60,Iraq,3,3,1,1,0,0,1,0,1,1,1,1,0,1,0,0,1,1,50.31,1
+Scott Swanson,female,41,Martinique,3,4,0,1,0,1,4,0,4,1,0,0,0,0,0,0,1,1,7.78,0
+David Mason,male,80,Falkland Islands (Malvinas),4,1,0,0,0,1,2,1,4,0,1,0,1,0,1,1,1,1,27.4,0
+Taylor Brown,female,95,Cuba,2,1,1,1,1,0,4,1,2,1,0,0,1,1,1,1,0,1,31.67,0
+Nichole Webb,male,92,French Guiana,3,1,0,0,1,1,0,0,4,0,1,0,0,1,1,0,1,0,19.92,0
+Scott Hoover,female,38,Uganda,1,3,1,1,1,1,2,0,0,1,0,0,1,0,0,1,0,0,45.43,0
+Ryan Ward,female,9,China,3,0,1,0,1,1,0,0,4,1,0,0,1,0,0,1,1,0,54.61,0
+William Douglas,male,56,Northern Mariana Islands,2,3,1,1,1,1,3,0,3,0,0,0,1,0,0,0,1,0,32.22,0
+Jason Rangel,female,96,Palestinian Territory,3,4,0,1,1,1,4,1,2,0,0,1,1,1,1,1,0,1,17.66,0
+Valerie Meyer,female,50,Syrian Arab Republic,2,0,0,1,0,1,3,0,0,1,1,1,0,1,1,1,0,0,18.17,0
+Kenneth Combs,female,69,Spain,0,1,1,0,0,1,0,1,1,1,0,1,0,0,1,0,0,1,6.24,0
+Audrey Johnson,male,50,Reunion,2,0,1,0,0,1,0,0,0,0,1,1,1,0,1,1,0,1,13.53,0
+Brenda Carlson,female,88,Latvia,1,3,1,0,0,0,1,1,2,0,1,0,0,0,1,1,1,0,42.73,0
+Marie Vincent,male,71,Nigeria,1,0,0,1,1,0,2,0,1,1,0,1,1,0,0,0,0,1,48.21,1
+John French,male,63,Uruguay,2,2,0,0,1,1,4,1,2,1,0,0,1,0,1,0,0,0,12.98,0
+Kenneth Carter,female,11,United Kingdom,4,0,0,1,1,0,2,1,1,1,1,1,1,0,0,1,0,1,10.67,0
+Thomas Ayala,female,77,United Kingdom,1,3,0,1,0,1,4,1,2,1,0,1,1,1,1,1,0,1,30.03,1
+Christopher Sims DDS,male,54,Kazakhstan,3,3,1,0,1,1,4,0,1,1,0,0,0,0,1,0,0,0,46.96,1
+Amber Kim,female,87,Switzerland,3,4,0,0,0,0,3,1,3,1,0,0,0,0,0,0,0,1,31.49,0
+Mr. Eugene Bush,female,45,Chad,4,4,1,0,1,1,4,0,3,1,1,0,0,0,0,1,0,1,38.78,0
+Megan Bradley,female,45,Turkmenistan,2,2,0,0,0,0,4,0,4,1,0,0,1,1,1,1,0,1,39.06,0
+Brittany Gonzalez,male,38,Gabon,0,4,0,0,1,1,4,1,4,0,1,1,0,1,0,0,0,1,34.33,0
+Craig Campbell,male,28,Pakistan,2,2,0,1,0,0,3,1,3,0,0,1,0,1,0,0,1,0,31.97,0
+Tim Thomas,male,36,Gambia,1,4,1,1,0,0,2,1,4,0,0,0,0,0,1,1,1,1,9.04,0
+Tami Carlson,female,38,Korea,2,1,1,1,0,0,0,0,2,0,1,1,1,1,0,1,1,1,13.77,0
+Christopher Gonzalez,male,59,Venezuela,2,2,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,21.79,0
+Christopher Ewing,male,85,Samoa,0,3,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,50.99,1
+William Shannon,male,18,Korea,0,0,1,1,0,0,2,1,0,0,1,1,0,0,0,0,0,1,59.2,0
+Renee Reynolds,female,59,Saint Kitts and Nevis,0,1,1,1,0,0,4,1,0,0,0,1,0,1,1,0,0,1,7.71,0
+Daniel Benson,male,18,Guadeloupe,1,2,0,0,1,0,0,0,1,1,1,0,0,1,0,1,0,0,50.95,1
+Tina Smith,female,71,Vanuatu,3,4,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,47.34,1
+Benjamin Kramer,male,38,Taiwan,2,2,0,1,1,0,0,0,1,1,0,0,1,0,0,1,1,0,14.94,0
+Laura Goodwin,female,15,Taiwan,4,1,1,1,1,0,3,0,2,0,1,0,1,0,1,1,0,1,52.91,0
+Anna Nguyen,male,34,British Indian Ocean Territory (Chagos Archipelago),2,1,1,1,1,0,1,0,1,0,1,1,1,1,0,0,1,0,36.85,1
+Kristina Anderson,female,36,Puerto Rico,1,1,1,0,0,0,0,0,4,1,1,0,0,0,1,0,0,1,59.81,0
+Darren Martin,female,26,Comoros,2,0,0,0,1,0,0,0,1,1,0,1,1,1,0,1,0,0,30.95,1
+Amanda Tran,male,77,Mozambique,2,4,0,0,0,0,4,0,2,0,1,0,0,1,0,0,1,0,38.35,1
+Jordan Rose,female,87,Czech Republic,2,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,51.06,0
+Michelle Reyes,male,18,United States Virgin Islands,4,1,0,1,0,1,0,1,4,1,0,0,0,0,1,0,0,0,8.56,0
+Andrew Miller,male,82,Belarus,1,4,1,0,0,0,0,0,4,1,0,0,0,1,0,0,1,1,5.4,0
+Karen Leonard,male,39,Tuvalu,2,4,0,0,1,1,0,0,4,0,0,0,0,1,1,0,0,1,41.34,0
+Debbie Cobb,female,72,Pitcairn Islands,0,4,0,0,0,0,2,0,3,1,1,0,0,0,1,0,1,1,11.6,0
+Sandra Schultz,male,28,Netherlands,1,4,0,1,0,1,3,1,1,0,1,0,1,1,1,0,0,1,8.04,0
+Angela Pham,male,40,Montserrat,1,2,1,1,1,0,3,1,1,1,1,0,0,0,0,1,0,1,58.67,0
+Micheal Young,female,22,Haiti,2,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,41.14,1
+Alexander Anderson,male,73,Gibraltar,3,1,1,0,1,1,2,0,1,0,0,0,1,0,0,0,1,1,29.56,1
+Stephanie Clark,male,64,Hong Kong,3,3,0,1,1,0,2,1,4,0,1,1,0,0,1,0,1,0,54.8,0
+William Montgomery,female,18,United States of America,0,2,1,1,0,0,4,1,2,1,1,0,1,1,0,0,1,1,54.53,0
+Angela Green,female,22,Israel,2,3,1,1,0,0,3,0,0,1,1,1,1,0,1,0,1,1,13.41,0
+Jason Anderson,female,30,Estonia,4,2,1,0,1,1,4,0,4,0,1,0,0,1,0,0,1,0,46.25,0
+Ann Perez,female,41,Maldives,2,3,0,1,0,0,1,0,4,1,1,1,1,0,0,0,1,1,44.58,0
+Joseph Bass,male,39,Luxembourg,0,3,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,1,38.74,0
+Aaron Brown,female,24,Uganda,0,2,0,1,1,0,2,0,4,0,1,1,1,0,1,0,1,0,13.54,0
+Jessica Anderson,male,38,Thailand,2,0,1,1,0,1,2,1,4,0,1,1,1,0,0,1,0,1,6.59,0
+Joe Wright,male,44,Equatorial Guinea,3,3,1,1,0,1,4,0,3,1,1,0,1,0,0,1,1,0,16.35,0
+Dr. Jason Price,male,49,Dominica,4,1,1,0,0,1,3,0,1,0,0,1,0,1,0,1,1,0,25.89,0
+Brenda Smith,male,79,Malaysia,3,1,1,0,0,0,4,0,0,1,1,0,0,0,1,0,0,1,15.15,0
+Kelsey Martinez,male,8,Jamaica,3,1,0,0,1,0,0,1,3,0,0,0,0,1,1,1,1,0,42.62,0
+Steven Watson,female,42,Comoros,1,1,1,0,1,0,4,0,4,1,0,0,0,0,0,0,0,0,54.57,0
+Monica Moran,male,41,Mayotte,2,4,0,1,1,1,2,0,3,0,1,0,0,1,1,0,0,0,43.47,0
+Scott Barber,male,69,Holy See (Vatican City State),4,0,1,0,0,1,2,1,0,1,1,1,1,0,0,0,1,0,9.58,0
+Kevin Davidson,male,16,Dominican Republic,2,2,0,0,1,1,0,0,3,1,0,0,1,0,1,0,1,1,41.46,1
+Rachel Smith,female,91,British Virgin Islands,4,2,0,0,1,1,0,1,1,0,0,1,1,1,1,1,0,1,51.14,1
+Cynthia Bradley,male,12,Macao,1,4,0,1,1,1,4,1,2,1,0,1,1,0,0,0,1,0,6.8,0
+Jeffrey Medina,female,44,Cambodia,4,2,1,0,1,0,2,0,3,1,0,1,0,1,0,1,0,0,33.29,0
+Samantha Hayes,male,54,Marshall Islands,4,1,0,1,1,0,0,1,4,1,1,1,0,1,0,1,1,1,31.53,0
+Scott Gibbs,male,87,Moldova,2,3,0,1,1,1,2,0,0,0,1,0,0,0,0,1,1,0,19.56,0
+Luis Davis,male,7,American Samoa,1,2,0,0,0,0,3,1,3,0,1,1,0,1,0,1,1,1,36.79,0
+Charles Davis,male,13,Germany,0,1,0,1,1,0,2,1,4,0,0,1,1,0,0,0,1,1,48.55,0
+Bruce Ortiz,male,75,Saint Kitts and Nevis,4,1,1,0,1,0,0,0,4,1,1,0,1,0,1,0,1,1,55.13,1
+Andrew Wyatt,female,75,Syrian Arab Republic,2,0,1,0,1,0,3,1,3,1,1,1,1,1,0,1,1,1,50.2,0
+Robin Huang,male,25,Afghanistan,1,4,0,0,0,1,0,0,1,0,0,1,1,0,1,1,1,0,49.07,1
+Crystal Cook,female,25,Guam,3,0,0,0,1,0,1,1,4,0,1,0,0,1,1,1,1,0,50.99,0
+Edward Meadows,female,33,Portugal,0,0,1,0,1,1,1,1,4,0,1,1,1,0,1,1,1,1,53.44,1
+Kari Collins,female,100,Heard Island and McDonald Islands,2,2,1,0,1,1,2,0,4,0,0,1,0,1,0,0,0,1,35.01,0
+Patricia Lynch,male,57,Costa Rica,0,2,0,0,0,1,1,1,2,1,0,0,1,1,1,0,1,1,39.24,1
+Kristina Weeks,male,95,Armenia,0,1,0,1,1,0,1,0,1,1,0,0,0,1,1,1,0,1,39.78,0
+Kaylee Newton,male,32,Luxembourg,0,4,0,0,1,0,0,1,2,0,0,0,0,1,0,0,1,0,45.25,1
+Amber Payne,female,23,Italy,3,1,0,0,0,0,4,1,1,0,1,1,1,0,0,0,0,0,40.54,0
+Teresa Coleman,male,32,Morocco,4,1,0,0,1,0,4,0,4,0,0,1,0,1,1,1,1,0,46.99,0
+Courtney Ingram,female,24,Korea,1,3,1,1,1,1,3,1,4,1,0,1,0,1,0,0,0,1,17.18,0
+Kelly Hernandez,female,74,Wallis and Futuna,2,3,1,1,1,0,3,1,0,0,0,1,1,1,1,0,1,0,23.08,0
+Joshua Bates,female,15,Nepal,2,2,0,1,0,1,4,0,0,1,1,1,0,1,1,1,0,0,37.73,1
+Scott Alvarez,male,31,Heard Island and McDonald Islands,2,2,1,1,1,0,4,0,3,1,1,0,0,0,1,0,0,1,45.58,0
+Mark Tate DVM,female,33,Finland,0,4,0,1,1,0,3,0,3,0,1,1,1,1,0,1,0,1,30.14,0
+Anne Shaw,male,13,Vietnam,2,1,0,1,1,0,0,1,4,1,1,1,0,1,0,0,0,1,39.15,0
+Isaac Anderson,female,55,Bangladesh,2,0,1,1,1,1,4,0,4,0,0,0,1,0,1,1,0,0,27.52,0
+Troy Allen,female,71,Turkmenistan,2,4,0,0,0,1,3,0,1,0,1,1,0,1,1,0,0,1,16.19,0
+Tamara Knox,female,44,Saint Kitts and Nevis,1,2,0,0,0,0,2,1,3,0,1,1,1,0,1,0,0,1,31.9,0
+Trevor Miller,male,78,Greenland,3,0,0,0,0,0,3,0,4,1,1,1,0,0,1,0,1,0,33.31,0
+Roberto Carroll,female,33,Ireland,4,3,0,0,1,0,3,0,3,0,0,0,1,1,1,1,0,0,15.14,0
+Christian Carter,female,23,Yemen,1,4,0,1,0,0,3,1,1,1,1,0,1,1,1,0,1,1,28.06,0
+Dylan Robinson II,female,48,Reunion,0,0,0,1,0,1,1,1,4,1,0,0,1,1,1,1,0,0,58.15,0
+Claire Glover,male,37,Slovakia (Slovak Republic),0,2,1,1,1,1,4,1,2,1,0,1,1,0,0,1,0,0,6.92,0
+Mrs. Christina Bell DDS,male,44,Angola,2,4,0,0,1,0,1,0,2,1,1,0,0,1,0,1,1,0,40.41,1
+Kristina Stevenson,female,37,Saint Vincent and the Grenadines,1,3,1,0,1,0,2,0,2,0,1,1,1,0,0,1,0,0,26.67,0
+Lauren Perry,male,24,Algeria,4,1,1,0,1,0,0,1,2,0,1,0,1,0,1,0,0,0,41.01,1
+Joshua Conley,male,98,Bouvet Island (Bouvetoya),0,2,0,0,0,0,4,0,1,0,1,0,0,1,1,0,1,1,18.21,0
+Bradley Love,male,73,Costa Rica,3,2,0,1,0,1,2,0,2,1,1,1,1,0,1,1,1,0,27.47,1
+David Mendoza,male,12,Kazakhstan,1,2,0,1,0,0,2,1,0,0,1,0,0,1,1,0,1,0,8.35,0
+Amanda Phillips,male,27,Swaziland,4,3,1,1,1,1,4,1,1,1,1,1,0,0,0,0,0,0,49.53,1
+Joanna Stewart,female,64,Isle of Man,2,2,0,1,0,0,3,1,3,1,0,1,1,0,1,0,0,0,11.29,0
+Ryan Romero,female,78,Trinidad and Tobago,2,3,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,1,9.93,0
+Rebekah Clark,male,45,Maldives,4,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,1,34.59,1
+Rachel Williams,female,16,Swaziland,2,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,0,1,34.25,1
+Caitlyn Lozano,male,8,Trinidad and Tobago,0,0,0,1,0,0,1,0,3,1,1,0,1,1,0,1,0,1,23.72,0
+Terry Collins,female,46,Canada,4,1,1,1,0,1,3,0,1,1,1,1,1,0,1,1,1,1,33.41,0
+Kathleen Daniel,male,70,Mauritania,4,4,1,0,1,0,4,1,3,0,0,0,0,0,1,1,1,1,37.8,1
+Amy Garrison,female,18,Eritrea,4,4,0,0,0,0,4,0,3,0,1,0,0,0,0,1,0,0,40.42,0
+Lori Vaughn,male,47,North Macedonia,2,1,0,0,0,0,4,0,0,1,0,0,0,1,0,0,0,1,36.74,0
+Daniel Prince,female,76,Burundi,0,2,0,0,1,1,3,1,0,0,0,1,0,1,0,1,1,1,33.53,1
+Erin Ramsey,female,88,Saint Barthelemy,4,4,0,1,1,1,2,1,4,1,0,1,1,0,0,0,1,0,34.96,0
+Mrs. Meghan Singleton,male,100,Peru,3,4,0,1,1,0,1,0,4,0,0,1,1,0,1,0,1,1,24.15,0
+Samantha Bennett,female,92,Andorra,3,3,0,0,1,1,2,1,2,0,0,1,0,0,1,0,1,1,38.85,0
+William Anderson,female,100,Tuvalu,1,0,0,0,0,1,2,0,0,0,0,1,0,1,1,1,0,1,53.85,0
+Austin Young,male,25,Norfolk Island,2,3,0,0,0,0,2,1,0,1,0,0,0,0,0,0,1,1,56.26,1
+Crystal Hayes,female,28,Northern Mariana Islands,0,3,1,1,1,1,2,1,2,0,1,0,1,1,1,1,0,0,56.5,1
+Matthew Miller,male,37,Ethiopia,3,0,0,1,0,1,1,1,0,1,1,0,0,1,1,1,0,1,13.07,0
+Joseph Jackson,male,91,Tokelau,1,1,0,1,1,0,3,1,4,1,1,1,0,1,1,1,0,1,19.3,0
+Dana Miller,male,74,Christmas Island,1,3,1,0,0,0,4,1,3,0,1,0,1,1,0,0,0,0,48.24,0
+Patrick Harrell,female,88,Cayman Islands,4,2,1,1,0,0,0,1,2,0,0,0,0,1,0,0,0,0,56.36,0
+Emily Garcia,male,88,Bahamas,4,2,0,1,1,1,2,1,2,1,1,0,1,0,1,1,1,0,21.61,0
+Tonya Byrd,male,22,Congo,3,0,0,0,0,0,1,1,4,1,0,0,1,1,1,1,0,0,14.5,0
+Debbie Jenkins,male,10,Tunisia,1,4,1,1,0,0,2,0,2,0,1,1,1,0,1,1,1,0,52.75,0
+Nicholas Davis,female,14,Tonga,4,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,14.12,0
+Danny Warner,male,11,Iran,3,2,1,0,1,0,1,0,4,1,0,1,0,1,1,0,0,1,29.0,0
+Sydney Sullivan,female,73,Colombia,2,3,1,1,1,1,1,1,4,0,0,0,0,0,1,1,0,0,48.76,1
+Grant Garcia,female,76,Algeria,2,1,0,0,1,0,1,0,3,1,1,0,1,1,1,1,0,0,52.89,0
+Jessica Dennis,female,15,Iceland,3,0,0,1,0,1,0,1,0,0,0,1,0,1,1,0,1,1,21.69,1
+Brian Holland,female,9,Liberia,2,0,0,1,0,0,3,0,0,0,1,1,1,1,1,0,1,0,17.59,0
+Holly Lee,female,34,Syrian Arab Republic,3,1,1,0,0,0,0,1,3,1,1,0,0,0,1,0,1,1,23.58,0
+Cody Mercado,female,80,Pakistan,4,3,1,0,1,0,3,1,4,1,0,1,1,0,0,1,1,1,31.26,0
+Carlos Pacheco,male,81,Gambia,1,2,1,1,1,1,3,1,4,0,0,1,0,0,0,1,1,1,59.95,0
+Omar Davidson,female,77,Svalbard & Jan Mayen Islands,4,0,1,0,1,1,3,1,3,1,1,0,1,1,1,1,0,1,31.69,0
+Dustin Barber,female,65,Saint Pierre and Miquelon,4,2,0,1,0,0,0,1,2,0,1,1,1,0,1,1,1,1,43.39,0
+Zachary Rocha,female,55,Nauru,2,2,0,0,1,1,0,0,3,1,0,1,0,1,1,1,0,1,37.47,0
+James Snyder,male,68,Belize,3,4,1,0,1,1,4,1,4,0,0,1,0,0,1,1,0,1,40.25,0
+Benjamin Hamilton,male,41,French Southern Territories,1,4,1,1,0,0,0,0,3,0,1,1,0,1,0,1,0,0,21.95,0
+Clifford Moore,male,67,Guatemala,3,4,1,1,0,0,4,1,0,0,0,1,0,0,0,0,1,0,51.33,1
+John Ray,female,92,United Arab Emirates,4,4,0,0,1,0,0,0,2,1,1,1,0,0,1,0,0,0,11.16,0
+Amanda Bernard,female,79,Heard Island and McDonald Islands,2,2,0,1,0,0,3,1,4,0,1,1,0,1,0,0,1,1,28.16,0
+Michael Klein,female,84,Suriname,1,0,1,1,1,1,2,0,1,1,0,1,0,0,1,0,0,0,15.01,0
+Jamie Massey,female,75,Korea,3,0,0,1,0,0,3,1,0,1,1,1,0,1,1,1,1,1,34.03,0
+Nicholas Miller,male,18,American Samoa,4,1,1,1,1,0,1,0,0,1,1,1,0,0,0,1,1,0,24.46,1
+Chad Jones,male,92,San Marino,3,1,0,0,0,0,2,0,4,0,1,0,0,1,1,0,0,1,18.94,0
+Olivia Barton,female,85,India,1,1,1,0,1,1,1,0,4,0,1,0,0,1,1,1,0,1,8.32,0
+Carrie Ortega,male,55,Cyprus,2,2,0,0,0,1,2,0,2,1,0,0,1,0,1,1,1,0,6.25,0
+David Rodriguez,male,87,Russian Federation,1,4,1,1,0,1,0,1,4,1,0,0,1,1,1,1,0,0,50.13,0
+Caleb Ferrell,male,96,Croatia,0,1,0,0,1,1,3,1,3,0,0,1,0,0,0,0,0,1,54.68,0
+Anne Hartman,female,86,Cambodia,0,2,1,0,0,0,2,1,1,1,0,1,0,1,1,1,0,0,57.55,0
+Frank Rivera,female,92,Swaziland,1,0,1,1,1,0,1,1,4,1,1,0,0,0,1,1,0,1,57.77,0
+Tracy Bruce,male,44,Turkey,3,1,1,1,0,1,2,1,2,1,0,1,0,0,0,0,1,1,54.87,0
+Colleen Jones,female,30,Burundi,3,3,0,0,1,1,4,0,0,0,0,1,1,1,1,1,1,1,46.35,1
+Nathan Gillespie,female,61,Nigeria,0,3,1,1,1,1,0,0,1,1,0,0,1,0,1,1,0,1,45.96,1
+Jessica Erickson,male,76,Bolivia,3,3,0,1,0,1,4,1,3,1,1,0,0,0,0,1,0,0,50.26,1
+Laura Harris,female,28,Tokelau,2,0,1,1,0,1,4,0,3,1,1,1,1,1,1,1,1,1,18.76,0
+John Calderon,female,70,Hong Kong,2,0,1,1,0,1,2,1,1,0,1,0,0,1,0,0,0,1,5.34,0
+James Romero,female,25,Pitcairn Islands,1,4,0,0,1,1,0,1,2,1,0,0,0,1,1,0,1,1,45.12,1
+Stephanie Bender,male,97,Indonesia,2,0,1,1,1,1,0,1,1,0,1,0,0,0,0,1,1,0,15.64,0
+Audrey Brown,male,64,Romania,3,4,1,1,0,1,0,1,2,0,0,0,0,0,0,0,0,0,46.07,1
+Christina Dillon,female,18,Seychelles,0,3,0,0,0,0,1,0,2,1,1,0,0,0,1,1,0,1,33.86,1
+Kristopher Phillips,male,19,Saint Barthelemy,0,3,0,0,1,0,2,0,2,1,0,1,1,1,0,1,0,1,30.98,1
+Tiffany Warren,male,71,Afghanistan,0,2,1,0,0,0,2,0,4,1,0,1,0,0,0,1,0,0,36.85,0
+Jamie Wilcox,male,56,El Salvador,4,3,1,0,0,0,0,1,1,1,1,0,0,1,0,0,1,0,32.26,1
+Christopher Keith,female,10,Sierra Leone,2,4,1,0,1,1,1,0,2,1,0,0,0,1,0,0,0,0,23.52,0
+Jeremy Hayden,female,82,Turkmenistan,1,3,1,0,0,1,2,1,1,0,1,0,0,0,0,0,0,1,35.97,0
+William Collins,female,26,Saint Kitts and Nevis,2,3,1,1,1,1,3,1,0,1,1,1,0,0,1,1,1,0,55.3,1
+Blake Adams,female,11,Cameroon,4,2,1,0,0,1,0,1,2,1,0,0,0,1,1,1,0,1,31.17,1
+Dylan Miller,female,8,Austria,3,3,1,0,0,0,4,0,1,1,1,1,1,0,1,0,1,0,59.45,0
+Juan Wagner,male,66,Kiribati,1,0,1,1,1,0,4,1,0,0,0,1,0,1,1,1,0,0,47.23,0
+Scott Montgomery,male,54,Pakistan,2,4,0,0,1,1,2,0,2,1,0,1,0,1,0,0,1,0,58.6,1
+Sue Hill,female,28,Vanuatu,1,1,0,1,0,1,2,1,0,1,1,0,1,1,1,1,0,1,7.09,0
+Matthew Reeves,female,49,Kenya,4,2,1,1,0,0,1,1,3,1,0,0,1,1,1,0,1,1,10.18,0
+Darren Ramsey,male,29,Northern Mariana Islands,1,1,0,0,0,0,4,0,4,1,1,0,1,1,0,0,0,0,42.85,0
+Jennifer Howard,male,31,Cuba,4,0,1,0,1,0,3,0,1,1,0,1,1,1,1,0,1,0,12.98,0
+Christopher Strickland,female,43,Russian Federation,3,0,1,0,1,0,4,0,3,1,0,0,1,1,1,1,0,1,55.39,0
+Kathy Holland,female,18,Tokelau,2,4,1,0,0,0,1,1,0,1,1,1,1,1,1,0,1,0,25.46,1
+Jasmine Gallegos MD,female,45,Tokelau,4,4,1,1,1,0,1,1,2,0,1,1,1,1,0,0,0,0,50.92,1
+Carlos Cline,male,66,Rwanda,1,2,1,1,1,1,2,1,3,0,0,1,1,0,0,1,0,1,52.94,0
+Holly Austin,female,36,Northern Mariana Islands,3,3,0,0,0,0,4,1,2,1,1,0,1,1,1,1,1,1,17.7,0
+Michelle King,male,47,Nicaragua,4,0,0,0,1,1,3,1,2,1,1,1,1,1,1,1,1,0,42.65,0
+Lisa Bentley,female,72,United States Virgin Islands,2,3,0,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,36.01,1
+Ashley White,male,56,Vanuatu,4,0,0,0,1,0,0,0,3,1,0,1,0,1,0,0,0,1,21.4,0
+Matthew Allen,female,41,Comoros,3,2,0,0,1,0,0,1,4,0,0,0,0,1,1,0,0,0,20.54,0
+Todd Smith,female,64,Liberia,3,1,1,1,0,0,0,1,1,1,1,0,1,1,1,0,0,0,9.15,0
+Vickie Morales,female,73,Nigeria,3,4,1,0,0,0,4,0,1,1,0,0,0,0,0,0,1,1,24.52,1
+Ashley Garcia,female,98,United Arab Emirates,0,0,1,1,0,0,3,1,4,1,1,0,0,1,0,1,1,1,26.26,0
+Leslie Hines,female,93,Swaziland,4,4,1,0,0,1,3,1,4,1,0,1,0,1,0,1,0,0,9.84,0
+Kristin Walker,male,55,Niue,0,2,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,1,6.99,0
+Jared Newton,male,31,New Zealand,4,1,1,1,1,0,4,0,1,1,0,1,0,0,0,0,0,0,49.3,1
+Raymond Williams MD,male,81,Ireland,1,0,0,0,0,0,1,1,2,1,0,0,1,1,0,1,0,0,11.9,0
+Erin Kim,female,29,Indonesia,1,3,1,1,0,1,4,0,0,1,0,1,0,1,0,0,1,0,35.34,1
+Parker Kaufman,male,100,Niger,1,0,1,0,0,1,4,1,1,0,1,0,1,1,1,0,0,1,5.18,0
+Jeffrey Reed,female,73,Malta,0,1,1,1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,25.92,1
+Elaine Ellis,male,12,British Indian Ocean Territory (Chagos Archipelago),3,0,1,0,0,1,4,1,0,1,0,0,1,1,0,1,0,1,56.12,0
+Gregory Williams,female,49,Cuba,0,3,1,1,0,1,3,1,0,1,1,0,1,0,0,1,0,0,31.27,0
+Alexis Preston,male,90,Faroe Islands,3,4,1,1,0,1,4,0,1,1,0,0,0,1,1,1,1,0,17.52,0
+Julie Jenkins,male,97,Samoa,3,4,0,0,0,1,4,0,2,0,0,0,1,1,0,1,1,1,45.21,1
+Sydney Clark,female,74,Netherlands,4,0,0,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,58.72,1
+Jeremy Parsons,female,6,Armenia,3,4,1,1,0,1,3,0,3,1,0,0,1,1,1,0,1,0,14.42,0
+Shelby Hoffman,female,73,Niger,3,2,1,1,1,1,1,1,3,1,1,0,1,0,0,0,1,1,34.78,1
+John Smith,male,90,Denmark,2,2,1,1,0,0,0,0,3,1,0,0,1,0,1,0,0,0,52.43,0
+William Porter,male,28,Italy,4,3,0,0,1,1,1,0,3,1,1,0,0,1,1,1,0,0,18.22,1
+Johnny Flowers,male,62,Germany,2,0,0,1,0,0,1,1,0,0,1,1,1,1,1,1,0,1,50.0,0
+John Cabrera,male,18,Lao People's Democratic Republic,3,0,0,0,1,0,4,1,3,1,0,1,0,0,1,0,1,0,16.3,0
+Joseph Thompson,female,42,Russian Federation,3,1,0,1,1,1,0,1,4,1,1,1,0,1,1,1,1,0,39.21,0
+Julia Hawkins,female,20,Liechtenstein,1,2,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,51.57,1
+Brandon White,female,8,Togo,1,0,0,1,1,1,0,0,4,0,1,1,0,1,1,1,0,0,45.6,0
+Samuel Glover,male,88,United Kingdom,2,0,1,0,1,1,1,1,0,1,0,0,1,0,1,1,0,0,16.38,0
+Barbara Mcclure,female,19,Mali,0,1,1,0,1,1,3,0,4,1,1,0,0,1,0,0,1,0,16.14,0
+Tiffany Thompson,female,34,Vietnam,1,3,1,1,0,1,3,1,4,0,1,0,0,0,0,0,0,1,55.39,0
+Sabrina Scott,female,26,Singapore,3,2,0,0,1,0,4,1,2,0,0,0,1,0,1,0,0,1,34.33,0
+Jamie Silva,male,36,Montenegro,0,3,1,1,1,0,1,0,3,1,1,1,1,0,1,1,1,0,35.59,0
+Mrs. Heather Morrison,female,25,Uzbekistan,3,0,1,1,1,0,1,0,2,1,1,1,1,1,0,0,0,0,7.25,0
+Elizabeth Carter,male,93,Togo,1,1,1,1,0,0,4,0,3,1,1,0,1,1,1,0,1,0,7.44,0
+Daniel Mcclure,male,18,Poland,2,3,1,0,1,1,4,0,3,0,1,1,1,1,1,0,0,1,20.7,0
+Zachary Hill,male,95,Uzbekistan,2,0,0,1,0,0,1,1,3,0,1,0,0,1,0,1,0,0,50.26,0
+David Hunt,female,53,Denmark,0,0,1,0,1,0,3,1,2,1,0,1,1,1,0,1,0,0,30.95,0
+Michael Hamilton,female,100,Austria,0,1,0,0,1,1,1,0,0,1,1,1,1,0,0,1,1,0,45.95,1
+Darrell Mosley,male,48,Senegal,1,4,1,1,1,0,2,0,4,0,0,0,1,1,0,1,1,1,13.98,0
+Casey Mclaughlin,female,57,Togo,0,3,1,1,1,0,1,0,4,0,0,0,1,1,1,1,0,0,9.92,0
+Hunter Cortez,female,42,Ukraine,1,2,0,1,0,1,0,0,2,0,0,0,0,0,0,1,1,1,34.61,1
+Karen Powell,male,64,Antarctica (the territory South of 60 deg S),3,1,0,0,0,1,1,1,2,1,0,0,0,0,0,0,0,1,23.25,0
+Alexander Stephens,male,95,Congo,2,4,0,1,1,1,1,1,3,1,1,0,1,1,1,0,1,0,23.63,0
+William Mckay,male,87,India,0,4,0,1,0,0,1,1,4,1,0,0,1,1,0,0,1,1,47.06,1
+Brandy Peterson,female,42,Belgium,2,2,0,1,0,0,3,0,4,0,0,0,0,1,0,1,0,1,38.43,0
+Desiree Cohen,female,60,Cocos (Keeling) Islands,2,3,0,1,0,0,2,0,1,0,0,0,0,1,1,0,0,0,21.42,0
+Debra Dyer DDS,male,11,Peru,2,0,0,1,0,1,1,0,4,0,0,0,1,1,0,0,0,0,37.55,0
+Kristopher Kennedy,female,85,Tuvalu,4,0,0,0,1,1,3,1,1,0,0,0,1,0,0,1,1,1,10.22,0
+Cassandra Mendoza,female,91,Philippines,1,4,1,1,1,0,4,0,3,0,1,0,1,0,1,1,0,1,38.24,0
+Samuel Gutierrez,male,81,Taiwan,0,1,0,0,0,0,0,0,4,1,1,1,0,0,1,1,1,0,28.64,0
+Joseph Barber,female,7,Libyan Arab Jamahiriya,1,4,1,1,0,0,4,0,1,1,1,1,1,1,1,1,1,0,43.75,0
+Kelsey Best,male,11,Turkmenistan,0,3,1,0,0,0,1,0,4,1,0,1,0,1,1,1,0,1,19.88,0
+Melinda Evans DDS,male,60,Russian Federation,0,1,1,1,0,0,1,0,2,1,0,0,1,1,1,0,1,1,41.59,0
+Raymond Black,female,43,Finland,4,2,1,1,1,0,2,1,4,0,1,0,1,0,0,1,1,1,46.09,0
+Jasmine Kline,female,28,Netherlands Antilles,2,4,0,0,0,0,3,0,0,0,1,1,1,0,0,1,0,0,51.06,0
+Alexander Lee,female,59,Slovakia (Slovak Republic),1,3,0,1,1,1,1,1,4,0,0,0,0,1,0,0,1,0,25.32,0
+Anna Wright,male,66,Tokelau,1,3,0,0,0,1,1,1,4,0,1,1,0,0,0,1,1,0,52.3,0
+Victoria Berg,male,33,Kenya,2,1,0,1,0,0,1,0,2,0,0,0,0,1,0,0,0,0,55.18,1
+Norman Anderson,male,49,Andorra,4,0,0,1,1,0,2,0,1,1,1,1,0,1,1,1,1,1,5.56,0
+John Moore,male,41,Mayotte,4,0,1,1,0,1,3,1,4,0,0,1,1,0,0,1,1,1,7.19,0
+Brandon Mcintosh,male,81,Georgia,4,3,1,1,0,1,4,1,4,1,1,0,0,0,0,0,1,0,49.93,0
+Kelly Anderson,female,82,Holy See (Vatican City State),1,1,0,1,0,1,4,0,3,0,1,0,1,1,1,0,0,0,12.18,0
+Carlos King,female,21,Honduras,2,4,1,0,0,0,2,0,0,1,1,1,0,1,0,0,1,1,55.5,0
+Angela Berger,female,60,Anguilla,2,2,1,0,0,0,4,1,0,0,1,0,0,0,1,0,0,0,28.26,0
+Erika Cook,female,20,Peru,1,4,0,0,0,0,2,1,4,0,1,1,0,1,0,0,1,0,47.87,0
+Theodore Lambert,male,27,French Polynesia,0,1,1,0,1,0,2,0,2,0,0,1,1,0,0,1,1,1,7.54,0
+Brandon Macias,female,47,Azerbaijan,4,0,1,0,0,1,2,1,0,1,0,0,0,1,0,1,0,0,13.84,0
+Chelsea Robinson DDS,male,78,San Marino,1,0,1,1,0,0,1,1,4,1,0,0,0,0,1,1,0,1,16.36,0
+James Fisher,female,54,Burundi,4,3,0,0,1,0,0,1,3,1,0,1,0,1,1,1,1,1,34.31,0
+Elizabeth Holland,female,98,Libyan Arab Jamahiriya,0,2,1,1,0,1,0,1,3,1,1,1,0,1,0,0,1,0,39.51,0
+Karina Gibbs,female,89,Northern Mariana Islands,0,3,1,1,0,1,2,0,2,1,0,0,0,0,0,0,0,1,20.94,0
+Yolanda Mcmillan,male,81,Germany,1,3,1,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0,17.01,0
+Cheryl Barnes,male,27,Morocco,4,4,1,1,1,0,4,1,4,1,0,0,0,0,1,1,1,1,14.32,1
+Shaun Baker,male,36,Saint Barthelemy,0,3,1,1,0,1,4,1,0,0,1,1,1,1,1,0,1,0,53.7,0
+Thomas Lambert,female,36,Yemen,4,1,0,1,0,1,4,0,4,1,1,1,1,1,0,0,1,1,34.95,0
+Mary Jensen,male,93,Bulgaria,0,3,0,1,1,0,3,1,1,0,0,1,1,1,0,0,1,0,49.55,0
+Jermaine Hamilton,female,15,Japan,4,2,0,1,1,0,2,1,2,0,0,0,1,1,0,0,0,0,14.61,0
+Chelsea Knapp,female,80,Switzerland,4,3,0,0,0,0,4,0,0,0,1,1,0,0,1,1,1,1,8.87,0
+Lindsay Freeman,male,64,Colombia,3,3,1,1,0,1,0,1,2,1,1,1,1,0,0,0,0,0,50.04,1
+Mary Francis,female,49,Lebanon,0,0,0,1,1,1,4,0,1,0,0,0,1,0,1,0,1,1,30.66,0
+Kimberly Suarez,male,93,Djibouti,3,1,0,1,0,0,1,0,2,1,1,1,0,1,1,0,0,0,24.14,0
+Tina Holland,female,91,Peru,3,2,0,1,0,0,2,1,0,0,1,1,0,1,0,0,0,0,9.45,0
+Brandy Turner,female,20,Switzerland,2,0,0,1,1,1,1,1,2,0,0,0,0,0,0,1,1,0,38.83,1
+James Baxter,male,90,United Kingdom,4,1,1,1,0,1,0,0,0,0,0,1,1,0,0,1,1,0,19.5,0
+Matthew Conley,male,63,Syrian Arab Republic,4,2,1,1,0,1,4,1,3,0,1,0,1,1,0,1,0,0,58.99,0
+Amy Gray,female,17,Timor-Leste,4,4,1,0,0,0,2,0,4,1,0,1,1,1,1,1,0,0,52.15,0
+Ian Martin,female,86,Montenegro,1,1,1,1,1,1,2,0,3,1,0,0,1,1,0,1,0,1,41.06,0
+Michelle Daugherty,male,59,Turkmenistan,0,0,0,0,0,1,3,0,1,1,1,0,0,0,0,1,0,0,27.64,0
+Steven Lee,female,14,United States Virgin Islands,0,1,1,1,0,1,0,1,2,1,0,0,1,0,1,0,0,1,40.61,1
+Joseph Yang,male,78,South Africa,2,4,0,0,1,0,2,1,0,0,1,1,1,0,1,0,1,0,11.99,1
+Adam Davidson,male,41,Switzerland,0,2,1,1,0,0,2,1,0,1,1,0,0,0,1,1,0,0,43.88,0
+Juan Andersen,male,40,Montserrat,3,1,1,1,0,1,3,0,4,1,1,1,1,1,1,0,0,1,28.52,0
+Shannon Castillo,female,99,Dominican Republic,2,1,0,1,1,1,0,1,1,0,0,1,0,1,1,0,1,1,37.64,1
+Eric Ruiz,male,81,Saint Helena,3,1,0,0,1,0,4,1,0,1,1,1,1,1,1,0,1,0,48.76,0
+Tina Stanton,female,47,Iran,1,0,1,0,0,0,3,1,4,0,1,0,1,0,1,1,1,0,10.99,0
+Sara Fischer,male,60,Bosnia and Herzegovina,0,1,0,0,0,0,3,0,1,1,1,1,0,0,1,0,1,1,19.92,0
+Thomas Thomas,female,69,Eritrea,1,3,1,0,1,0,3,1,1,1,0,0,0,0,1,1,1,0,6.38,0
+Tammy Harmon,female,88,United Arab Emirates,2,2,1,1,1,0,1,0,4,1,0,1,0,1,0,1,1,1,29.26,0
+Teresa Porter,male,47,Latvia,1,1,0,1,0,1,3,0,0,0,0,0,0,0,0,1,0,1,8.27,0
+Natalie Brown,male,62,French Polynesia,2,0,0,0,1,1,4,0,0,1,1,0,1,0,0,1,1,1,54.91,0
+Kyle Fuller,male,81,Belize,0,1,0,0,1,0,4,1,3,0,1,1,0,0,0,0,0,1,5.33,0
+Jeremy Jones,male,9,Saint Lucia,1,1,1,1,0,0,4,0,2,0,0,0,1,0,1,0,0,0,24.66,0
+Thomas Cox,male,77,Liechtenstein,0,4,0,1,0,1,0,1,2,1,1,0,0,0,0,0,0,0,26.78,1
+Kylie Davenport,female,96,Christmas Island,1,0,0,0,0,1,1,1,3,1,0,0,0,0,1,1,0,0,32.3,0
+Gerald Martin,female,96,Haiti,4,4,0,1,1,1,2,1,4,1,0,0,0,0,1,0,1,1,56.36,0
+Juan Drake,male,27,Italy,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,21.53,0
+Joshua Lucas,female,23,Belarus,1,4,0,1,0,0,2,1,3,1,1,1,0,0,0,0,1,0,43.92,0
+Francisco Walker,male,99,Oman,1,0,0,1,0,0,1,0,4,1,0,1,1,1,1,0,0,0,58.16,0
+Daniel Cordova,male,36,Saint Lucia,0,1,0,1,1,0,2,0,0,1,0,0,0,1,1,1,1,1,16.75,0
+Brittany Clarke,female,38,Cocos (Keeling) Islands,0,2,0,0,1,0,3,0,2,1,0,0,1,0,1,0,0,0,51.3,0
+Debra Mckinney,male,12,Zimbabwe,4,4,1,1,1,1,4,1,1,0,0,0,0,1,0,0,0,1,43.19,1
+Craig Frank,female,42,Botswana,0,1,1,1,1,0,1,0,3,1,1,1,1,1,0,0,1,1,39.52,0
+Mckenzie Williams,male,60,Guernsey,3,2,0,0,1,0,4,1,0,1,1,1,0,1,0,1,1,1,8.65,0
+Sara Ramsey,female,34,Algeria,0,1,1,0,1,0,3,0,2,1,0,0,1,1,0,1,1,0,15.34,0
+Jack Burns,female,78,United States of America,4,4,1,1,1,0,1,0,1,0,0,1,0,1,1,0,0,0,18.17,1
+Alexis Castaneda,male,99,Nepal,1,4,0,0,0,1,1,0,2,0,0,0,0,0,0,0,1,1,40.06,1
+Misty Rowe,female,39,Lao People's Democratic Republic,4,4,1,0,1,1,2,1,1,0,1,1,1,0,0,1,0,0,52.03,0
+Jessica Pugh,male,89,Hungary,2,4,0,0,0,1,1,0,2,0,1,0,1,0,1,0,1,0,25.5,1
+Joshua King,female,44,Nauru,2,4,1,1,1,1,2,1,0,1,1,1,0,0,0,0,0,0,48.71,0
+Mrs. Christina Mccann,male,41,Singapore,2,0,1,0,0,0,0,1,2,1,1,1,1,1,0,0,1,1,49.85,0
+Andrew Lopez,male,28,United States Virgin Islands,3,2,1,1,1,0,2,0,2,1,1,1,0,1,0,0,1,0,44.33,1
+John Lane,male,87,Bosnia and Herzegovina,4,2,1,0,0,0,2,1,2,1,0,1,0,0,0,0,1,0,13.61,0
+Victoria Bradley,female,7,Belize,3,3,1,0,1,0,4,0,4,0,1,0,1,0,1,0,0,1,33.48,0
+Michael Buchanan,male,86,Uganda,1,0,0,0,1,1,0,1,1,1,1,0,1,0,1,1,0,0,12.36,0
+Diana Bell,female,61,Cameroon,1,4,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,51.67,0
+Sophia Bates,female,95,Comoros,1,4,1,1,0,0,0,0,3,1,1,1,0,0,0,0,1,1,50.32,0
+Alexis Russell,female,36,United States of America,0,2,1,1,0,0,4,0,3,0,1,0,0,1,1,0,1,0,33.85,0
+Cindy Phillips,female,77,British Indian Ocean Territory (Chagos Archipelago),2,2,1,1,1,1,1,0,4,1,0,1,0,1,1,1,0,1,30.08,1
+Melissa Allen,male,29,Israel,3,0,0,0,0,1,4,1,4,1,1,0,1,1,1,0,1,1,51.16,0
+Alicia Davis,female,61,Korea,2,0,0,1,0,1,1,1,4,1,0,1,0,1,0,1,0,1,34.46,0
+Leslie Scott,female,44,Cyprus,0,3,0,0,1,0,1,1,4,1,1,1,1,1,1,0,1,0,10.71,0
+Michael Phillips,female,97,Israel,3,2,0,1,0,1,2,1,1,1,1,0,0,0,1,1,1,1,23.38,0
+Christopher Perkins,male,35,Turkmenistan,0,2,1,1,1,1,2,1,1,1,0,0,0,1,1,0,1,0,50.18,0
+Erica Maxwell,female,20,Sudan,4,2,0,1,0,1,3,1,3,1,1,0,1,1,0,1,0,0,28.69,0
+Christopher Johnson,female,14,Albania,1,1,1,1,1,1,3,0,0,0,0,0,0,0,0,1,0,1,48.09,0
+Mr. Roger Henderson MD,female,31,Christmas Island,2,4,1,0,1,1,0,0,1,0,0,1,1,0,1,0,0,1,16.21,1
+Taylor King,male,75,Mali,4,2,1,0,1,1,4,0,2,0,1,1,0,1,0,1,0,0,23.27,0
+Mr. Jonathan Long,male,67,Montenegro,3,1,0,0,1,0,1,1,4,0,0,1,0,0,1,1,1,0,16.37,0
+Patrick Rivera,female,24,Malaysia,2,3,0,1,1,0,3,0,4,0,1,0,1,0,0,1,0,0,13.07,0
+Michelle Willis,female,66,Ireland,0,1,1,1,0,1,0,0,3,0,0,0,1,1,0,0,0,1,52.83,0
+Tiffany Morgan,female,60,Mongolia,3,2,0,0,1,1,0,0,4,1,1,1,1,1,0,0,1,1,51.74,0
+Sarah Jones,male,88,Saint Barthelemy,0,1,1,0,1,0,3,1,2,1,1,1,1,1,0,0,0,0,10.93,0
+Corey Smith,female,88,Madagascar,0,4,1,1,1,1,4,0,2,0,1,0,1,1,1,1,1,0,50.08,0
+Lydia Baker,female,88,Brazil,1,4,0,0,1,0,0,1,3,1,1,0,0,1,1,1,0,0,37.7,0
+Jonathan Clark,male,64,South Africa,0,0,0,1,1,1,0,1,1,0,0,1,1,1,1,1,0,0,56.44,1
+Melissa Phillips,male,92,French Guiana,0,0,1,0,0,0,0,0,3,0,1,1,0,0,1,0,0,0,42.27,0
+Trevor Sexton,female,85,Sweden,2,3,1,1,0,0,0,1,3,0,0,1,0,1,1,0,0,0,48.35,0
+Elizabeth Velasquez,female,67,Panama,4,3,1,1,0,0,2,1,1,0,0,0,1,1,1,1,1,0,34.78,0
+David Zhang,female,52,Netherlands,3,3,1,1,1,0,3,0,2,0,1,0,1,1,0,1,0,0,42.59,0
+Edward Leach,female,26,Equatorial Guinea,3,0,1,0,0,0,0,0,4,1,1,0,1,1,0,0,0,1,43.16,0
+Victoria Kim,male,74,Liechtenstein,2,4,0,1,0,1,2,0,1,1,1,1,0,0,0,1,0,1,52.6,1
+Elizabeth Boyle,female,25,Australia,2,4,0,0,1,0,2,0,1,0,1,1,0,0,0,0,0,0,38.02,0
+Julie Davidson,female,5,Bermuda,1,0,0,0,0,1,4,0,0,0,1,0,0,0,1,1,1,1,17.88,0
+Colleen Hardin,female,24,Afghanistan,0,4,1,1,0,0,3,0,1,0,1,1,0,1,0,0,1,0,18.78,0
+Sheila Cruz,female,26,Togo,0,4,0,0,0,1,3,0,3,0,1,1,1,1,0,0,1,1,32.22,0
+Caitlyn Willis,male,60,Uganda,3,4,1,1,1,1,2,0,3,1,1,0,0,0,1,1,1,1,46.15,0
+Robert Vasquez,male,35,Gabon,2,0,0,1,1,1,4,0,1,0,1,1,1,0,1,1,1,0,34.84,0
+Andrea Nichols,female,37,Trinidad and Tobago,2,1,0,1,0,1,0,1,0,1,1,1,1,0,0,0,1,1,42.6,1
+Tara Valdez,female,94,Puerto Rico,0,2,0,0,1,1,3,0,2,1,0,0,1,0,0,1,1,0,56.39,0
+Alyssa Brown,female,38,Mozambique,2,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,18.24,0
+Sarah Gardner,female,55,Switzerland,3,3,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,58.13,1
+Amanda Edwards,male,23,Albania,2,4,1,0,1,0,4,1,0,1,0,0,1,1,0,1,0,1,26.29,1
+Brenda Solis,female,72,Kazakhstan,0,3,0,1,1,0,1,0,4,1,1,0,0,1,0,1,1,0,43.98,0
+Tammy Fitzgerald,female,54,Romania,2,3,1,1,1,1,2,1,0,0,0,1,0,1,1,0,0,0,33.84,0
+Lisa Sloan,female,59,Trinidad and Tobago,0,2,0,1,0,1,2,1,3,1,0,0,0,0,0,0,1,1,9.66,0
+Michelle Turner,female,22,Holy See (Vatican City State),4,3,0,1,1,1,2,1,3,0,0,1,1,1,1,1,0,1,22.13,0
+Tonya Ryan,male,24,Congo,3,2,1,1,0,0,0,1,1,0,0,1,1,1,1,0,0,0,52.59,1
+Stephanie Tate,female,49,Benin,0,2,1,0,0,0,0,1,3,1,1,0,0,0,1,1,1,0,36.64,0
+Gloria Clark,female,22,Guernsey,1,1,1,0,1,1,4,1,3,1,0,0,1,1,0,0,0,1,40.06,0
+Stephanie Martin,male,73,Mali,2,3,1,0,1,0,2,1,2,0,1,0,0,1,0,0,1,1,20.2,0
+Michael Thompson MD,female,71,Iceland,1,0,0,0,0,0,4,1,1,1,0,0,1,0,1,1,0,1,8.21,0
+Jennifer Garcia,female,17,Northern Mariana Islands,2,1,0,1,1,0,3,1,1,0,0,1,0,1,0,1,0,0,27.55,0
+Mike Hernandez,male,93,Bangladesh,1,0,1,0,0,0,1,1,3,0,0,0,1,0,1,0,1,1,48.1,0
+John Baxter,male,59,Chile,4,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,5.93,0
+Madison Bates,male,8,Liberia,2,2,0,0,1,1,2,0,1,0,1,0,1,1,1,1,1,0,13.72,0
+Jennifer Mathis,male,45,Djibouti,4,4,1,1,0,1,1,0,0,0,1,0,0,1,1,0,0,1,15.8,1
+Andrew Graham,female,29,Guinea,0,4,1,0,0,0,3,0,4,1,0,0,1,1,0,1,1,1,49.11,0
+Edward Wise,female,54,Venezuela,2,3,1,0,0,0,3,0,0,1,1,0,1,0,1,1,0,1,7.09,0
+William Cruz,female,43,Equatorial Guinea,1,3,1,0,0,0,2,0,4,1,1,1,1,1,0,0,0,1,10.67,0
+Elizabeth Boyer,female,12,Netherlands Antilles,0,4,0,1,1,1,1,0,0,1,0,1,0,1,0,1,0,1,28.71,1
+Jennifer Turner,male,28,French Guiana,0,3,1,0,0,1,2,1,1,0,0,1,0,1,1,0,0,0,7.89,0
+David Diaz,male,28,South Georgia and the South Sandwich Islands,0,4,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,23.06,1
+Rebecca Singleton,male,16,Liechtenstein,4,4,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1,0,49.52,1
+Heather Parks,female,36,Nicaragua,3,3,0,1,0,0,1,0,4,0,0,0,0,1,0,1,0,0,6.9,0
+Linda Barton,male,59,Eritrea,1,3,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,19.15,0
+Linda Brown,male,7,Sri Lanka,2,3,1,1,1,1,0,0,3,1,0,0,1,0,1,1,0,0,40.62,0
+Robert Collins,male,6,Zimbabwe,0,3,0,0,1,0,0,0,3,1,1,0,1,1,0,1,0,0,59.28,0
+Tyler Taylor,female,89,Korea,3,3,0,1,1,0,1,1,0,0,1,0,1,1,1,0,1,0,8.77,0
+Ryan Baker,female,24,Senegal,4,0,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0,1,34.24,1
+Cynthia Williams,male,39,Thailand,2,4,1,0,0,1,4,0,2,0,0,1,0,0,1,0,1,0,37.41,0
+Nancy Kirk,female,43,Niue,1,3,1,1,0,1,4,1,1,1,0,1,0,1,0,1,0,0,38.52,0
+Brenda Jackson,female,55,Papua New Guinea,0,1,0,1,0,1,3,0,4,1,0,1,1,1,1,1,1,1,21.65,0
+Cristina Ellis,male,76,Equatorial Guinea,3,3,0,1,0,1,0,0,2,0,1,1,0,1,1,0,1,0,30.6,1
+Ashley Hill,male,53,United Kingdom,1,3,1,0,1,0,2,1,0,0,1,1,1,0,0,0,0,0,14.57,0
+Veronica Moore,male,62,Haiti,0,1,1,0,1,1,4,0,4,0,1,1,1,0,1,0,0,0,39.46,0
+Nicole Porter,female,46,Afghanistan,0,4,1,1,0,0,0,0,3,0,0,0,0,1,1,1,0,1,42.78,0
+Megan Shaw,female,53,Vanuatu,4,2,1,1,1,1,4,0,4,1,0,0,1,1,1,1,0,1,15.89,0
+Matthew Mills,male,39,Saint Barthelemy,1,3,1,1,1,1,1,1,0,1,0,1,0,0,1,1,0,1,17.18,0
+Colleen Sampson,female,44,Saint Barthelemy,2,4,0,1,1,1,1,1,2,1,1,1,1,1,0,1,0,1,24.24,0
+Katrina Braun,female,11,Thailand,0,4,1,0,0,0,2,0,4,0,1,1,0,0,1,1,1,0,40.61,0
+David Dominguez,male,82,Ethiopia,4,1,1,1,1,1,1,1,2,0,1,1,0,0,0,0,1,0,30.43,1
+Kenneth Kelly,female,54,Djibouti,3,3,1,0,0,0,2,1,0,1,0,1,0,0,0,1,0,1,22.44,0
+Stephanie Villa DVM,female,30,Uruguay,2,1,0,0,1,0,3,0,2,1,1,1,0,1,0,0,1,0,9.18,0
+Jacqueline Rodgers,male,27,American Samoa,3,0,1,1,1,1,2,0,0,0,1,1,0,0,1,1,0,1,50.5,1
+Brianna Jimenez,female,34,Andorra,1,1,1,0,1,1,1,0,3,1,1,1,0,1,1,0,0,1,52.9,1
+Brittany Heath,male,70,Fiji,2,3,0,0,0,0,4,0,4,0,1,0,1,1,0,0,1,0,18.85,0
+James Washington,female,11,Croatia,2,0,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,6.17,0
+Michael Meyer,female,63,Ireland,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,37.5,0
+Jamie Snyder,female,57,Senegal,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1,1,0,1,29.92,1
+Elizabeth Evans,male,19,Botswana,0,3,0,1,1,1,1,0,3,1,1,1,0,0,1,1,0,1,36.29,1
+Sean White,female,84,Tunisia,4,4,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,0,26.47,1
+Nathan Brown Jr.,female,16,Jersey,4,0,1,0,1,1,1,1,2,1,1,1,1,1,1,1,1,1,37.35,1
+Kimberly Rollins,female,21,Tanzania,1,1,1,0,0,1,3,1,0,0,1,1,0,1,0,1,0,1,18.47,0
+Christopher Fox,male,65,North Macedonia,2,0,0,0,1,1,3,0,3,1,1,0,1,0,1,0,1,0,6.79,0
+Lauren Waters,female,43,Turkmenistan,2,1,0,1,0,0,2,1,1,1,0,0,0,1,1,1,1,0,28.71,0
+Erica Ho,male,82,Faroe Islands,2,0,1,0,0,1,4,1,1,0,0,0,1,1,0,1,0,1,56.94,0
+Kyle Curry,female,96,Grenada,3,2,0,1,1,0,2,1,2,1,0,1,0,1,0,0,0,0,50.45,0
+Belinda Hart,female,45,Saint Vincent and the Grenadines,4,1,0,1,1,1,2,1,2,0,0,0,0,0,0,0,1,0,16.43,0
+Stephanie Mcdonald,male,85,Djibouti,4,2,1,0,0,1,3,0,2,1,0,1,1,0,1,0,1,1,29.6,0
+Kristen Hayes,female,82,Malawi,0,0,1,0,0,0,2,0,0,0,0,1,0,1,0,1,1,0,40.17,0
+Shannon Owen,male,17,Korea,1,3,1,0,0,0,2,1,1,0,1,0,1,0,1,1,0,1,45.69,1
+Laura Moore,female,78,Syrian Arab Republic,0,1,1,0,0,0,0,0,3,1,1,0,1,1,0,1,0,0,13.78,0
+Lauren Hurley,female,64,Russian Federation,2,4,0,0,0,0,3,0,0,0,0,1,1,1,1,1,1,0,15.41,0
+Kaitlyn Cox,male,67,Tuvalu,1,0,1,1,1,1,0,1,2,0,1,0,1,0,0,1,1,0,33.93,1
+Bobby Martin,male,85,Norfolk Island,2,0,0,0,0,0,3,0,1,0,1,0,1,0,1,0,1,0,53.1,0
+Christopher Johnston,female,92,Western Sahara,4,4,0,1,0,1,2,1,0,0,0,1,0,1,0,0,0,1,28.94,0
+Nicole Miller,male,43,Germany,1,3,1,0,1,0,1,1,1,1,0,1,1,0,0,0,0,1,21.52,0
+Suzanne Garrison,female,75,Albania,2,1,1,0,0,1,3,1,2,0,1,0,1,1,0,1,1,0,56.4,1
+Brandy Armstrong PhD,female,15,Tajikistan,3,3,1,0,1,1,2,1,4,1,0,1,0,1,1,0,1,0,42.69,0
+Heather Martinez,female,15,Malawi,2,4,1,0,1,0,3,0,3,0,0,0,0,1,0,0,1,1,43.0,0
+Audrey Benitez,female,56,Nauru,4,0,1,0,0,1,4,1,3,1,0,1,1,0,1,0,0,1,50.33,0
+Phillip Perry,female,58,Myanmar,2,0,0,0,1,1,0,0,2,0,0,0,0,1,0,0,0,0,41.11,1
+Tara Richard,female,40,Andorra,4,1,0,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,19.19,0
+Kevin Oneill,male,96,Qatar,0,1,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,1,57.16,0
+Angela Phillips,male,66,Switzerland,1,4,0,0,0,0,3,0,3,1,0,1,0,1,0,1,0,0,12.11,0
+Benjamin Wilson,male,54,Bhutan,0,4,1,1,0,1,0,0,1,0,1,0,1,1,0,0,1,0,5.02,0
+Daniel George,female,18,Mali,3,0,0,1,0,1,0,1,3,1,1,0,1,0,1,0,1,1,35.14,1
+Alexander Becker,female,57,Faroe Islands,1,4,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,1,25.94,0
+Tina Cervantes PhD,female,30,Puerto Rico,3,1,1,0,1,0,3,1,1,0,1,0,1,1,0,1,1,1,59.56,0
+Mary Russell,female,66,Belgium,4,1,0,0,1,0,4,1,4,1,0,1,0,0,0,1,1,1,43.62,0
+Matthew Reynolds,male,96,Guyana,0,3,0,1,0,1,3,1,0,0,1,0,0,1,0,1,1,1,49.4,0
+Jonathan Gregory,male,28,Kuwait,2,2,0,1,1,1,0,1,0,0,1,1,1,0,1,0,1,0,59.9,1
+Susan Boyd,female,98,Samoa,3,2,0,1,1,1,4,0,0,1,1,1,0,0,0,0,1,0,37.21,0
+Michele Mendez,male,43,Lesotho,0,4,1,1,1,0,3,0,2,0,0,0,0,1,1,1,0,1,56.82,0
+Brian Gibbs,male,81,Turkmenistan,2,2,0,0,1,1,2,0,0,1,0,0,0,1,0,1,1,1,33.92,0
+Amber Berg,female,23,Zimbabwe,2,0,0,1,1,0,4,1,2,1,0,0,1,1,0,1,1,1,5.27,0
+Melissa Palmer,female,58,Monaco,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,0,46.57,1
+Ronald Buchanan,male,11,Chad,0,4,1,0,1,0,2,1,2,0,0,0,1,1,0,0,1,0,26.24,0
+Sandra Haas,female,89,Ukraine,4,1,1,0,0,1,2,1,0,0,1,0,0,1,1,1,0,0,39.4,0
+Misty Martin,female,78,Chile,1,3,1,1,1,0,1,1,3,0,1,1,0,1,0,1,0,0,44.7,0
+Brian Medina,female,35,Slovenia,1,1,1,0,1,1,3,0,2,0,1,0,0,1,0,1,1,1,58.13,0
+Elizabeth Rodriguez,female,89,Iran,2,0,1,1,1,0,1,0,4,0,1,0,0,0,0,0,0,0,38.75,0
+Joshua Washington,male,46,South Africa,3,3,0,0,0,0,2,0,1,1,1,0,0,1,0,1,1,0,42.37,1
+Scott Gonzalez,male,7,Jersey,0,1,1,0,0,1,0,1,4,0,1,1,0,0,1,0,0,1,27.97,0
+Diana Espinoza,male,52,Antigua and Barbuda,1,0,0,1,1,1,3,0,0,1,1,0,1,1,0,0,1,0,53.5,0
+David Little,female,49,Anguilla,2,1,0,0,1,1,2,0,4,1,1,0,0,0,0,1,1,1,55.91,0
+Christina Warner,female,10,Madagascar,4,1,1,0,0,1,4,0,0,0,1,0,1,0,1,1,1,1,15.9,0
+Jackie Chambers,male,37,Netherlands Antilles,2,1,0,1,0,1,1,0,1,0,1,0,1,0,1,1,1,1,34.27,1
+Melanie Pacheco,male,11,Netherlands,3,0,0,1,0,0,2,0,0,1,0,1,0,1,0,1,1,1,29.37,0
+Scott Lewis,female,95,Burundi,0,1,0,1,0,1,2,0,3,0,1,0,0,1,1,0,0,1,45.74,0
+Christopher Crawford,female,25,Bangladesh,4,0,0,1,1,0,4,0,3,0,0,0,1,0,1,0,1,0,15.89,0
+Kimberly Williams,female,68,Turkey,3,0,1,1,1,1,3,1,1,0,0,1,1,0,0,0,1,0,56.73,0
+Kyle Chan,male,36,Saint Lucia,1,1,1,1,0,1,0,1,3,1,0,0,1,0,0,0,0,1,22.91,0
+Ian Cole,male,99,Qatar,2,1,1,0,1,1,0,1,1,1,0,1,0,0,0,1,0,1,15.07,0
+James Singleton DVM,female,77,Saint Helena,2,4,0,1,0,1,4,0,4,1,1,1,1,1,0,0,1,0,58.48,0
+Pamela Avery,male,5,Guernsey,3,0,1,0,0,1,0,0,0,1,0,1,0,1,1,1,0,1,39.25,1
+Samantha Bradshaw,female,27,Philippines,1,2,0,1,0,1,2,1,2,0,0,0,0,0,1,1,0,1,19.41,0
+Nancy Mack,male,66,Netherlands,2,1,0,1,1,0,2,0,2,1,1,1,0,0,0,1,1,0,5.66,0
+Allen Dunn,male,84,Cape Verde,1,2,0,0,1,0,4,0,0,1,0,1,1,0,1,0,1,0,49.95,0
+Maria King,male,44,South Africa,1,3,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,34.58,1
+Debra Golden,female,81,American Samoa,4,3,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1,1,32.68,1
+Heather Robertson,male,50,Antigua and Barbuda,0,1,0,1,0,0,3,0,4,0,1,0,0,0,1,1,1,0,21.77,0
+Keith Bradley,female,55,Cambodia,4,2,0,1,1,0,4,0,2,1,1,1,0,1,0,1,0,0,55.97,0
+Timothy Jimenez,female,36,Mauritius,1,1,1,0,1,1,2,0,0,0,1,1,0,0,1,0,1,0,42.74,0
+James Vega,male,45,Vietnam,3,3,1,1,1,1,1,0,2,1,0,0,1,1,0,1,0,0,9.23,1
+Mr. Michael Hurst,male,24,Costa Rica,2,2,0,0,0,0,4,1,3,1,1,1,0,0,1,0,0,1,46.81,0
+Carly Ward,male,96,Slovenia,4,3,0,1,1,1,1,1,2,1,1,1,0,1,1,0,0,0,50.4,1
+Cassandra Mueller,female,62,South Africa,1,3,0,1,0,1,0,1,4,1,1,0,1,0,1,1,1,1,5.51,0
+Tonya Weaver,male,41,Tanzania,0,1,0,0,0,0,4,1,3,0,1,0,0,1,1,1,1,0,20.58,0
+Daniel Whitehead,male,87,Saint Martin,0,4,1,0,1,1,1,1,4,0,0,0,1,1,0,1,0,1,39.72,0
+Cody Dunn,male,89,Falkland Islands (Malvinas),3,3,0,1,0,1,3,0,4,0,1,1,1,0,1,1,0,1,31.11,0
+Taylor Pham,female,82,Grenada,0,1,0,0,0,1,2,0,3,1,0,0,1,1,0,1,1,0,12.08,0
+Peter Maynard Jr.,male,93,Zimbabwe,4,2,1,0,1,0,2,0,3,0,1,0,1,1,0,0,0,1,52.29,0
+Michael Bates,female,62,Rwanda,3,3,0,1,1,0,0,0,3,0,1,1,0,1,1,1,1,0,57.87,0
+Tammy Cole,female,88,Fiji,3,2,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,0,7.31,0
+Emily Kim,female,26,Niger,2,0,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,1,13.88,0
+Alexander Lucas,female,48,Guinea,0,2,0,0,0,1,3,1,4,1,1,0,0,1,1,0,1,0,11.98,0
+Casey Brown,female,6,Mauritius,3,2,0,0,0,1,0,1,2,0,0,0,1,0,0,1,0,1,18.73,0
+Kelly Thomas,male,29,Spain,4,3,1,0,0,1,0,1,0,1,0,1,0,1,0,1,1,1,29.63,1
+Steven Daniels,male,100,Turkmenistan,1,3,1,0,1,0,1,0,0,0,1,1,1,1,0,0,1,1,6.41,0
+Kendra Dickson,male,46,Saint Kitts and Nevis,0,4,0,1,0,0,2,1,4,0,0,1,1,1,1,1,0,0,52.99,0
+Taylor Peters,male,16,British Virgin Islands,1,0,1,1,1,1,2,0,1,1,1,0,1,0,0,1,0,1,24.86,0
+Sandra Sullivan,female,17,Saint Lucia,2,2,1,0,0,1,4,0,3,0,0,0,1,1,0,1,1,1,7.11,0
+Michael Taylor,female,52,Venezuela,4,0,1,1,0,0,0,0,4,0,0,0,0,1,0,0,0,1,51.59,0
+Amy Barton,female,50,Paraguay,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,1,0,1,45.2,0
+Veronica Mcdaniel,female,58,Jordan,2,4,1,0,0,0,0,0,3,1,0,0,1,0,1,1,0,1,38.78,0
+Raymond Melton,female,17,Gabon,3,1,0,0,0,1,1,1,3,0,1,1,0,1,1,0,0,1,56.4,1
+Jesus Bush,female,51,Senegal,3,0,0,1,0,0,0,1,4,0,0,1,0,1,0,1,0,1,33.31,0
+Eduardo Reyes,female,70,Bhutan,1,0,1,1,0,0,0,0,2,0,1,0,1,0,0,0,1,1,57.91,1
+David Wolfe,male,48,Seychelles,2,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,1,9.73,0
+Megan Deleon,female,16,Japan,4,4,1,0,0,0,3,1,4,0,1,0,0,1,1,0,0,1,34.69,0
+Anthony Campbell,female,23,Saint Helena,0,3,1,1,0,1,2,1,4,0,0,0,1,0,0,0,1,0,18.59,0
+Valerie Holmes,female,20,Micronesia,4,0,0,0,0,1,1,1,2,1,1,0,1,0,0,0,0,0,49.27,1
+Keith Moss,female,53,Mexico,4,1,0,1,0,1,0,1,4,1,0,1,0,0,0,0,1,1,32.8,0
+Christopher Turner,male,71,Iceland,1,2,1,1,1,0,3,1,1,1,0,1,0,0,0,1,1,1,19.33,0
+Kevin Hale,female,87,Canada,4,2,0,0,0,0,2,1,1,0,0,1,1,0,1,0,1,1,57.22,0
+Leonard Brown,female,40,Burundi,4,3,1,1,0,0,3,1,2,0,0,1,1,1,0,1,1,0,28.23,0
+Thomas Hansen,female,100,South Georgia and the South Sandwich Islands,1,4,1,0,0,1,1,1,2,1,1,0,1,1,0,1,0,1,7.28,0
+Scott Jones,female,35,Cocos (Keeling) Islands,0,1,1,0,1,0,2,0,1,1,0,1,0,0,0,1,1,1,13.49,0
+Brent Stokes,female,76,Lao People's Democratic Republic,2,0,1,1,1,1,4,1,4,1,0,0,1,0,0,1,0,1,19.54,0
+Anthony Benson,male,85,Paraguay,1,0,1,0,1,1,2,1,2,1,0,1,0,1,1,1,1,1,28.46,0
+Andrew Brown,female,29,Norfolk Island,0,2,0,0,0,1,0,0,3,1,0,1,0,1,0,1,1,1,17.29,0
+Vanessa Hernandez,female,71,Guinea-Bissau,3,4,1,1,1,1,2,0,4,0,0,1,0,1,0,0,0,0,46.74,0
+Richard Dunlap,male,73,Saint Pierre and Miquelon,1,3,1,0,1,1,1,0,3,0,0,0,1,0,1,1,0,1,27.56,1
+Richard Fernandez,female,26,Peru,2,2,0,0,1,0,4,0,2,1,0,0,0,1,0,0,1,1,22.82,0
+Jacob Williams,male,70,Qatar,3,2,0,0,0,1,0,0,4,1,1,0,1,0,0,1,1,1,22.89,0
+Larry Armstrong,male,34,French Polynesia,2,4,1,1,1,0,3,0,3,0,0,0,1,0,1,0,0,0,33.65,0
+Christopher Adams,male,83,Turkey,3,0,0,1,0,1,1,0,3,1,0,0,0,0,1,0,1,0,6.63,0
+Kim Reed,male,34,Colombia,3,1,0,1,1,0,0,1,3,0,1,1,1,1,0,0,0,1,24.47,0
+John Smith,female,73,Yemen,2,2,0,1,1,1,3,0,4,1,1,0,1,0,0,0,0,1,49.68,0
+Craig Thompson,female,44,Georgia,0,3,1,1,0,1,1,0,4,1,0,0,1,1,0,1,1,0,32.35,0
+William Freeman,male,98,New Zealand,1,3,0,0,1,0,3,0,1,0,0,0,0,1,0,1,1,1,29.18,0
+Victor Stout,male,23,Sri Lanka,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,39.65,1
+Chris George,male,37,Kenya,2,1,0,1,1,0,4,0,4,0,0,0,1,0,1,0,0,1,43.43,0
+Keith Butler,female,13,Korea,2,1,0,1,0,1,4,0,1,0,0,1,0,1,0,0,1,0,43.93,0
+Kayla Hayes DDS,female,52,Bangladesh,1,0,1,1,1,1,2,1,3,1,0,1,0,0,0,1,0,0,11.91,0
+Christine English,female,18,Greenland,3,2,0,1,1,0,0,0,4,1,0,0,0,1,0,1,1,1,21.29,0
+Veronica Scott,female,50,Ukraine,4,3,0,1,1,1,0,1,3,1,0,1,0,0,0,1,1,0,17.21,0
+Megan Morris,female,33,Guernsey,0,4,0,0,0,0,3,1,4,0,1,0,0,0,0,0,0,0,58.17,0
+Nicole Diaz,male,54,Tonga,0,4,1,1,1,0,1,0,3,0,0,0,1,0,1,0,1,0,11.4,0
+Kelly Price,female,60,Jamaica,3,1,0,1,1,0,0,0,3,0,1,1,1,1,0,1,0,1,18.73,0
+Samuel Schwartz,male,12,Israel,3,0,1,0,0,0,2,0,0,1,0,1,0,1,1,0,0,0,38.99,0
+Sarah Hayes,male,72,Seychelles,0,1,1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,50.09,1
+Alicia Johnston,male,67,Turks and Caicos Islands,0,2,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,31.1,0
+Ronald Barnes,female,36,Niue,3,4,0,0,0,0,0,1,3,1,0,0,1,1,1,0,0,1,8.96,0
+Mary Banks,male,65,Belarus,0,1,0,1,1,1,4,1,2,0,1,1,0,0,0,0,0,1,40.43,0
+Nicole Lopez,male,52,Albania,0,0,1,1,1,1,3,1,2,1,1,0,1,1,1,1,1,0,43.87,0
+Arthur Avila,female,38,South Africa,4,3,1,1,0,1,4,0,1,0,1,1,0,1,1,1,1,1,43.99,1
+Amanda Miller,female,99,Algeria,1,1,1,1,1,1,3,0,1,1,1,1,1,1,0,1,0,0,55.64,0
+Hannah Ross,female,6,Isle of Man,2,1,1,1,0,1,0,1,2,1,1,0,0,0,1,0,0,0,46.6,1
+Dennis Hernandez,female,54,Aruba,2,0,1,0,1,1,2,1,1,0,0,1,1,1,0,1,1,0,59.99,0
+Richard Allen,male,70,Niger,2,2,1,0,0,0,3,1,1,0,1,1,1,1,1,1,0,0,57.84,0
+Brandy Warren,male,38,British Indian Ocean Territory (Chagos Archipelago),0,1,1,0,0,0,3,1,0,0,1,1,0,1,0,1,1,1,58.03,0
+Jennifer Davidson,male,89,British Indian Ocean Territory (Chagos Archipelago),2,1,0,0,0,0,0,0,2,1,0,1,1,1,0,0,0,0,41.43,0
+Leslie Villarreal,female,97,Senegal,1,2,0,0,1,1,2,0,1,1,1,0,0,1,0,0,1,0,44.63,0
+Kevin Brown,female,5,Mauritius,1,1,0,0,0,0,1,1,3,1,1,0,0,1,0,1,0,0,26.85,0
+Todd Nguyen,male,33,Ghana,0,4,0,1,0,0,0,1,3,1,0,1,1,0,1,1,0,0,16.14,0
+Stephanie Page,male,60,Afghanistan,4,4,1,1,0,0,0,0,3,0,1,0,0,1,1,1,1,0,30.41,1
+William Griffith,female,68,Oman,3,3,0,0,1,1,4,1,1,1,0,0,1,0,0,1,0,0,58.28,0
+Kayla Mason,male,40,Switzerland,0,1,0,1,0,0,2,1,2,1,1,0,1,0,0,0,0,1,16.37,0
+Ian Hogan,male,73,Vietnam,0,3,1,1,1,1,1,1,4,1,1,1,1,1,1,1,0,1,34.14,1
+Robert Bryan,male,46,Mozambique,3,2,1,0,1,0,3,0,1,1,1,1,0,1,0,0,1,1,30.22,0
+Brandy Young,male,19,Papua New Guinea,4,2,0,0,0,1,1,1,0,1,0,0,0,0,1,1,0,0,13.88,1
+Mary Burton,male,21,Jordan,3,3,0,0,1,1,1,0,3,0,0,0,1,1,1,0,0,0,29.06,1
+Isaac Richardson,female,96,Paraguay,3,4,1,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,36.69,1
+Sandra Ramirez,female,21,Reunion,2,3,1,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,36.65,1
+Maria Ross,female,72,Philippines,4,1,1,1,0,1,4,1,3,1,1,1,0,1,1,1,1,1,55.05,0
+Sharon Savage,male,8,Tonga,3,4,0,1,1,0,4,0,2,0,0,0,0,1,0,1,1,1,43.65,1
+Michelle Wilcox,female,99,Christmas Island,1,3,0,1,0,1,0,1,1,0,1,0,1,0,0,0,1,0,50.88,1
+Debra Hill,female,30,Grenada,2,2,1,0,1,0,4,1,3,0,0,1,1,1,1,1,1,0,10.27,0
+Joy Robinson,male,94,Korea,3,3,1,0,0,1,4,1,1,0,0,0,0,1,1,1,0,0,37.0,1
+Scott Snyder,male,47,Turkmenistan,2,2,0,0,1,0,4,0,3,1,1,0,0,1,0,0,0,0,32.96,0
+Jessica Prince,female,94,Antarctica (the territory South of 60 deg S),1,4,1,0,1,0,0,0,1,1,0,0,1,1,0,1,0,1,5.2,0
+Elizabeth Pacheco,male,8,Venezuela,3,3,1,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0,31.76,1
+Sandra Steele,male,32,Western Sahara,0,1,0,0,0,1,1,1,0,0,0,1,0,1,1,0,0,1,58.63,1
+Marie White,male,6,Saint Vincent and the Grenadines,4,0,0,0,0,0,3,0,1,0,1,1,0,1,1,1,1,0,45.06,0
+Shannon Wilson,male,7,Yemen,2,4,1,1,1,1,3,0,0,1,1,1,1,1,1,1,0,0,53.71,0
+Chris Mccarty,male,33,New Caledonia,0,2,0,0,1,0,2,1,1,0,0,1,0,0,1,0,0,0,21.58,0
+Dr. William Ray,male,76,Ethiopia,1,2,1,0,0,0,0,0,3,1,0,1,1,0,0,0,0,0,58.21,0
+Robert Brown,male,59,Rwanda,2,2,0,1,1,1,0,0,3,0,0,0,1,1,0,1,0,0,36.51,0
+Alexandra George,male,93,Estonia,0,0,1,0,1,1,4,0,3,0,1,1,0,0,1,1,0,1,24.11,0
+Sharon Gonzalez,male,22,Monaco,2,2,1,1,0,0,2,0,1,1,1,1,1,0,1,1,0,0,18.76,0
+Scott Conner,female,35,Timor-Leste,4,4,1,1,1,0,4,0,1,0,0,1,1,1,1,0,1,1,55.42,0
+Michelle Lewis,male,33,Liberia,1,4,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,25.69,1
+Danny Savage,male,79,Tajikistan,1,2,0,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,43.86,1
+James Patel,male,42,Congo,0,2,0,0,0,0,3,0,3,0,0,1,1,0,1,0,0,0,39.04,0
+Michael Garrett,male,38,Malaysia,0,1,1,1,0,1,4,1,4,0,0,1,0,1,0,1,1,1,15.03,0
+Elizabeth Vaughn,male,65,Bouvet Island (Bouvetoya),1,1,1,1,0,0,4,1,2,0,0,0,0,0,1,0,0,0,45.25,0
+Casey Randall,male,10,Panama,4,2,1,0,1,1,4,1,0,0,1,1,0,1,0,0,0,1,37.68,0
+Brian Mcmillan,male,38,Nepal,0,4,0,0,0,1,3,1,4,0,0,1,1,0,1,0,1,1,40.01,0
+Meredith Ramirez DVM,female,44,Maldives,0,2,0,0,1,1,1,0,3,0,1,1,0,1,0,1,1,1,46.57,0
+Shannon Baker,female,56,Angola,3,3,1,0,1,1,4,0,0,1,1,0,0,0,0,1,1,1,48.45,0
+Lawrence Gibson,male,36,Korea,2,1,0,1,0,0,1,1,2,1,1,1,1,1,1,1,1,1,43.47,0
+Brent Smith,female,6,Palestinian Territory,2,2,1,0,1,0,0,0,4,1,1,1,1,1,0,1,1,0,57.65,0
+Michael Robinson,female,10,Armenia,1,4,0,1,1,0,3,1,0,0,1,0,0,0,0,1,0,0,37.99,0
+William Nguyen,male,46,Vietnam,2,1,0,1,0,0,4,0,2,1,1,1,0,1,0,1,0,1,6.19,0
+Peter Torres,female,55,Czech Republic,4,2,1,1,1,0,2,0,0,0,0,1,1,0,1,1,1,1,35.29,0
+Kenneth Foster DVM,female,79,Thailand,2,3,0,1,0,0,2,0,4,0,0,0,0,0,0,0,0,1,20.84,0
+Gloria Roberts,female,12,Russian Federation,0,3,0,1,0,1,4,0,4,0,0,1,1,0,1,0,0,0,36.6,0
+Joseph Williams,male,53,Azerbaijan,3,1,0,1,0,0,4,0,3,1,0,0,1,1,0,1,1,0,38.32,0
+Melanie Lopez,female,69,Timor-Leste,0,2,0,0,1,0,1,1,2,0,1,0,1,1,1,1,0,1,27.21,0
+Lisa Fitzgerald,female,19,Belarus,1,2,0,1,0,0,3,1,2,0,0,0,0,0,0,0,0,1,42.11,0
+Amy Poole,male,33,Israel,2,3,1,0,0,1,1,1,0,0,1,1,0,0,0,1,1,0,15.52,1
+Heather Koch,male,74,Poland,0,2,1,0,0,0,3,0,1,1,0,0,1,1,1,0,0,1,8.29,0
+Justin Robinson,female,45,France,1,4,1,0,1,1,3,0,2,0,1,1,1,1,0,1,0,0,22.09,0
+Mr. Austin Lopez,male,49,Cameroon,0,2,1,1,0,1,3,1,4,1,1,1,1,0,1,0,0,0,42.0,0
+Jose Drake,female,41,Italy,3,0,1,1,1,0,2,0,4,1,1,1,0,0,0,0,1,1,11.76,0
+David Owen,female,16,Panama,1,1,0,0,0,1,2,1,3,1,0,1,1,1,0,1,1,0,55.05,0
+Lisa Ramirez,female,11,Taiwan,0,0,0,1,0,1,3,1,4,1,0,0,0,0,0,0,0,1,39.21,0
+Paul Maxwell,male,29,Saint Barthelemy,3,2,0,0,0,1,2,0,3,1,0,0,1,0,0,1,0,0,8.96,0
+Lori Reese,male,82,Saint Kitts and Nevis,4,0,0,0,0,1,2,1,3,0,1,1,1,1,0,0,0,0,13.0,0
+Adam Briggs,male,47,Kiribati,0,1,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,30.99,1
+James Cameron,male,5,Chad,0,1,1,1,1,0,1,1,2,0,0,1,1,0,0,1,1,0,36.48,0
+Kelly Bryant,female,5,Antarctica (the territory South of 60 deg S),4,0,1,0,0,1,3,0,0,1,1,1,0,0,0,0,0,1,57.9,0
+Luke Norris,male,98,Marshall Islands,2,2,1,1,1,1,4,1,0,0,1,0,1,1,1,0,0,0,15.01,0
+Stephanie Estes,female,68,Papua New Guinea,0,4,0,1,1,0,0,1,2,1,0,0,0,1,1,1,1,1,34.48,0
+Carol Smith,male,8,Turkey,0,4,1,0,1,1,0,0,3,0,1,1,0,0,1,0,1,1,16.74,0
+Jessica Moses,female,28,Ireland,4,4,0,0,1,1,3,1,1,1,1,1,1,0,1,1,1,0,45.35,1
+Morgan Hensley,male,61,Guinea-Bissau,1,3,0,1,0,0,4,0,1,0,0,1,0,0,0,1,0,0,46.57,0
+Julia Wilson,female,72,Guam,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,11.08,0
+Amber Hayes,male,26,Vietnam,3,3,0,1,1,1,4,1,1,0,1,0,1,1,0,1,1,1,54.98,1
+Emily Campbell,female,74,Niger,1,0,1,1,0,0,4,1,4,1,1,1,0,1,0,1,1,0,18.88,0
+Annette Clark,male,88,Albania,1,2,1,1,0,0,0,1,1,0,1,0,1,1,1,1,0,1,17.22,0
+Shaun Williams,female,30,Kyrgyz Republic,3,1,1,1,1,1,0,1,3,0,0,1,1,1,1,0,0,0,15.22,0
+Debra Long,female,93,Wallis and Futuna,3,0,1,0,1,1,0,1,3,1,1,0,0,1,1,1,0,0,39.84,0
+Joseph Chambers,male,32,Belize,0,2,1,1,0,1,4,0,1,0,0,0,1,1,1,0,0,0,26.6,1
+Elijah Glover,male,35,Saint Lucia,0,2,0,0,1,0,2,0,3,0,0,0,1,0,0,0,1,1,53.07,0
+Mathew Brown,female,58,Guinea-Bissau,3,3,0,1,0,1,1,0,4,1,0,0,0,1,1,1,1,0,19.88,0
+Donna Grant,male,87,Cameroon,0,2,0,1,0,1,1,1,4,0,0,0,1,1,1,1,0,1,10.04,0
+Dr. Rachel Dalton,female,47,Latvia,3,3,1,0,0,1,3,1,0,1,0,0,1,0,0,0,1,1,22.78,0
+Jessica Rivera,male,95,Burundi,3,3,0,1,0,0,3,1,2,0,0,1,0,0,0,0,1,0,24.72,0
+Brian Garrett,female,12,Sudan,4,3,0,1,1,1,0,0,3,1,0,0,0,0,1,1,0,1,5.31,0
+Paul Johnson,male,27,Liechtenstein,0,3,0,0,0,0,3,1,3,0,1,0,1,0,1,0,1,0,40.41,0
+Kimberly Pennington,female,88,United States Minor Outlying Islands,3,0,1,0,1,1,4,1,3,1,0,0,1,1,0,1,0,0,11.65,0
+Valerie Ortiz,male,55,Montenegro,3,3,0,0,1,1,2,1,3,0,1,1,0,1,1,0,1,1,50.13,0
+Virginia Medina,male,99,Greenland,2,3,0,0,1,1,4,0,3,1,1,0,0,0,1,0,0,1,39.41,0
+Frances Tyler,male,33,Pakistan,2,3,1,1,1,0,1,1,3,0,1,0,0,0,1,1,1,0,42.38,1
+Paula Olson,male,27,Singapore,2,2,1,1,1,0,1,1,0,0,1,1,0,1,0,0,1,0,42.78,1
+Laura Johns,female,13,Isle of Man,0,2,0,0,1,0,1,0,2,0,1,1,1,0,0,1,0,0,36.61,0
+Jessica Taylor,female,38,New Caledonia,2,2,1,0,0,0,3,1,1,0,0,1,1,1,1,0,0,0,11.39,0
+Jessica Hicks,female,81,Cyprus,1,3,0,1,1,0,4,0,2,0,1,1,0,1,0,0,1,0,15.5,0
+Matthew Flowers,male,60,Norfolk Island,3,4,1,1,1,0,1,1,3,0,1,1,0,1,0,0,1,1,43.74,1
+Allen Hall,female,46,Belgium,3,1,0,1,0,1,3,0,2,1,0,1,1,1,0,1,0,1,6.42,0
+Andrew Grant,female,89,Tunisia,4,4,1,0,0,1,1,0,3,0,0,0,0,1,0,0,1,1,29.69,0
+Erica Shields,male,66,Bosnia and Herzegovina,2,3,1,1,0,0,0,1,2,0,1,1,1,0,0,1,1,0,31.32,1
+Mrs. Joann Mitchell,male,27,Belize,4,0,0,1,0,0,4,0,1,1,1,0,0,1,0,1,1,1,5.62,0
+Meghan Wilson,female,76,Central African Republic,4,4,0,0,0,0,3,1,2,0,0,0,0,0,1,0,1,0,35.25,1
+Alice Martin,male,64,Qatar,2,4,1,1,0,0,3,0,3,1,0,1,0,0,0,0,0,0,35.27,0
+Elizabeth Forbes,female,82,Martinique,4,3,1,0,0,1,3,1,3,0,1,1,0,0,0,1,1,1,29.39,0
+Jeffrey Deleon,female,14,Gabon,0,0,0,1,0,1,4,0,1,1,0,0,0,1,1,1,0,1,17.32,0
+Troy Carter,male,42,Japan,2,0,0,1,0,1,0,1,0,0,1,1,1,1,0,0,0,1,13.1,0
+Billy Mason,female,89,Belgium,2,1,1,0,1,0,2,0,1,1,0,1,0,1,1,1,1,0,8.47,0
+Lisa Becker,male,22,Turkey,2,4,0,0,1,0,3,0,2,0,1,0,0,0,0,0,0,1,34.59,1
+Jerry Robbins,male,29,Macao,1,4,0,1,1,1,0,1,3,1,1,0,0,1,1,1,0,0,48.97,1
+Michaela Le,male,58,Egypt,0,2,0,1,0,1,0,1,4,1,1,0,1,1,0,0,1,0,41.49,0
+Richard Anderson PhD,male,19,Croatia,3,1,0,0,0,0,2,1,4,1,0,0,0,1,1,1,0,1,19.14,0
+Christine Snow,male,22,Singapore,4,1,1,0,1,1,4,1,1,0,0,1,1,0,1,0,1,0,55.35,1
+Brett Ellis,male,39,New Caledonia,2,0,0,0,0,1,3,1,1,1,0,1,1,0,1,1,1,0,11.94,0
+Amanda Williams,female,94,Kyrgyz Republic,4,2,0,1,0,0,0,0,2,1,1,1,1,1,0,0,0,0,6.14,0
+Wayne Day,male,35,Guinea-Bissau,1,0,1,1,1,1,2,1,3,1,0,1,1,1,1,1,1,1,59.0,0
+Terry Melendez,female,28,Kenya,2,0,0,0,0,1,1,0,2,1,0,1,0,0,1,1,1,0,52.99,1
+Dr. Jason Stevens Jr.,female,60,Netherlands,4,3,0,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,27.36,1
+Diane Shaw,male,50,Trinidad and Tobago,0,3,1,0,0,0,0,1,3,1,0,1,0,1,0,1,1,1,45.18,0
+Jeffrey Turner,male,76,Guinea-Bissau,3,1,0,1,0,1,2,0,0,1,1,1,0,1,0,1,0,1,28.14,1
+Jessica Brandt,female,15,Equatorial Guinea,1,0,1,0,1,1,4,0,1,1,0,0,0,0,0,1,1,1,35.64,1
+Gregory Peck,male,36,Saint Pierre and Miquelon,2,3,1,0,1,1,2,1,1,0,0,0,1,1,0,1,0,0,37.75,0
+Marcus Sims,female,17,British Indian Ocean Territory (Chagos Archipelago),2,4,0,0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,27.65,1
+Jeff Alexander,male,62,Vietnam,4,4,1,0,1,1,4,0,3,1,0,1,1,1,0,0,1,1,45.21,0
+Mrs. Kara Terry,female,86,Kiribati,4,4,1,1,1,0,0,1,4,0,1,0,1,1,0,0,0,0,29.35,0
+Ruth Hudson,male,81,Tunisia,4,4,1,1,0,0,1,0,4,1,1,1,1,0,0,0,1,1,35.39,1
+Brian Bryan,male,88,Cook Islands,2,0,0,1,1,1,3,0,0,0,1,0,0,0,1,0,0,1,13.4,0
+Caleb Dudley,female,25,American Samoa,0,3,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,1,5.83,0
+Jason Harris,female,73,France,0,3,1,1,0,0,3,0,1,1,1,1,1,0,1,1,0,1,30.86,0
+Peter Cox,female,55,Palestinian Territory,4,0,0,0,0,0,4,1,1,0,1,1,0,0,1,0,0,0,28.39,0
+Aaron Diaz,male,44,Iceland,4,2,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,25.66,1
+Michael Stevenson,male,61,Kiribati,4,2,1,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,19.61,0
+Bryan Carter,female,24,Djibouti,3,0,0,0,1,1,1,0,0,0,1,1,0,0,1,1,1,1,50.61,1
+Rachel Bell,male,92,Morocco,1,1,1,1,0,1,4,0,3,1,1,1,1,1,1,0,1,0,6.01,0
+Melissa Jones,male,95,Turkey,2,3,0,0,1,1,0,0,2,0,1,0,0,0,0,1,0,1,18.3,0
+Dominic Patton,male,18,Venezuela,2,1,1,0,1,0,1,1,1,1,0,1,0,1,0,1,1,0,16.94,0
+Scott Adams,female,43,Micronesia,4,0,1,0,0,1,1,1,4,1,1,0,0,1,1,1,0,1,52.74,0
+James Marquez,female,21,Dominican Republic,0,4,0,0,1,0,0,0,3,0,1,0,1,0,0,1,0,1,30.34,0
+David George,male,15,Poland,4,0,0,0,0,1,0,1,3,1,0,1,0,1,0,0,1,0,53.96,1
+Anna Miller,female,79,Pakistan,4,0,1,1,1,1,4,0,2,0,1,1,1,0,0,1,1,0,49.7,1
+Jennifer Barber,female,58,Moldova,2,2,0,0,0,1,2,0,0,1,1,1,0,1,0,0,1,0,44.04,0
+Kenneth Mckay,male,11,Samoa,3,0,1,1,1,0,0,0,3,1,1,1,0,1,1,1,1,0,17.47,0
+Alicia Lawrence,male,75,Luxembourg,1,0,0,1,0,1,2,0,2,0,0,0,0,1,1,0,1,0,34.35,1
+Anthony Green,female,94,Tonga,0,0,0,1,1,0,2,1,0,0,1,0,1,0,1,1,0,0,50.85,0
+Alisha Arias,male,12,Eritrea,4,4,0,0,0,0,4,0,4,0,0,0,0,1,0,1,1,0,39.43,0
+Lisa Jones,male,39,Swaziland,2,1,1,1,0,1,4,0,1,1,0,0,1,1,0,0,0,0,48.94,0
+Peggy Velez,male,56,Kazakhstan,3,2,1,1,0,1,0,1,0,0,1,1,0,1,1,1,1,0,35.91,1
+Kevin Thompson,male,92,Malta,2,2,0,0,1,1,0,1,0,0,1,1,0,1,1,1,1,0,8.35,0
+Diana Wagner,male,48,Marshall Islands,0,3,0,0,1,0,4,1,2,1,1,0,1,0,0,0,0,0,12.64,0
+Melissa Cox,male,20,Korea,0,4,1,0,1,0,3,0,3,1,1,1,0,0,0,0,0,0,56.34,0
+James Campbell,female,94,Slovakia (Slovak Republic),0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,59.73,0
+Bruce Owens,female,51,Micronesia,2,2,1,1,1,0,1,0,4,1,1,1,0,1,1,1,0,1,24.61,0
+Michael Sawyer,male,9,Barbados,1,2,1,0,1,1,1,0,4,0,0,1,0,0,0,1,1,0,15.43,0
+Jamie Weber,male,66,Liechtenstein,1,4,1,0,1,0,1,1,3,1,1,1,0,1,1,0,1,0,43.84,0
+Frank Cantu,male,72,Faroe Islands,2,4,0,0,0,0,2,1,2,0,0,0,1,0,0,0,0,1,8.62,0
+Andrew Ward,female,35,Australia,1,0,1,1,0,0,1,1,2,0,1,1,0,1,1,0,1,1,48.72,0
+Melanie Love,male,90,Botswana,3,2,1,0,1,0,0,1,2,1,1,0,0,0,1,1,1,0,54.21,1
+Carolyn Davis,female,88,Sudan,3,1,0,0,1,0,4,1,3,0,0,1,0,0,0,0,0,1,30.5,0
+Evan Stevens,male,81,Venezuela,1,2,0,0,1,1,4,0,0,0,1,1,1,0,0,0,1,0,30.7,0
+John Smith,male,11,Zambia,1,0,1,0,0,0,1,0,3,0,1,1,0,0,1,0,0,0,52.19,0
+Michael Hernandez,female,83,Yemen,0,1,1,0,0,0,2,0,2,0,1,1,0,0,0,1,1,0,26.15,0
+James Dickerson,female,10,Bouvet Island (Bouvetoya),3,1,0,0,1,0,4,0,4,1,1,0,1,1,1,0,0,0,48.7,0
+Emily Evans MD,male,46,Eritrea,1,0,1,1,1,0,0,0,4,1,1,0,0,1,0,1,1,0,32.25,0
+Michael Williams,male,52,Czech Republic,2,1,1,1,0,1,2,1,4,0,0,0,1,1,0,1,1,1,13.69,0
+Justin Watson,female,5,Togo,0,0,0,1,0,0,0,0,2,1,1,1,1,1,0,0,1,0,45.7,0
+Angela Brown,female,22,Turkmenistan,3,3,1,1,1,0,2,1,3,1,0,0,1,1,1,1,1,1,41.52,0
+Brenda Bryant,male,25,Korea,3,2,1,1,0,1,4,0,1,0,1,1,1,1,0,0,1,0,10.83,0
+Meredith Cervantes,male,47,Palestinian Territory,3,1,1,0,0,0,1,0,4,1,0,0,1,0,1,0,0,1,34.25,0
+James Graves,male,72,Morocco,4,1,1,0,0,0,0,1,4,0,0,1,1,0,0,0,0,0,18.27,0
+Sharon Montes,female,94,Israel,4,1,0,0,1,0,0,1,3,1,0,0,1,0,1,1,1,0,33.09,0
+Cassidy Bowman,male,8,Belize,3,0,0,1,0,1,2,1,3,1,1,0,0,1,1,0,0,0,9.1,0
+Gina Robertson,male,85,Bhutan,4,1,1,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,44.02,1
+Trevor Martin,male,29,Israel,1,3,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,47.98,1
+Glenn Taylor,female,17,Cocos (Keeling) Islands,0,2,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,0,38.11,1
+Mark Herrera,male,90,Sudan,0,4,1,1,0,1,1,1,2,1,1,1,0,1,0,1,0,0,39.64,1
+Stephanie Valdez,male,78,Moldova,2,3,0,0,1,0,2,0,3,0,0,0,1,1,0,0,0,0,12.26,0
+Julie Martinez,male,25,Bermuda,1,1,0,0,1,1,2,1,2,1,1,0,1,0,1,0,0,1,20.19,0
+Kelly Cortez,male,85,Tajikistan,4,4,1,1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,21.32,1
+Sabrina Day,female,14,Isle of Man,0,0,1,1,1,0,4,1,0,0,1,0,1,0,1,0,0,1,52.23,0
+Joan Weaver,female,18,Tajikistan,4,4,0,0,1,0,2,0,0,0,0,0,0,1,1,0,0,0,19.1,0
+Brian Burke,female,20,Falkland Islands (Malvinas),0,1,0,0,1,0,4,0,2,1,0,1,0,0,1,1,1,1,55.79,0
+Jonathan Stone,male,61,Suriname,2,3,1,0,1,1,2,0,2,0,0,1,1,0,1,0,0,0,42.12,0
+Charles Gonzalez DVM,male,98,Cocos (Keeling) Islands,0,3,1,0,0,1,1,0,1,1,1,1,0,1,0,0,1,1,25.14,1
+Cynthia Hernandez,male,97,Guam,1,3,1,0,1,1,0,0,3,0,0,1,1,1,0,1,1,1,31.05,0
+Courtney Rowland,male,6,Montenegro,1,2,0,1,1,1,2,0,2,1,1,0,1,1,1,1,1,1,47.92,0
+Erica Bauer,male,32,Malaysia,2,4,1,1,1,1,3,0,3,0,1,1,1,1,0,0,1,0,49.47,0
+Erik Gonzales,male,27,San Marino,4,3,1,0,0,1,2,0,0,0,1,1,0,1,0,1,1,0,19.6,1
+Andrew Watson,female,58,North Macedonia,0,4,0,1,0,1,4,1,3,1,0,0,0,0,1,1,0,1,5.97,0
+Scott Lopez,male,71,Ethiopia,1,4,0,0,1,1,3,0,1,1,0,0,0,1,1,1,0,1,49.82,1
+Anthony Odonnell,male,83,Bahamas,1,0,1,1,1,1,4,1,4,0,0,1,1,0,1,0,1,1,8.12,0
+Nichole Rivera,male,54,United States of America,4,1,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,1,22.54,0
+Robert Thomas,male,10,Heard Island and McDonald Islands,1,2,1,0,1,0,3,1,0,1,0,1,0,1,1,1,1,1,15.78,0
+Walter Tate,male,73,Pitcairn Islands,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,1,0,0,38.69,1
+Frances Sullivan,female,72,Spain,1,4,0,1,0,0,3,1,0,0,1,0,1,1,1,1,0,0,51.38,0
+Lisa Sanchez,female,42,Heard Island and McDonald Islands,3,1,0,1,1,1,0,0,4,1,0,1,1,1,1,0,1,1,25.31,0
+Tyler Powers,male,31,Cayman Islands,1,4,0,0,1,0,3,0,3,0,0,0,0,1,0,1,0,1,50.96,0
+Nicholas Montgomery,male,27,Switzerland,4,4,0,1,0,1,2,1,0,0,1,1,0,0,1,1,0,1,36.87,1
+Amy Rhodes,male,27,Russian Federation,3,4,1,0,0,0,2,0,3,0,0,1,0,1,0,1,0,0,57.36,1
+Christian Butler,male,41,Ecuador,4,4,0,0,0,0,1,0,2,0,1,1,0,0,1,0,1,1,47.38,1
+Stephen Friedman,female,89,Kazakhstan,0,1,1,1,1,1,2,0,4,1,1,0,1,0,0,0,0,1,29.77,0
+Deanna Barnes,female,72,Tokelau,1,0,1,0,0,0,2,1,2,0,0,1,1,1,0,1,1,1,16.01,0
+Amber Holmes,female,73,Niue,2,3,0,1,1,0,2,1,1,0,1,1,1,1,1,1,0,1,17.89,0
+Tina Nichols,male,19,Turks and Caicos Islands,0,0,0,1,0,1,1,0,3,1,0,1,1,1,0,0,1,0,48.32,1
+Pamela Nelson,male,16,Aruba,4,2,0,1,1,1,0,0,4,1,1,0,1,1,0,1,1,0,26.79,1
+Erin Brooks,male,6,Bulgaria,0,4,1,0,1,0,0,0,0,1,1,1,1,0,0,0,1,0,45.77,1
+Tina Hunter,female,14,Zambia,0,0,1,0,0,1,2,1,2,1,0,1,0,0,0,1,0,1,23.23,0
+Eric Chang,female,10,Macao,2,4,1,0,0,1,4,1,1,0,0,0,0,1,0,0,0,1,12.31,0
+Elizabeth Erickson,male,58,New Caledonia,4,4,1,0,0,1,2,0,3,0,0,1,1,1,0,1,0,0,27.02,0
+Sheena Villanueva,female,44,Armenia,2,0,1,1,1,1,0,0,4,0,0,0,1,1,0,0,0,1,18.58,0
+Gary Sanders,male,27,Sudan,4,3,0,0,1,0,2,0,4,1,0,1,0,0,0,0,1,1,7.99,1
+Sharon Conrad,male,13,Portugal,1,1,0,0,1,0,1,1,2,1,0,1,0,0,0,1,1,1,38.33,0
+Adrian Chavez,female,71,Jordan,0,2,0,0,1,0,3,0,0,1,0,1,0,1,1,1,0,0,13.03,0
+Christine Jordan,female,20,Taiwan,3,1,0,1,1,0,3,0,3,1,1,1,0,0,0,0,1,0,5.54,0
+Mark Smith,female,44,Faroe Islands,2,2,0,1,1,0,2,1,2,0,0,0,1,1,0,0,0,0,15.44,0
+Denise Oconnor,male,80,Puerto Rico,3,3,1,1,0,1,2,0,4,0,1,1,1,1,0,1,1,1,28.38,0
+Sheila Colon,female,25,Serbia,1,3,0,0,0,1,0,1,3,0,0,0,0,0,0,1,1,0,21.26,0
+Joshua Morris,female,11,Faroe Islands,0,1,0,1,1,1,0,1,4,1,0,1,1,0,0,0,1,0,38.5,0
+Michael Gomez,female,59,Reunion,1,0,0,0,1,1,4,0,0,1,0,0,1,1,1,0,0,1,14.94,0
+Jacob Huff,male,13,Barbados,0,3,1,0,0,0,3,0,3,0,1,1,1,0,1,0,0,1,15.54,0
+Tracy Payne,male,6,Philippines,2,1,1,1,0,0,1,0,2,1,1,0,1,0,1,0,1,0,55.66,1
+Mr. Randall Henderson,male,61,China,0,4,0,0,1,1,1,0,3,1,1,0,1,1,0,0,1,0,22.59,0
+Molly Cardenas,male,77,South Georgia and the South Sandwich Islands,1,0,0,0,1,0,0,1,4,1,1,0,1,0,1,1,0,0,38.46,0
+Mackenzie Webb,male,11,Burundi,2,4,0,0,1,1,3,1,0,0,1,0,1,1,1,1,1,1,26.65,0
+Steven Stephens,female,54,Burkina Faso,3,2,0,1,0,0,4,0,2,1,0,0,1,1,1,1,1,1,20.52,0
+Daniel Duncan,female,68,Burkina Faso,2,0,0,1,1,1,2,0,4,1,0,0,0,1,1,0,1,1,23.23,0
+Debra Ortiz,female,95,Antigua and Barbuda,2,1,0,0,1,1,3,1,0,0,1,0,1,1,1,1,0,0,36.3,0
+Wendy Smith,female,47,Paraguay,3,4,1,0,1,0,2,0,3,1,0,1,1,0,0,1,0,0,21.24,0
+Dr. Alicia Martin,male,22,Bahamas,0,2,0,0,1,1,4,0,1,1,0,0,1,0,0,1,1,1,5.72,0
+Angela Cook,male,27,Bangladesh,3,3,1,0,0,1,2,1,4,1,0,0,1,0,0,1,1,0,28.32,1
+Alicia Evans MD,male,37,Lebanon,1,4,1,1,1,1,1,0,3,1,0,0,0,1,1,1,0,1,29.34,0
+Victoria Reid,male,94,Albania,1,4,1,1,0,1,3,1,2,1,1,0,1,1,0,1,0,1,56.99,0
+Aaron Patterson,female,45,Netherlands Antilles,4,4,1,1,0,1,1,0,4,0,1,0,0,1,1,0,0,1,54.86,0
+Duane Paul,male,32,Cayman Islands,1,2,1,0,0,1,0,1,4,1,0,0,1,0,0,1,1,1,48.57,1
+Adam West,male,98,Equatorial Guinea,0,2,1,1,1,1,2,0,1,0,1,1,0,0,1,0,1,0,25.28,0
+Deborah Morgan,female,23,French Guiana,4,4,0,0,0,0,2,0,0,1,1,0,1,0,1,1,0,0,45.88,1
+Andrew Orozco,male,13,Togo,0,4,1,0,1,0,3,0,1,1,1,1,0,1,1,0,0,1,46.86,0
+Emily Steele,female,80,Turks and Caicos Islands,1,4,0,0,1,1,2,0,3,1,0,0,0,1,0,1,1,0,32.18,0
+Mitchell Strickland,male,52,Central African Republic,0,0,0,1,0,1,4,1,2,1,0,0,1,0,1,1,0,1,57.12,0
+Mercedes Wilson,male,75,Taiwan,1,4,0,1,1,0,3,1,3,0,0,1,1,1,1,0,1,0,16.08,0
+Bonnie Phillips,female,11,Liberia,4,2,0,1,0,0,4,1,0,1,1,0,1,1,0,0,0,1,39.59,0
+Marc Casey,female,34,Palau,4,0,0,0,1,0,2,0,3,1,0,0,1,1,0,1,1,0,31.59,0
+Marissa Olsen,male,53,Costa Rica,2,4,0,0,1,1,3,0,1,1,0,1,0,0,0,1,0,0,11.1,0
+Andrew Garcia,female,9,Saint Helena,4,2,0,0,1,1,4,1,1,1,1,1,0,1,1,0,1,0,14.71,0
+Heather Buckley,female,25,Iraq,0,1,1,1,0,0,3,1,0,1,1,0,0,0,1,1,0,1,19.66,0
+Justin Hunter,female,51,Pitcairn Islands,2,3,1,1,0,1,3,0,2,1,1,0,1,0,0,0,0,1,30.78,0
+Tony Kramer,male,33,Italy,2,2,1,0,0,0,3,0,2,0,0,1,0,0,0,0,0,1,55.05,0
+Virginia Daniels,female,24,South Georgia and the South Sandwich Islands,3,4,0,0,1,1,2,0,2,0,1,1,1,1,0,1,0,0,6.37,0
+Nichole Vasquez,female,82,Botswana,0,1,0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,0,33.65,1
+Michael Watson,female,58,Slovakia (Slovak Republic),0,2,1,0,0,0,2,1,2,1,0,0,0,1,1,0,1,1,54.48,0
+Lawrence Williams,male,36,Uruguay,2,4,0,0,1,0,4,1,0,1,0,1,0,0,1,1,1,0,46.07,0
+Paul Walker,male,21,Timor-Leste,2,3,1,1,0,1,0,0,1,1,0,1,0,1,0,1,1,1,24.95,1
+Gina Castro,female,17,Sweden,0,1,1,0,1,0,3,1,3,1,0,0,1,1,0,0,1,0,59.11,0
+Catherine Hopkins,female,87,San Marino,2,1,0,1,0,1,1,1,4,1,1,1,1,0,0,0,0,1,41.15,0
+Amanda Mendoza,male,16,French Polynesia,0,1,1,1,0,0,4,0,1,1,0,1,0,1,0,1,0,0,27.39,0
+Ruth Douglas,male,67,New Zealand,0,3,1,1,0,0,4,1,0,0,0,0,0,1,1,0,1,0,48.66,0
+Jason King,male,81,Saint Lucia,3,2,0,1,0,1,4,1,2,0,1,0,0,0,1,0,1,1,53.79,0
+Jeremy Horton,male,28,Namibia,1,0,1,1,0,0,0,0,2,0,1,1,1,1,0,1,1,0,57.23,1
+Julia Johns,male,57,Turkey,2,1,0,1,0,0,2,0,3,1,1,1,1,1,0,1,1,1,22.48,0
+Debra Woods,male,89,Liberia,2,3,1,0,0,0,3,1,3,1,0,1,0,0,0,1,1,1,48.46,0
+Jesus Harris,male,96,Mauritania,1,0,1,1,0,0,2,1,1,1,1,1,1,0,1,1,0,0,33.13,0
+Frank Cooper,male,36,Guatemala,1,1,0,1,0,0,1,0,1,0,1,0,0,0,1,1,1,0,32.0,0
+Philip Farmer,male,59,Estonia,4,2,1,0,1,0,4,0,4,1,1,1,1,1,0,0,0,0,27.28,0
+Sandra Santos,male,6,Turkey,1,1,1,0,1,0,1,1,3,0,1,0,1,0,0,0,0,1,34.51,0
+Shelby Coffey,female,95,Netherlands Antilles,2,4,0,1,1,1,1,1,3,1,0,0,0,0,0,0,1,0,47.27,0
+Juan George,female,15,Croatia,0,4,0,1,1,1,1,0,3,1,1,1,1,0,1,0,0,0,13.57,0
+Valerie Fowler,female,36,Iraq,2,0,1,0,1,0,1,1,3,0,1,0,0,0,0,0,0,0,57.32,0
+Paul Smith,male,13,Cape Verde,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,1,1,0,11.57,0
+Nicholas Fernandez,male,17,Azerbaijan,4,2,1,1,0,0,3,0,0,1,1,0,0,1,1,1,0,0,40.35,1
+Amanda Short,female,9,Japan,3,3,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,58.23,1
+Brad Cooper,male,90,Cyprus,3,0,0,1,1,0,1,1,0,1,0,1,1,1,1,0,0,0,37.77,1
+Edward Hill,male,95,Greece,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,1,1,36.43,1
+Kathy Anderson,male,34,Belgium,0,1,0,0,1,0,0,1,3,1,0,0,0,0,1,1,0,0,17.95,0
+Dr. Timothy Robinson DDS,female,53,Myanmar,3,0,1,0,0,0,3,1,4,1,0,1,0,1,1,0,1,0,57.9,0
+Matthew Warren,male,15,Martinique,0,3,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,7.86,1
+Allen Barnes,male,53,Jordan,2,3,1,1,0,0,0,0,1,1,1,1,0,1,1,0,1,0,22.06,0
+Austin Lynn DVM,female,38,Mauritius,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,52.95,0
+Jason Brooks,female,91,China,2,2,1,0,0,0,1,1,1,0,0,0,0,0,1,1,0,1,11.25,0
+Terry King,male,82,Georgia,3,2,0,1,1,0,3,1,2,1,0,0,0,1,1,1,0,0,14.43,0
+Jill Walker,male,59,Colombia,0,4,1,0,1,0,2,0,2,0,1,0,0,1,0,1,1,1,41.67,0
+Jason Bryant,female,11,Kuwait,1,4,0,1,0,0,0,1,3,0,0,1,1,1,1,0,0,0,40.92,0
+Doris Taylor,female,80,Bahamas,4,1,1,1,0,0,3,0,3,0,0,1,0,0,0,0,0,0,55.09,0
+Bryan Davis,male,82,Comoros,0,2,0,1,1,1,0,1,1,0,1,1,1,0,1,0,1,0,11.36,0
+Clarence Lopez,male,52,Saint Martin,3,0,1,1,1,1,2,1,2,1,0,0,0,1,0,1,0,1,34.81,0
+William Wilkinson,female,50,Rwanda,0,1,0,1,1,0,4,1,0,0,0,0,1,0,1,0,0,0,57.14,0
+Alicia Graves,female,28,Austria,4,1,1,1,0,1,1,1,0,1,0,1,0,1,1,0,1,0,52.23,1
+Susan Williams,male,10,Northern Mariana Islands,4,0,1,0,0,1,3,0,1,0,0,1,1,0,0,1,1,1,6.15,0
+John Buckley,female,72,Guatemala,1,4,0,1,1,1,4,1,1,0,0,0,0,1,0,0,1,1,54.89,1
+Sean Young,female,97,Cyprus,2,2,0,1,0,1,1,1,2,1,0,0,1,1,1,0,1,1,50.42,1
+Justin Allen,male,16,Lebanon,2,3,1,1,0,0,1,0,4,1,0,0,1,1,1,1,1,1,56.17,1
+Jason Walker,female,71,Bahamas,2,3,0,1,1,0,1,0,0,0,1,1,1,1,1,1,0,0,16.71,0
+Michele Morales,male,95,Suriname,2,0,1,0,1,0,1,1,4,1,0,1,1,0,1,0,1,1,19.25,0
+Tanya Mathews,male,5,Estonia,2,1,0,1,0,1,4,0,1,0,0,1,0,0,0,0,1,0,50.4,0
+Patrick Ryan,male,54,Montenegro,3,1,0,0,0,0,3,0,1,0,1,0,1,1,1,1,0,1,56.55,0
+James Fowler,male,21,Afghanistan,3,4,1,0,1,1,0,1,3,1,0,1,0,1,1,0,0,0,23.99,1
+Wendy Robertson,female,30,Gabon,2,0,0,0,1,1,1,0,4,0,0,0,0,0,1,1,0,0,43.07,1
+Jennifer Shelton,female,65,Albania,4,1,0,1,1,1,0,1,2,0,0,1,1,0,1,0,0,1,46.0,1
+Melissa Myers,female,88,Uganda,3,4,1,1,0,0,1,0,1,0,1,0,0,0,1,0,1,0,55.12,1
+Richard Dean,male,95,Burkina Faso,0,0,1,1,1,1,4,1,1,0,0,1,1,0,0,1,0,1,34.64,0
+Stephen Mann,female,43,Zimbabwe,1,3,0,0,0,1,3,1,3,0,1,0,1,0,1,1,0,1,32.79,0
+Robert Jackson,male,64,Romania,3,3,0,1,1,1,3,1,0,0,0,1,1,1,0,1,1,0,35.88,1
+Robert York,male,92,Colombia,4,3,1,0,0,1,0,1,4,0,0,1,1,1,0,1,0,0,55.65,1
+Thomas Middleton,female,40,Maldives,1,3,0,1,0,1,0,1,3,0,1,0,0,0,0,0,0,0,28.3,0
+Amy Ford,male,67,Uganda,4,0,1,0,0,0,2,0,4,0,1,0,0,0,0,1,0,0,57.2,0
+Karen Rogers,female,67,Liberia,2,4,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,51.85,1
+Judith Carlson,male,38,Kiribati,1,4,1,0,0,1,0,1,3,1,1,1,1,0,0,1,1,0,47.66,0
+Jordan Fisher,male,21,Nigeria,4,2,0,0,1,1,0,0,2,1,1,0,0,0,1,1,0,0,41.35,1
+David David,male,40,Bahrain,3,2,0,1,1,1,1,1,1,0,1,0,0,1,0,0,1,1,24.73,0
+Andrew Livingston,male,89,Costa Rica,2,2,1,0,1,0,0,0,4,0,1,0,1,0,1,1,1,1,58.25,0
+Michael Larson,female,94,United States of America,0,1,0,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,5.76,0
+Madison Garcia,female,74,Singapore,0,0,0,0,0,0,1,1,3,1,1,0,0,0,1,1,1,0,19.7,0
+William Smith,male,13,Switzerland,3,4,1,0,1,1,0,1,2,0,0,0,0,0,0,1,1,0,27.27,1
+Brittney Wilkinson MD,female,86,Cuba,3,1,1,0,1,0,4,0,4,0,0,1,1,1,0,1,1,0,48.7,0
+Brett Underwood,female,45,Saint Kitts and Nevis,4,2,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,19.52,0
+Chad Becker,female,18,Norfolk Island,1,3,1,1,0,0,1,0,1,1,1,1,0,0,0,1,1,1,40.64,1
+Kevin Ellis,female,21,Cape Verde,1,0,1,1,0,0,2,1,3,0,1,0,0,1,0,1,1,1,14.04,0
+Sharon Johnson,female,16,Thailand,2,0,1,0,1,0,3,0,4,1,0,0,0,1,0,0,1,1,34.56,0
+Amanda Fernandez,male,62,Mozambique,2,1,0,1,0,1,1,1,2,0,1,1,1,1,0,1,1,1,49.26,1
+Christopher Thompson,female,67,Kazakhstan,2,4,1,0,0,1,2,1,1,0,1,1,1,1,1,1,0,1,30.15,0
+Paul Garrett,male,63,Libyan Arab Jamahiriya,4,3,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,1,59.56,1
+Tracey Carrillo,female,90,Sierra Leone,1,1,1,0,1,0,0,1,4,0,1,1,1,0,1,0,1,1,42.64,0
+Michael Byrd,female,27,Martinique,4,3,1,0,0,1,4,1,3,0,0,1,0,1,0,1,0,1,44.87,0
+Donald Howard,male,72,Saudi Arabia,2,1,0,0,0,0,3,1,0,1,0,0,0,0,1,1,0,1,47.09,0
+Michael Weaver,female,96,Falkland Islands (Malvinas),1,0,0,0,1,1,1,0,2,0,1,0,1,1,1,0,0,0,41.27,1
+Mrs. Jamie Walters,male,29,Mayotte,4,0,0,0,0,0,0,1,3,0,0,0,1,1,0,0,0,0,47.34,1
+Amy Ford,female,81,Maldives,4,2,1,1,0,1,1,0,3,0,0,0,1,1,1,0,1,0,5.61,0
+Carly Fox,female,55,Comoros,1,1,1,1,0,0,3,0,1,0,0,1,0,0,1,1,1,1,34.27,0
+Matthew Jackson,male,51,Armenia,4,4,1,1,1,0,4,1,1,0,0,0,0,1,1,0,1,1,39.31,1
+Angela Fitzpatrick,male,94,Tuvalu,0,0,0,0,1,1,2,0,3,1,1,0,1,0,0,0,0,0,14.02,0
+Tracie Collins,male,86,Croatia,3,1,0,0,0,1,1,0,2,1,1,1,0,0,0,0,1,0,9.97,0
+Ricky Wells,male,9,Yemen,1,1,0,1,1,0,3,0,2,1,0,0,0,0,0,0,0,1,44.93,0
+Ellen Gross,male,71,Mozambique,3,4,0,0,1,1,3,1,1,1,1,1,1,1,0,1,1,1,14.59,1
+Troy Acevedo,male,27,Turks and Caicos Islands,0,2,0,0,1,1,2,0,1,1,0,1,1,1,0,0,0,0,34.67,1
+Matthew Mitchell,male,31,Liechtenstein,2,1,0,0,0,0,0,1,4,0,0,0,1,0,1,1,1,1,43.54,0
+Diana Mendoza,female,33,Algeria,0,2,1,1,0,0,4,1,3,0,1,1,0,1,0,0,0,1,31.02,0
+Nicolas Brock,female,20,Slovakia (Slovak Republic),0,3,0,0,0,1,3,1,4,0,1,0,0,1,1,0,1,1,28.47,0
+Susan Mejia,female,94,Andorra,3,4,1,0,1,0,0,1,2,0,1,1,1,0,0,0,0,1,52.82,1
+James Manning,female,54,Ukraine,4,4,1,0,0,0,2,1,4,0,1,0,0,1,0,0,1,1,19.49,0
+Carlos Vargas,female,64,Heard Island and McDonald Islands,4,4,1,0,0,1,1,1,2,1,0,0,1,1,0,1,1,0,41.59,1
+Christopher Clark,female,88,Jordan,4,2,0,0,0,1,2,1,4,1,0,0,0,0,1,1,0,0,11.04,0
+Cameron Jackson,female,61,Chile,1,1,1,1,1,1,3,0,4,0,1,1,1,1,1,0,0,1,32.92,0
+Donna Reed,female,71,Heard Island and McDonald Islands,0,4,0,1,1,0,4,1,2,0,1,1,1,1,1,1,0,1,27.14,0
+Nancy Pratt,male,13,American Samoa,0,1,1,1,1,1,1,1,2,1,1,1,1,1,1,0,0,1,37.83,1
+Wayne Blake,male,83,Mauritius,1,0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,1,0,18.44,0
+Rebekah Chapman,male,96,Georgia,0,3,1,1,0,0,2,0,3,0,1,1,1,1,1,0,0,0,17.14,0
