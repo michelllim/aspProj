@@ -83,7 +83,7 @@ const Survey = () => {
 
     const handleSubmit = async (e) => {
       e.preventDefault();  
-      if (!Name || !Gender || !Age || !CountryofBirth || !Smoking || !Alcohol || !FamilyHistory || !CloseContact || !HealthConditions || !OccupationalRisks || !PhysicalActivity || !Diet || !AirPollution || !LongTermCough || !ChestPain || !AppetiteLoss || !WeightLoss || !Chills || !Fatigue || !NightSweat || !CoughBlood || !Fevers) {
+      if (!Name || !Gender || !Age) {
         // Handle error when required fields are not filled
 
         console.error("Please fill in all required fields.");
@@ -172,8 +172,7 @@ const Survey = () => {
                             <label>Country of Birth: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="country" name="country" onChange={(e)=>setCountryofBirth(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="country" name="country" value="Singapore" onChange={(e)=>setCountryofBirth(e.target.value)}>
                                 <option value="Afghanistan">Afghanistan</option>
                                 <option value="Åland Islands">Åland Islands</option>
                                 <option value="Albania">Albania</option>
@@ -426,8 +425,7 @@ const Survey = () => {
                             <label>Smoking Frequency: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="smoking" name="smoking" onChange={(e)=>setSmoking(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="smoking" name="smoking" value="0" onChange={(e)=>setSmoking(e.target.value)}>
                                 <option value="0">0</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
@@ -441,8 +439,7 @@ const Survey = () => {
                             <label>Alocohol Consumption Frequency: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="alcohol" name="alcohol" onChange={(e)=>setAlcohol(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="alcohol" name="alcohol" value="0" onChange={(e)=>setAlcohol(e.target.value)}>
                                 <option value="0">0</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
@@ -456,8 +453,7 @@ const Survey = () => {
                             <label>Family History: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="familyhistory" name="familyhistory" onChange={(e)=>setFamilyHistory(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="familyhistory" name="familyhistory" value="0" onChange={(e)=>setFamilyHistory(e.target.value)}>
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -468,8 +464,8 @@ const Survey = () => {
                             <label>Close Contact with TB: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="closecontact" name="closecontact" onChange={(e)=>setCloseContact(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="closecontact" name="closecontact" value="0" onChange={(e)=>setCloseContact(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -480,8 +476,8 @@ const Survey = () => {
                             <label>Do you have Health Condition: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="healthconditions" name="healthconditions" onChange={(e)=>setHealthConditions(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="healthconditions" name="healthconditions" value="0" onChange={(e)=>setHealthConditions(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -492,8 +488,8 @@ const Survey = () => {
                             <label>Are you a service worker: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="occupationalrisks" name="occupationalrisks" onChange={(e)=>setOccupationalRisks(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="occupationalrisks" name="occupationalrisks" value="0" onChange={(e)=>setOccupationalRisks(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -504,8 +500,8 @@ const Survey = () => {
                             <label>Are you physically active: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="physicalactivity" name="physicalactivity" onChange={(e)=>setPhysicalActivity(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="physicalactivity" name="physicalactivity" value="1" onChange={(e)=>setPhysicalActivity(e.target.value)}>
+                                
                                 <option value="0">0</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
@@ -516,23 +512,11 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Are you a service worker: </label>
-                        </div>
-                        <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="occupationalrisks" name="occupationalrisks" onChange={(e)=>setOccupationalRisks(e.target.value)}>
-                                <option value="">Select Option</option>
-                                <option value="1">Yes</option>
-                                <option value="0">No</option>
-                            </select>
-                        </div>
-                    </div>
-                    <div className="surveycontainer">
-                        <div className="surveylabelcontainer">
                             <label>Are you on a diet: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="diet" name="diet" onChange={(e)=>setDiet(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="diet" name="diet" value="0" onChange={(e)=>setDiet(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -543,8 +527,8 @@ const Survey = () => {
                             <label>Are you constantly exposed to air pollution: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="airpollution" name="airpollution" onChange={(e)=>setAirPollution(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="airpollution" name="airpollution" value="1" onChange={(e)=>setAirPollution(e.target.value)}>
+                                
                                 <option value="0">0</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
@@ -558,8 +542,8 @@ const Survey = () => {
                             <label>Have you been coughing for the last 3 or more weeks: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="LongTermCough" name="LongTermCough" onChange={(e)=>setLongTermCough(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="LongTermCough" name="LongTermCough" value="0" onChange={(e)=>setLongTermCough(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -570,8 +554,8 @@ const Survey = () => {
                             <label>Do you feel chest pain: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="ChestPain" name="ChestPain" onChange={(e)=>setChestPain(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="ChestPain" name="ChestPain" value="0" onChange={(e)=>setChestPain(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -582,8 +566,8 @@ const Survey = () => {
                             <label>Do you feel Appetite Loss: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="AppetiteLoss" name="AppetiteLoss" onChange={(e)=>setAppetiteLoss(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="AppetiteLoss" name="AppetiteLoss" value="0" onChange={(e)=>setAppetiteLoss(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -594,8 +578,8 @@ const Survey = () => {
                             <label>Have you lost weight unintentionally: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="WeightLoss" name="WeightLoss" onChange={(e)=>setWeightLoss(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="WeightLoss" name="WeightLoss" value="0" onChange={(e)=>setWeightLoss(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -606,8 +590,8 @@ const Survey = () => {
                             <label>Do you get chills: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="Chills" name="Chills" onChange={(e)=>setChills(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="Chills" name="Chills" value="0" onChange={(e)=>setChills(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -619,8 +603,8 @@ const Survey = () => {
                             <label>Do you feel fatigued: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="Fatigue" name="Fatigue" onChange={(e)=>setFatigue(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="Fatigue" name="Fatigue" value="0" onChange={(e)=>setFatigue(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -631,8 +615,8 @@ const Survey = () => {
                             <label>Do you get Night Sweat: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="NightSweat" name="NightSweat" onChange={(e)=>setNightSweat(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="NightSweat" name="NightSweat" value="0" onChange={(e)=>setNightSweat(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -643,8 +627,8 @@ const Survey = () => {
                             <label>Did you cough out blood: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="CoughBlood" name="CoughBlood" onChange={(e)=>setCoughBlood(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="CoughBlood" name="CoughBlood" value="0" onChange={(e)=>setCoughBlood(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
@@ -655,8 +639,8 @@ const Survey = () => {
                             <label>Do you have fever: </label>
                         </div>
                         <div className="surveyinputcontainner">
-                            <select className="surveyinputbox" id="Fevers" name="Fevers" onChange={(e)=>setFevers(e.target.value)}>
-                                <option value="">Select Option</option>
+                            <select className="surveyinputbox" id="Fevers" name="Fevers" value="0" onChange={(e)=>setFevers(e.target.value)}>
+                                
                                 <option value="1">Yes</option>
                                 <option value="0">No</option>
                             </select>
