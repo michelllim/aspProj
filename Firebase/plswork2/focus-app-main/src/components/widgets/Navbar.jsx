@@ -62,7 +62,7 @@ const Navbar = () => {
                 <div>
                     <ul>
                         <Text className="pl-4 text-2xl mt-6 font-bold mb-12">
-                            Focus<span className="text-tertiary">Vest</span>
+                            TB<span className="text-tertiary">Kit</span>
                         </Text>
 
                         <NavLink

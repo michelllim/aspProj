@@ -1,0 +1,14 @@
+#Test Code
+import numpy as np
+from joblib import load
+import pandas as pd
+
+df = pd.read_csv("./dataset/tbpred.csv")
+
+# Get the feature names from the column headers
+feature_names = df.columns.tolist()
+print(feature_names)
+
+classifier = load('classifier.joblib')
+a = np.array([[1,24,0,4,1,0,0,1,1,1,1,3,0,0,1,1,0,1,0,0,0,34.8]])
+print(classifier.predict(a))
