@@ -8,7 +8,7 @@ const Survey = () => {
     const [Name, setName] = useState("");
     const [Gender, setGender] = useState(0);
     const [Age, setAge] = useState(0);
-    const [CountryofBirth, setCountryofBirth] = useState(0);
+    const [CountryofBirth, setCountryofBirth] = useState("Singapore");
     const [Smoking, setSmoking] = useState(0);
     const [Alcohol, setAlcohol] = useState(0);
     const [FamilyHistory, setFamilyHistory] = useState(0);
@@ -28,56 +28,20 @@ const Survey = () => {
     const [CoughBlood, setCoughBlood] = useState(0);
     const [Fevers, setFevers] = useState(0);
     const [NitricOxide, setNitricOxide] = useState(0);
-    
+
     const navigate = useNavigate();
-    /*
-    const addTodo = async (e) => {
-        e.preventDefault();  
 
+    const uuid = auth.currentUser.uid;
+
+    const addUserData = async (userdata) => {
         try {
-            const user = auth.currentUser
-            const userUID = user.uid;
-
-            const docRef = await addDoc(collection(db, userUID), {
-                Name: Name,
-                Gender: Gender,    
-                Age: Age,
-                CountryofBirth: CountryofBirth,
-                Smoking: Smoking,
-                Alcohol: Alcohol,
-                FamilyHistory: FamilyHistory,
-                CloseContact: CloseContact,
-                HealthConditions: HealthConditions,
-                OccupationalRisks: OccupationalRisks,
-                PhysicalActivity: PhysicalActivity,
-                Diet: Diet,
-                AirPollution: AirPollution,
-                LongTermCough: LongTermCough,
-                ChestPain: ChestPain,
-                AppetiteLoss: AppetiteLoss,
-                WeightLoss: WeightLoss,
-                Chills: Chills,
-                Fatigue: Fatigue,
-                NightSweat: NightSweat,
-                CoughBlood: CoughBlood,
-                Fevers: Fevers,
-                NitricOxide: NitricOxide
-            });
-            console.log("Document written with ID: ", docRef.id);
-          } catch (e) {
-            console.error("Error adding document: ", e);
-          }
-
-    }
-*/
-    const addUser = async (user) => {
-        try {
-        const docRef = await addDoc(collection(db, "users"), user);
-        console.log("Document written with ID: ", docRef.id);
+            const docRef = doc(db, "users", uuid); // Create a reference to the document with the specified UUID
+            await setDoc(docRef, userdata); // Set data for the specified document
+            console.log("Document written with ID: ", uuid); // Log the UUID of the document
         } catch (e) {
-        console.error("Error adding document: ", e);
-        }
-    };
+            console.error("Error adding document: ", e);
+        }
+    };
   
 
 
@@ -90,7 +54,7 @@ const Survey = () => {
         alert("Please fill in all required fields.")
         return;
     }
-      addUser({
+        addUserData({
               Name: Name,
               Gender: Gender,    
               Age: Age,
@@ -173,7 +137,6 @@ const Survey = () => {
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="country" name="country" onChange={(e)=>setCountryofBirth(e.target.value)}>
-                                <option value="">Select Option</option>
                                 <option value="Afghanistan">Afghanistan</option>
                                 <option value="Åland Islands">Åland Islands</option>
                                 <option value="Albania">Albania</option>
@@ -370,7 +333,7 @@ const Survey = () => {
                                 <option value="Serbia">Serbia</option>
                                 <option value="Seychelles">Seychelles</option>
                                 <option value="Sierra Leone">Sierra Leone</option>
-                                <option value="Singapore">Singapore</option>
+                                <option value="Singapore" selected>Singapore</option>
                                 <option value="Slovakia">Slovakia</option>
                                 <option value="Slovenia">Slovenia</option>
                                 <option value="Solomon Islands">Solomon Islands</option>
