@@ -14,9 +14,9 @@ const Navbar = () => {
     const [state, setState] = useState({
         left: false,
     });
-
+    
     const user = useSelector((state) => state.user.value);
-
+    
     const toggleDrawer = (anchor, open) => (event) => {
         if (
             event &&
@@ -158,7 +158,7 @@ const Navbar = () => {
                         ))}
                     </div>
                     <Text className="text-white font-bold text-xl">
-                        Welcome, <span> {user.displayName} </span>
+                        Welcome, <span> {user && user.displayName} </span>
                     </Text>
                 </div>
 
