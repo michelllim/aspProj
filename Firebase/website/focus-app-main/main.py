@@ -19,7 +19,7 @@ import firebase_admin
 from firebase_admin import credentials, firestore, auth
 import pandas as pd
 from joblib import load
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS,cross_origin
 
 
