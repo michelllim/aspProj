@@ -20,7 +20,7 @@ from firebase_admin import credentials, firestore, auth
 import pandas as pd
 import numpy as np
 from joblib import load
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify
 from flask_cors import CORS,cross_origin
 import sys
 
@@ -75,6 +75,7 @@ def save_predictions(user_id, tb_pred):
     doc_ref = db.collection('predictions').document(user_id)
     doc_ref.set(data)
     return jsonify({'message': 'Data saved successfully'})
+
 
 #Function to fetch prediction from Firestore
 def fetch_predictions(user_id):
