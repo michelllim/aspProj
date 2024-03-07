@@ -18,9 +18,11 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 import firebase_admin
 from firebase_admin import credentials, firestore, auth
 import pandas as pd
+import numpy as np
 from joblib import load
 from flask import Flask, request, jsonify
 from flask_cors import CORS,cross_origin
+import sys
 
 
 # ## 1 Connecting to Firebase Account
@@ -68,8 +70,8 @@ def receive_data_from_react():
 
 #Function to save user's prediction results to Firestore
 def save_predictions(user_id, tb_pred):
-    tb_pred=int(tb_pred[0])                
-    data={'tbpred':tb_pred}
+    tb_pred = round(float(tb_pred[0]), 2)  # Round to two decimal places
+    data = {'tbpred': tb_pred}
     doc_ref = db.collection('predictions').document(user_id)
     doc_ref.set(data)
     return jsonify({'message': 'Data saved successfully'})
@@ -127,8 +129,16 @@ def predict_tbpred(user_id):
     user_data = fetch_user_data(user_id)
     if user_data:
         processed_data = preprocess_user_data(user_data)
-        prediction = classifier.predict(processed_data)
-        return prediction
+        b = classifier.predict(processed_data)
+        c = classifier.predict_proba(processed_data)
+        prediction = np.zeros_like(b, dtype=float)
+
+        # Use numpy indexing to assign values based on the predicted classes
+        prediction[b == 0] = c[b == 0, 0]  # Assign the first value from c where b is 0
+        prediction[b == 1] = c[b == 1, 1]  # Assign the last value from c where b is 1
+        print(prediction)
+
+        return prediction*100
     else:
         return "User data not found"
 

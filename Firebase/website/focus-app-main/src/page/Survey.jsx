@@ -437,7 +437,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you have Health Condition: </label>
+                            <label>Do you have a health condition? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="healthconditions" name="healthconditions" onChange={(e)=>setHealthConditions(e.target.value)}>
@@ -449,7 +449,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Are you a service worker: </label>
+                            <label>Are you a service worker? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="occupationalrisks" name="occupationalrisks" onChange={(e)=>setOccupationalRisks(e.target.value)}>
@@ -461,7 +461,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Are you physically active: </label>
+                            <label>Are you physically active? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="physicalactivity" name="physicalactivity" onChange={(e)=>setPhysicalActivity(e.target.value)}>
@@ -476,7 +476,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Are you on a diet: </label>
+                            <label>Are you on a diet? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="diet" name="diet" onChange={(e)=>setDiet(e.target.value)}>
@@ -488,7 +488,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Are you constantly exposed to air pollution: </label>
+                            <label>Are you constantly exposed to air pollution? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="airpollution" name="airpollution" onChange={(e)=>setAirPollution(e.target.value)}>
@@ -503,7 +503,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Have you been coughing for the last 3 or more weeks: </label>
+                            <label>Have you been coughing for the last 3 or more weeks? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="LongTermCough" name="LongTermCough" onChange={(e)=>setLongTermCough(e.target.value)}>
@@ -515,7 +515,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you feel chest pain: </label>
+                            <label>Do you feel chest pain? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="ChestPain" name="ChestPain" onChange={(e)=>setChestPain(e.target.value)}>
@@ -527,7 +527,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you feel Appetite Loss: </label>
+                            <label>Do you have an appetite loss? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="AppetiteLoss" name="AppetiteLoss" onChange={(e)=>setAppetiteLoss(e.target.value)}>
@@ -539,7 +539,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Have you lost weight unintentionally: </label>
+                            <label>Have you lost weight unintentionally? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="WeightLoss" name="WeightLoss" onChange={(e)=>setWeightLoss(e.target.value)}>
@@ -551,7 +551,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you get chills: </label>
+                            <label>Do you get chills? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="Chills" name="Chills" onChange={(e)=>setChills(e.target.value)}>
@@ -564,7 +564,7 @@ const Survey = () => {
 
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you feel fatigued: </label>
+                            <label>Do you feel fatigued? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="Fatigue" name="Fatigue" onChange={(e)=>setFatigue(e.target.value)}>
@@ -576,7 +576,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you get Night Sweat: </label>
+                            <label>Do you get night sweats? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="NightSweat" name="NightSweat" onChange={(e)=>setNightSweat(e.target.value)}>
@@ -588,7 +588,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Did you cough out blood: </label>
+                            <label>Do you cough out blood? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="CoughBlood" name="CoughBlood" onChange={(e)=>setCoughBlood(e.target.value)}>
@@ -600,7 +600,7 @@ const Survey = () => {
                     </div>
                     <div className="surveycontainer">
                         <div className="surveylabelcontainer">
-                            <label>Do you have fever: </label>
+                            <label>Do you have fevers? </label>
                         </div>
                         <div className="surveyinputcontainner">
                             <select className="surveyinputbox" id="Fevers" name="Fevers" onChange={(e)=>setFevers(e.target.value)}>
