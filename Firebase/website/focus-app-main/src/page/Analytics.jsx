@@ -16,32 +16,6 @@ const Analytics = () => {
             return; // Return if user is not logged in
         }
 
-        /*const fetchData = () => {
-            const chartDataRef = ref(realtimedb, 'users/' + userId); // Reference to user's data
-            console.log("Chart Data Reference:", chartDataRef);
-            onValue(chartDataRef, (snapshot) => {
-                const userData = snapshot.val();
-                console.log("User Data:", userData);
-                const labels = [];
-                const psiValues = [];
-                
-                // Extract date and psi values
-                if (userData) {
-                    Object.values(userData).forEach(item => {
-                        labels.push(item.date);
-                        psiValues.push(item.psi);
-                    });
-                }
-
-                setData({ labels, psiValues });
-            });
-
-            return () => {
-                // Cleanup function to unsubscribe from the database
-                chartDataRef.off('value');
-            };
-        };*/
-
         const fetchData = () => {
             const chartDataRef = ref(realtimedb, 'users/' + userId); // Reference to user's data
             console.log("Chart Data Reference:", chartDataRef);
@@ -121,9 +95,6 @@ const Analytics = () => {
     return (
         <section className='h-screen flex items-center justify-center bg-gray-200'>
             <div>
-                <div>
-                    Dashboard
-                </div>
                 <div>
                     <canvas ref={chartContainer} width="1000" height="max" />
                 </div>

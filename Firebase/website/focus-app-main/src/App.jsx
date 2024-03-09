@@ -8,7 +8,8 @@ import Login from './page/Login';
 import Survey from './page/Survey';
 import Instructions from './page/Instructions';
 import Prediction from './page/Prediction';
-import Analytics from './page/Analytics'
+import Analytics from './page/Analytics';
+import NitricTest from './page/NitricTest';
 import { Routes, Route } from 'react-router-dom';
 // import Navbar from './components/widgets/Navbar';
 import Layout from './components/widgets/Layout';
@@ -76,6 +77,13 @@ function App() {
                   path="/analytics"
                   element={
                     < Analytics />
+                  }
+                />
+
+                <Route
+                  path="/nitrictest"
+                  element={
+                    < NitricTest />
                   }
                 />
 

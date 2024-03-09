@@ -27,7 +27,7 @@ const Survey = () => {
     const [NightSweat, setNightSweat] = useState(0);
     const [CoughBlood, setCoughBlood] = useState(0);
     const [Fevers, setFevers] = useState(0);
-    const [NitricOxide, setNitricOxide] = useState(0);
+    const [NitricOxide, setNitricOxide] = useState(20);
 
     const navigate = useNavigate();
 
