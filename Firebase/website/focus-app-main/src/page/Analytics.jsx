@@ -51,7 +51,7 @@ const Analytics = () => {
                 
                 if (userData) {
                     const labels = Object.values(userData.date || []);
-                    const psiValues = Object.values(userData.psi || []);
+                    const psiValues = Object.values(userData.psiD || []);
                     console.log("Labels:", labels);
                     console.log("Psi Values:", psiValues);
                     setData({ labels, psiValues });
