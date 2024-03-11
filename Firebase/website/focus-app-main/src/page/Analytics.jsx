@@ -49,8 +49,6 @@ const Analytics = () => {
                     const labels2 = Object.values(userData.scoreDate || []);
                     const score = Object.values(userData.score || []);
                     setData2({ labels2, score });
-                    console.log("labels2:", labels2);
-                    console.log("score:", score);
                 } else {
                     setData2({labels2:[], score: []});
                 }
