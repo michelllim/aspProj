@@ -9,7 +9,7 @@ module.exports = {
 // current nvbr #2d2d2d
   theme: {
     colors: {
-      'primary': '#ff9f1c',
+      'primary': '#AFD3E2',
       'white': '#fff',
       'secondary': '#3e3e3e',  
       'tertiary': '#2ec4b6',    

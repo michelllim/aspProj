@@ -49,7 +49,7 @@ const NitricTest = () => {
                 {isTimerRunning ? (
                     <div>
                         <div className='text-center mb-6 -ml-6 text-white text-xl'>
-                            Please Blow into the sensor
+                            Please blow into the sensor.
                         </div>
                         <CountdownCircleTimer
                             isPlaying
@@ -65,15 +65,21 @@ const NitricTest = () => {
                     <div className="h-60 w-60 bg-white drop-shadow-xl rounded-3xl flex flex-col justify-between">
                         <div className='text-3xl font-bold text-center mt-20'>FeNo: {feNoValue}ppb</div>
                         <div className="text-center">
-                            <button className="bg-blue-400 font-bold py-2 px-4 rounded mb-8" onClick={handleComplete}>
-                                Click here to see your result
+                            <button className="bg-blue-400 py-2 px-4 rounded mb-8" onClick={handleComplete}>
+                                Click here to see your result.
                             </button>
                         </div>
                     </div>
                 ) : (
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white text-3xl font-bold py-2 px-4 rounded" onClick={handleStartTimer}>
-                        Press to Start test for Exhaled Nitric Oxide Level in Breathe
-                    </button>
+                        <div className="bg-white p-10 rounded-lg shadow-2xl"> {/* Increased padding and shadow */}
+                            <button 
+                                className="bg-white hover:bg-blue-200 text-blue-600 text-4xl font-bold py-4 px-8 rounded-lg" 
+                                onClick={handleStartTimer}
+                            >
+                                Press to start test!
+                            </button>
+                        </div>
+
                 )}
             </div>
         </div>

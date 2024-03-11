@@ -130,13 +130,16 @@ def predict_tbpred(user_id):
     user_data = fetch_user_data(user_id)
     if user_data:
         processed_data = preprocess_user_data(user_data)
-        b = classifier.predict(processed_data)
+        # b = classifier.predict(processed_data)
         c = classifier.predict_proba(processed_data)
-        prediction = np.zeros_like(b, dtype=float)
+        # prediction = np.zeros_like(b, dtype=float)
 
-        # Use numpy indexing to assign values based on the predicted classes
-        prediction[b == 0] = c[b == 0, 0]  # Assign the first value from c where b is 0
-        prediction[b == 1] = c[b == 1, 1]  # Assign the last value from c where b is 1
+        # # Use numpy indexing to assign values based on the predicted classes
+        # prediction[b == 0] = c[b == 0, 0]  # Assign the first value from c where b is 0
+        # prediction[b == 1] = c[b == 1, 1]  # Assign the last value from c where b is 1
+
+        prediction = c[:, 1]  #second column is 'true' probabilities
+
         print(prediction)
 
         return prediction*100

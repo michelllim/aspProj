@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { collection, addDoc, getDocs, setDoc, doc } from "firebase/firestore";
 import { db, auth } from "../firebase";
 import { useNavigate } from 'react-router-dom';
+import NitricTest from "./NitricTest";
 
 const Survey = () => {
     const [Name, setName] = useState("");
@@ -79,7 +80,7 @@ const Survey = () => {
               Fevers: Fevers,
               NitricOxide: NitricOxide
           });
-          navigate("/instructions")
+          navigate("/NitricTest")
     }
   
 

@@ -109,7 +109,7 @@ body {
 .btn-large {
   padding: 12px 24px;
   font-size: 1.25rem;
-  background-color: #2ec4b6; /* Button background color */
+  background-color: #457b9d; /* Button background color */
   color: #ffffff; /* Text color */
   border-radius: 8px; /* Rounded corners */
   border: 2px solid #ffffff; /* Example: 2px solid border with color #333 */
@@ -118,7 +118,7 @@ body {
 }
 
 .btn-large:hover {
-  background-color: #31ada1; /* Slightly darker shade of the original color for hover effect */
+  background-color: #a8dadc; /* Slightly darker shade of the original color for hover effect */
   border-color: #efeff9; /* Optional: Change the border color on hover */
 }
 
@@ -144,6 +144,8 @@ body {
   max-width: 200px;
   margin-right: 10px;
   text-align: right;
+  color: white;
+  font-size: 1rem;
 }
 .surveyinputcontainner{
   flex: 1;
@@ -156,12 +158,19 @@ body {
 .surveybuttoncontainer{
   text-align: center;
 }
-.surveybutton{
-  color: white;
-  margin-top: 20px;
-  margin-bottom: 200px;
-  background-color: teal;
-  width: 70px;
-  height: 30px;
-  border-radius: 30px;
+
+.surveybutton {
+  padding: 8px 16px; /* Smaller padding */
+  font-size: 1rem; /* Smaller font size */
+  background-color: #457b9d;
+  color: #ffffff;
+  border-radius: 4px; /* Smaller rounded corners */
+  border: 1px solid #ffffff; /* Thinner border */
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.surveybutton:hover {
+  background-color: #a8dadc; /* Slightly darker shade of the original color for hover effect */
+  border-color: #efeff9; /* Optional: Change the border color on hover */
 }

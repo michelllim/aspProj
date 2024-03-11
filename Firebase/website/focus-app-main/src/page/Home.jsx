@@ -44,31 +44,31 @@ const Home = () => {
     }, [dispatch, user.uid])
 
     return (
-        <section className=" pt-10 pb-24 px-3 md:pt-10 md:pb-20">
-          <div className="flex container w-full justify-start">
-            {/* Image on the left */}
-            <img className="custom-image" src="/tbkit.jpg" alt="TB Kit" />
-            
-            {/* Content on the right, including the Card component for the text */}
-            <Card className="card-container">
-              <Text className="font-bold text-2xl text-center mb-4">
-                TB Pre-Diagnosis & Post-Recovery Kit
-              </Text>
-              {/* Additional content here */}
-              <Text className="text-lg text-center mb-4"> Our project will help to solve the problem of diagnosing TB at home and making spirometry more meaningful and effective.</Text>
-            </Card>
+      <section className="flex flex-col items-center justify-center min-h-screen py-20 px-5 md:px-10">
+          <div className="flex flex-col md:flex-row items-center justify-center gap-12 max-w-7xl">
+              {/* Image on the left or top on smaller screens */}
+              <img className="w-full md:w-3/5 xl:w-1/2" src="/tbkit.jpg" alt="TB Kit" />
+    
+              {/* Content on the right or bottom on smaller screens */}
+              <div className="card-container max-w-xl text-center">
+                  <h2 className="font-bold text-4xl mb-6">
+                      TB Pre-Diagnosis & Post-Recovery Kit
+                  </h2>
+                  <p className="text-xl mb-6">
+                      Our project will help to solve the problem of diagnosing TB at home and making spirometry more meaningful and effective.
+                  </p>
+                  {/* Additional content here */}
+              </div>
           </div>
-
-            <section className=" pt-10 pb-24 px-3 md:px-0">
-                <div className="flex justify-between items-center max-w-6xl mx-auto w-full">
-                    {/* Assuming Button is a styled component or a component from a library like Material-UI/React Bootstrap */}
-                    <button className="btn-large" onClick={() => navigate("/survey")}>Test TB</button>
-                    <button className="btn-large" onClick={() => navigate("/instructions")}>Rehabilitation</button>
-                </div>
-            </section>
-
-        </section>
-      );
+    
+          <div className="mt-12 flex flex-wrap justify-center gap-6">
+              <button className="btn-large bg-blue-500 hover:bg-blue-600 text-white text-2xl font-bold py-4 px-8 rounded" onClick={() => navigate("/survey")}>Test TB</button>
+              <button className="btn-large bg-blue-500 hover:bg-blue-600 text-white text-2xl font-bold py-4 px-8 rounded" onClick={() => navigate("/instructions")}>Rehabilitation</button>
+          </div>
+      </section>
+    );
+    
+  
 }
 export default Home
 
