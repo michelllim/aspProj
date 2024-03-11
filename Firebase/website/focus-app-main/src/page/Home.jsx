@@ -62,8 +62,8 @@ const Home = () => {
           </div>
     
           <div className="mt-12 flex flex-wrap justify-center gap-6">
-              <button className="btn-large bg-blue-500 hover:bg-blue-600 text-white text-2xl font-bold py-4 px-8 rounded" onClick={() => navigate("/survey")}>Test TB</button>
-              <button className="btn-large bg-blue-500 hover:bg-blue-600 text-white text-2xl font-bold py-4 px-8 rounded" onClick={() => navigate("/instructions")}>Rehabilitation</button>
+              <button className="btn-large  text-white text-2xl font-bold py-4 px-8 rounded" onClick={() => navigate("/survey")}>Test TB</button>
+              <button className="btn-large text-white text-2xl font-bold py-4 px-8 rounded" onClick={() => navigate("/instructions")}>Rehabilitation</button>
           </div>
       </section>
     );

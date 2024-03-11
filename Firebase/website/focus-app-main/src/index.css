@@ -109,7 +109,7 @@ body {
 .btn-large {
   padding: 12px 24px;
   font-size: 1.25rem;
-  background-color: #457b9d; /* Button background color */
+  background-color: #378CE7; /* Button background color */
   color: #ffffff; /* Text color */
   border-radius: 8px; /* Rounded corners */
   border: 2px solid #ffffff; /* Example: 2px solid border with color #333 */
@@ -118,7 +118,7 @@ body {
 }
 
 .btn-large:hover {
-  background-color: #a8dadc; /* Slightly darker shade of the original color for hover effect */
+  background-color: #5356FF; /* Slightly darker shade of the original color for hover effect */
   border-color: #efeff9; /* Optional: Change the border color on hover */
 }
 
@@ -162,7 +162,7 @@ body {
 .surveybutton {
   padding: 8px 16px; /* Smaller padding */
   font-size: 1rem; /* Smaller font size */
-  background-color: #457b9d;
+  background-color: #378CE7;
   color: #ffffff;
   border-radius: 4px; /* Smaller rounded corners */
   border: 1px solid #ffffff; /* Thinner border */
@@ -171,6 +171,10 @@ body {
 }
 
 .surveybutton:hover {
-  background-color: #a8dadc; /* Slightly darker shade of the original color for hover effect */
+  background-color: #5356FF; /* Slightly darker shade of the original color for hover effect */
   border-color: #efeff9; /* Optional: Change the border color on hover */
+}
+
+.hover-bg-custom:hover {
+  background-color: #5356FF;
 }

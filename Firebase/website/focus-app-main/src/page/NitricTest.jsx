@@ -65,14 +65,14 @@ const NitricTest = () => {
                     <div className="h-60 w-60 bg-white drop-shadow-xl rounded-3xl flex flex-col justify-between">
                         <div className='text-3xl font-bold text-center mt-20'>FeNo: {feNoValue}ppb</div>
                         <div className="text-center">
-                            <button className="bg-blue-400 py-2 px-4 rounded mb-8" onClick={handleComplete}>
+                            <button className="hover-bg-custom py-2 px-4 rounded mb-8" onClick={handleComplete}>
                                 Click here to see your result.
                             </button>
                         </div>
                     </div>
                 ) : (
                     <button 
-                        className="bg-white p-10 shadow-2xl hover:bg-blue-200 text-black text-4xl font-bold rounded-lg" 
+                        className="bg-white p-10 shadow-2xl hover-bg-custom text-black text-4xl font-bold rounded-lg" 
                         onClick={handleStartTimer}
                     >
                         Press to start test!
