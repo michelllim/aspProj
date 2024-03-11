@@ -44,7 +44,7 @@ const Home = () => {
     }, [dispatch, user.uid])
 
     return (
-      <section className="flex flex-col items-center justify-center min-h-screen py-20 px-5 md:px-10">
+      <section className="main-height flex flex-col items-center justify-center py-20 px-5 md:px-10">
           <div className="flex flex-col md:flex-row items-center justify-center gap-12 max-w-7xl">
               {/* Image on the left or top on smaller screens */}
               <img className="w-full md:w-3/5 xl:w-1/2" src="/tbkit.jpg" alt="TB Kit" />

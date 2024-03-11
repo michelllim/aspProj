@@ -44,11 +44,11 @@ const NitricTest = () => {
 
 
     return (
-        <div className="flex justify-center items-center h-screen">
+        <div className="main-height flex flex-col justify-center items-center">
             <div className="relative">
                 {isTimerRunning ? (
                     <div>
-                        <div className='text-center mb-6 -ml-6 text-white text-xl'>
+                        <div className='text-center mb-6 -ml-6 text-black text-xl'>
                             Please blow into the sensor.
                         </div>
                         <CountdownCircleTimer

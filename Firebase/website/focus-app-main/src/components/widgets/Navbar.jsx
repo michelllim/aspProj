@@ -148,7 +148,7 @@ const Navbar = () => {
 
 
     return (
-        <>
+        <div className='header-height'>
 
             <nav className="flex justify-between px-3 pt-8">
                 <div className='flex items-center space-x-2'>
@@ -194,7 +194,7 @@ const Navbar = () => {
 
 
             </nav>
-        </>
+        </div>
     )
 }
 

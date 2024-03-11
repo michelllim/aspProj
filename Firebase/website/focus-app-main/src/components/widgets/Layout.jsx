@@ -4,7 +4,7 @@ import Sidebar from './Sidebar';
 
 const Layout = ({ children }) => {
     return (
-        <section className="relative">
+        <div className="relative ">
             <div className="fixed top-0 left-0 h-screen bg-sidebar md:w-72">
                 < Sidebar />
             </div>
@@ -12,9 +12,9 @@ const Layout = ({ children }) => {
 
             <div className="md:pl-80 md:pr-4">
                 <Navbar />
-                <Outlet />
+                <Outlet />  
             </div>
-        </section>
+        </div>
     )
 }
 

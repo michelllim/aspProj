@@ -192,7 +192,7 @@ const Analytics = () => {
         }
     };
     return (
-        <section className='h-screen flex items-center justify-center'>
+        <section className='main-height flex items-center justify-center'>
             <div className="w-screen max-w-screen-lg">
                 <div className='bg-gray-50 rounded-3xl border-4 mb-6'>
                     <div>
