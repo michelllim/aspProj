@@ -2,7 +2,7 @@ import React from 'react';
 
 const Instructions = () => {
   return (
-    <section className='h-screen flex flex-col items-center justify-start pt-10 bg-gray-200'>
+    <section className='h-screen flex flex-col items-center justify-start pt-10'>
       {/* TB Test Section */}
       <div className='w-full max-w-6xl mx-auto'>
         <h2 className='text-5xl font-bold text-white mb-6 text-left'>TB Test</h2> {/* Ensured left alignment */}

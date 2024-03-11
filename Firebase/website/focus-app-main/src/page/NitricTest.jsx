@@ -71,14 +71,13 @@ const NitricTest = () => {
                         </div>
                     </div>
                 ) : (
-                        <div className="bg-white p-10 rounded-lg shadow-2xl"> {/* Increased padding and shadow */}
-                            <button 
-                                className="bg-white hover:bg-blue-200 text-blue-600 text-4xl font-bold py-4 px-8 rounded-lg" 
-                                onClick={handleStartTimer}
-                            >
-                                Press to start test!
-                            </button>
-                        </div>
+                    <button 
+                        className="bg-white p-10 shadow-2xl hover:bg-blue-200 text-black text-4xl font-bold rounded-lg" 
+                        onClick={handleStartTimer}
+                    >
+                        Press to start test!
+                    </button>
+                        
 
                 )}
             </div>
