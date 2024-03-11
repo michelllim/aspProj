@@ -47,15 +47,20 @@ const NitricTest = () => {
         <div className="flex justify-center items-center h-screen">
             <div className="relative">
                 {isTimerRunning ? (
-                    <CountdownCircleTimer
-                        isPlaying
-                        duration={1}
-                        colors={['#004777', '#A30000', '#A30000', '#A30000']}
-                        colorsTime={[7, 5, 2, 0]}
-                        onComplete={handleTimerComplete}
-                    >
-                        {({ remainingTime }) => remainingTime}
-                    </CountdownCircleTimer>
+                    <div>
+                        <div className='text-center mb-6 -ml-6 text-white text-xl'>
+                            Please Blow into the sensor
+                        </div>
+                        <CountdownCircleTimer
+                            isPlaying
+                            duration={8}
+                            colors={['#004777', '#A30000', '#A30000', '#A30000']}
+                            colorsTime={[7, 5, 2, 0]}
+                            onComplete={handleTimerComplete}
+                        >
+                            {({ remainingTime }) => remainingTime}
+                        </CountdownCircleTimer>
+                    </div>
                 ) : timerCompleted ? (
                     <div className="h-60 w-60 bg-white drop-shadow-xl rounded-3xl flex flex-col justify-between">
                         <div className='text-3xl font-bold text-center mt-20'>FeNo: {feNoValue}ppb</div>
