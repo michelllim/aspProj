@@ -63,7 +63,7 @@ const NitricTest = () => {
                     </div>
                 ) : timerCompleted ? (
                     <div className="h-60 w-60 bg-white drop-shadow-xl rounded-3xl flex flex-col justify-between">
-                        <div className='text-3xl font-bold text-center mt-20'>FeNo: {feNoValue}ppb</div>
+                        <div className='text-3xl font-bold text-center mt-20'>FeNo: {feNoValue} ppb</div>
                         <div className="text-center">
                             <button className="hover-bg-custom py-2 px-4 rounded mb-8" onClick={handleComplete}>
                                 Click here to see your result.
