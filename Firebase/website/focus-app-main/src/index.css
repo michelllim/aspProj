@@ -177,4 +177,5 @@ body {
 
 .hover-bg-custom:hover {
   background-color: #5356FF;
+  color: white;
 }
