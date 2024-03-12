@@ -53,9 +53,9 @@ const NitricTest = () => {
                         </div>
                         <CountdownCircleTimer
                             isPlaying
-                            duration={8}
-                            colors={['#004777', '#A30000', '#A30000', '#A30000']}
-                            colorsTime={[7, 5, 2, 0]}
+                            duration={6}
+                            colors={['#004777', '#A30000', '#A30000']}
+                            colorsTime={[ 5, 2, 0]}
                             onComplete={handleTimerComplete}
                         >
                             {({ remainingTime }) => remainingTime}
